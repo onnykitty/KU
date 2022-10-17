@@ -1,1709 +1,423 @@
-#EXTM3U
-#EXTINF:0, ITV Central West
-http://87.212.248.44:60130/play/a08p
-#EXTINF:0, ITV Central West
-http://86.89.104.199:60130/play/a08p
-#EXTINF:0, ITV Central West
-http://62.131.92.221:60130/play/a08p
-#EXTINF:0,4Music
-http://87.212.248.44:60330/play/a041
-#EXTINF:0,4Music
-http://62.131.92.221:60330/play/a041
-#EXTINF:0,4Music
-http://86.89.104.199:60330/play/a041
-#EXTINF:0,4seven
-http://87.212.248.44:60230/play/a04t/index.m3u8
-#EXTINF:0,4seven
-http://86.89.104.199:60230/play/a04t/index.m3u8
-#EXTINF:0,4seven
-http://62.131.92.221:60230/play/a04t/index.m3u8
-#EXTINF:0,5 USA
-http://86.89.104.199:60330/play/a037
-#EXTINF:0,5 USA
-http://87.212.248.44:60330/play/a037
-#EXTINF:0,5 USA
-http://185.234.217.22:8012/play/a051/index.m3u8
-#EXTINF:0,5 USA
-http://185.234.217.19:8012/play/a04y/index.m3u8
-#EXTINF:0,5 USA
-http://62.131.92.221:60330/play/a037
-#EXTINF:0,5ACTION
-http://185.234.217.22:8012/play/a058/index.m3u8
-#EXTINF:0,5ACTION
-http://185.234.217.19:8012/play/a055/index.m3u8
-#EXTINF:0,5SELECT
-http://62.131.92.221:60330/play/a039
-#EXTINF:0,5SELECT
-http://185.234.217.22:8012/play/a054/index.m3u8
-#EXTINF:0,5SELECT
-http://86.89.104.199:60330/play/a039
-#EXTINF:0,5SELECT
-http://185.234.217.19:8012/play/a051/index.m3u8
-#EXTINF:0,5SELECT
-http://87.212.248.44:60330/play/a039
-#EXTINF:0,5STAR
-http://185.234.217.22:8012/play/a053/index.m3u8
-#EXTINF:0,5STAR
-http://185.234.217.19:8012/play/a050/index.m3u8
-#EXTINF:0,5STAR
-http://87.212.248.44:60330/play/a038
-#EXTINF:0,5STAR
-http://86.89.104.199:60330/play/a038
-#EXTINF:0,5STAR
-http://62.131.92.221:60330/play/a038
-#EXTINF:0,5STAR+1
-http://185.234.217.19:8012/play/a052/index.m3u8
-#EXTINF:0,5STAR+1
-http://185.234.217.22:8012/play/a055/index.m3u8
-#EXTINF:0,5STAR+1
-http://62.131.92.221:60330/play/a05g
-#EXTINF:0,5STAR+1
-http://86.89.104.199:60330/play/a05g
-#EXTINF:0,5STAR+1
-http://87.212.248.44:60330/play/a05g
-#EXTINF:0,5USA+1
-http://86.89.104.199:60330/play/a07l
-#EXTINF:0,5USA+1
-http://185.234.217.19:8012/play/a04z/index.m3u8
-#EXTINF:0,5USA+1
-http://87.212.248.44:60330/play/a07l
-#EXTINF:0,5USA+1
-http://62.131.92.221:60330/play/a07l
-#EXTINF:0,5USA+1
-http://185.234.217.22:8012/play/a052/index.m3u8
-#EXTINF:0,alibi
-http://62.131.92.221:60650/play/a04s/index.m3u8
-#EXTINF:0,alibi
-http://86.89.104.199:60450/play/a089/index.m3u8
-#EXTINF:0,alibi
-http://87.212.248.44:60530/play/a083
-#EXTINF:0,alibi
-http://87.212.248.44:60650/play/a04s/index.m3u8
-#EXTINF:0,alibi
-http://62.131.92.221:60450/play/a089/index.m3u8
-#EXTINF:0,alibi
-http://62.131.92.221:60530/play/a083
-#EXTINF:0,alibi
-http://87.212.248.44:60450/play/a089/index.m3u8
-#EXTINF:0,alibi
-http://86.89.104.199:60650/play/a04s/index.m3u8
-#EXTINF:0,alibi
-http://86.89.104.199:60530/play/a083
-#EXTINF:0,alibi+1
-http://86.89.104.199:60650/play/a04z/index.m3u8
-#EXTINF:0,alibi+1
-http://62.131.92.221:60650/play/a04z/index.m3u8
-#EXTINF:0,alibi+1
-http://87.212.248.44:60650/play/a04z/index.m3u8
-#EXTINF:0,Animal Planet
-http://87.212.248.44:60150/play/a0b3/index.m3u8
-#EXTINF:28,Animal Planet
-http://62.131.92.221:60150/play/a0b3/index.m3u8
-#EXTINF:0,Animal Planet
-http://86.89.104.199:60150/play/a0b3/index.m3u8
-#EXTINF:0,Animal Plnt+1
-http://87.212.248.44:60130/play/a04p
-#EXTINF:0,Animal Plnt+1
-http://62.131.92.221:60130/play/a04p
-#EXTINF:0,Animal Plnt+1
-http://86.89.104.199:60130/play/a04p
-#EXTINF:0,BBC ALBA
-http://62.131.92.221:60330/play/a078
-#EXTINF:0,BBC ALBA
-http://87.212.248.44:60330/play/a078
-#EXTINF:0,BBC ALBA
-http://86.89.104.199:60330/play/a078
-#EXTINF:0,BBC Four HD
-http://87.212.248.44:60330/play/a05k
-#EXTINF:0,BBC Four HD
-http://62.131.92.221:60330/play/a05k
-#EXTINF:0,BBC Four HD
-http://86.89.104.199:60330/play/a05k
-#EXTINF:0,BBC NEWS
-http://87.212.248.44:60230/play/a04n/index.m3u8
-#EXTINF:0,BBC NEWS
-http://86.89.104.199:60230/play/a04n/index.m3u8
-#EXTINF:0,BBC NEWS
-http://62.131.92.221:60230/play/a04n/index.m3u8
-#EXTINF:0,BBC NEWS HD
-http://86.89.104.199:60330/play/a03e
-#EXTINF:0,BBC NEWS HD
-http://62.131.92.221:60330/play/a03e
-#EXTINF:0,BBC NEWS HD
-http://87.212.248.44:60330/play/a03e
-#EXTINF:0,BBC One CI
-http://87.212.248.44:60330/play/a07i
-#EXTINF:0,BBC One CI
-http://86.89.104.199:60330/play/a07i
-#EXTINF:0,BBC One CI
-http://62.131.92.221:60330/play/a07i
-#EXTINF:0,BBC One E Mid
-http://86.89.104.199:60230/play/a04e/index.m3u8
-#EXTINF:0,BBC One E Mid
-http://87.212.248.44:60230/play/a04e/index.m3u8
-#EXTINF:0,BBC One E Mid
-http://62.131.92.221:60230/play/a04e/index.m3u8
-#EXTINF:0,BBC One East E
-http://62.131.92.221:60230/play/a04f/index.m3u8
-#EXTINF:0,BBC One East E
-http://87.212.248.44:60230/play/a04f/index.m3u8
-#EXTINF:0,BBC One East E
-http://86.89.104.199:60230/play/a04f/index.m3u8
-#EXTINF:0,BBC One East W
-http://62.131.92.221:60330/play/a07h
-#EXTINF:0,BBC One East W
-http://87.212.248.44:60330/play/a07h
-#EXTINF:0,BBC One East W
-http://86.89.104.199:60330/play/a07h
-#EXTINF:0,BBC One HD
-http://86.89.104.199:60130/play/a05n
-#EXTINF:0,BBC One HD
-http://62.131.92.221:60130/play/a05n
-#EXTINF:0,BBC One HD
-http://87.212.248.44:60130/play/a05n
-#EXTINF:0,BBC One Lon
-http://86.89.104.199:60330/play/a032
-#EXTINF:0,BBC One Lon
-http://87.212.248.44:60330/play/a032
-#EXTINF:0,BBC One Lon
-http://62.131.92.221:60330/play/a032
-#EXTINF:0,BBC One N West
-http://86.89.104.199:60330/play/a079
-#EXTINF:0,BBC One N West
-http://62.131.92.221:60330/play/a079
-#EXTINF:0,BBC One N West
-http://87.212.248.44:60330/play/a079
-#EXTINF:0,BBC One NE&C
-http://86.89.104.199:60330/play/a07d
-#EXTINF:0,BBC One NE&C
-http://87.212.248.44:60330/play/a07d
-#EXTINF:0,BBC One NE&C
-http://62.131.92.221:60330/play/a07d
-#EXTINF:0,BBC One NI
-http://87.212.248.44:60230/play/a06z/index.m3u8
-#EXTINF:0,BBC One NI
-http://86.89.104.199:60230/play/a06z/index.m3u8
-#EXTINF:0,BBC One NI
-http://62.131.92.221:60230/play/a06z/index.m3u8
-#EXTINF:0,BBC One NI HD
-http://87.212.248.44:60130/play/a05o
-#EXTINF:0,BBC One NI HD
-http://62.131.92.221:60130/play/a05o
-#EXTINF:0,BBC One NI HD
-http://86.89.104.199:60130/play/a05o
-#EXTINF:0,BBC One Oxford
-http://86.89.104.199:60230/play/a04m/index.m3u8
-#EXTINF:0,BBC One Oxford
-http://62.131.92.221:60230/play/a04m/index.m3u8
-#EXTINF:0,BBC One Oxford
-http://87.212.248.44:60230/play/a04m/index.m3u8
-#EXTINF:0,BBC One S East
-http://86.89.104.199:60330/play/a07b
-#EXTINF:0,BBC One S East
-http://62.131.92.221:60330/play/a07b
-#EXTINF:0,BBC One S East
-http://87.212.248.44:60330/play/a07b
-#EXTINF:0,BBC One S West
-http://86.89.104.199:60230/play/a04l/index.m3u8
-#EXTINF:0,BBC One S West
-http://87.212.248.44:60230/play/a04l/index.m3u8
-#EXTINF:0,BBC One S West
-http://62.131.92.221:60230/play/a04l/index.m3u8
-#EXTINF:0,BBC One Scot
-http://87.212.248.44:60330/play/a077
-#EXTINF:0,BBC One Scot
-http://62.131.92.221:60330/play/a077
-#EXTINF:0,BBC One Scot
-http://86.89.104.199:60330/play/a077
-#EXTINF:0,BBC One ScotHD
-http://62.131.92.221:60330/play/a03c
-#EXTINF:0,BBC One ScotHD
-http://86.89.104.199:60330/play/a03c
-#EXTINF:0,BBC One ScotHD
-http://87.212.248.44:60330/play/a03c
-#EXTINF:0,BBC One South
-http://62.131.92.221:60230/play/a04k/index.m3u8
-#EXTINF:0,BBC One South
-http://86.89.104.199:60230/play/a04k/index.m3u8
-#EXTINF:0,BBC One South
-http://87.212.248.44:60230/play/a04k/index.m3u8
-#EXTINF:0,BBC One W Mid
-http://87.212.248.44:60230/play/a04c/index.m3u8
-#EXTINF:0,BBC One W Mid
-http://86.89.104.199:60230/play/a04c/index.m3u8
-#EXTINF:0,BBC One W Mid
-http://62.131.92.221:60230/play/a04c/index.m3u8
-#EXTINF:0,BBC One Wal HD
-http://87.212.248.44:60330/play/a03d
-#EXTINF:0,BBC One Wal HD
-http://86.89.104.199:60330/play/a03d
-#EXTINF:0,BBC One Wal HD
-http://62.131.92.221:60330/play/a03d
-#EXTINF:0,BBC One Wales
-http://87.212.248.44:60230/play/a04h/index.m3u8
-#EXTINF:0,BBC One Wales
-http://86.89.104.199:60230/play/a04h/index.m3u8
-#EXTINF:0,BBC One Wales
-http://62.131.92.221:60230/play/a04h/index.m3u8
-#EXTINF:0,BBC One West
-http://62.131.92.221:60330/play/a07g
-#EXTINF:0,BBC One West
-http://87.212.248.44:60330/play/a07g
-#EXTINF:0,BBC One West
-http://86.89.104.199:60330/play/a07g
-#EXTINF:0,BBC One Yk&Li
-http://86.89.104.199:60230/play/a04d/index.m3u8
-#EXTINF:0,BBC One Yk&Li
-http://87.212.248.44:60230/play/a04d/index.m3u8
-#EXTINF:0,BBC One Yk&Li
-http://62.131.92.221:60230/play/a04d/index.m3u8
-#EXTINF:0,BBC One Yorks
-http://87.212.248.44:60330/play/a07a
-#EXTINF:0,BBC One Yorks
-http://62.131.92.221:60330/play/a07a
-#EXTINF:0,BBC One Yorks
-http://86.89.104.199:60330/play/a07a
-#EXTINF:0,BBC Parliament
-http://87.212.248.44:60230/play/a04g/index.m3u8
-#EXTINF:0,BBC Parliament
-http://62.131.92.221:60230/play/a04g/index.m3u8
-#EXTINF:0,BBC Parliament
-http://86.89.104.199:60230/play/a04g/index.m3u8
-#EXTINF:0,BBC RB 1
-http://86.89.104.199:60330/play/a07j
-#EXTINF:0,BBC RB 1
-http://87.212.248.44:60330/play/a07j
-#EXTINF:0,BBC RB 1
-http://62.131.92.221:60330/play/a07j
-#EXTINF:0,BBC RLondon
-http://86.89.104.199:60330/play/a07c
-#EXTINF:0,BBC RLondon
-http://87.212.248.44:60330/play/a07c
-#EXTINF:0,BBC RLondon
-http://62.131.92.221:60330/play/a07c
-#EXTINF:0,BBC Scotland
-http://87.212.248.44:60330/play/a076
-#EXTINF:0,BBC Scotland
-http://86.89.104.199:60330/play/a076
-#EXTINF:0,BBC Scotland
-http://62.131.92.221:60330/play/a076
-#EXTINF:0,BBC Two
-http://62.131.92.221:60330/play/a033
-#EXTINF:0,BBC Two
-http://86.89.104.199:60330/play/a033
-#EXTINF:0,BBC Two
-http://87.212.248.44:60330/play/a033
-#EXTINF:0,BBC Two HD
-http://87.212.248.44:60130/play/a05q
-#EXTINF:0,BBC Two HD
-http://86.89.104.199:60130/play/a05q
-#EXTINF:0,BBC Two HD
-http://62.131.92.221:60130/play/a05q
-#EXTINF:0,BBC Two NI
-http://86.89.104.199:60230/play/a070/index.m3u8
-#EXTINF:0,BBC Two NI
-http://62.131.92.221:60230/play/a070/index.m3u8
-#EXTINF:0,BBC Two NI
-http://87.212.248.44:60230/play/a070/index.m3u8
-#EXTINF:0,BBC Two Wal HD
-http://62.131.92.221:60130/play/a05l
-#EXTINF:0,BBC Two Wal HD
-http://87.212.248.44:60130/play/a05l
-#EXTINF:0,BBC Two Wal HD
-http://86.89.104.199:60130/play/a05l
-#EXTINF:0,BBC Two Wales
-http://62.131.92.221:60230/play/a04i/index.m3u8
-#EXTINF:0,BBC Two Wales
-http://86.89.104.199:60230/play/a04i/index.m3u8
-#EXTINF:0,BBC Two Wales
-http://87.212.248.44:60230/play/a04i/index.m3u8
-#EXTINF:0,BBCScotlandHD
-http://62.131.92.221:60330/play/a03f
-#EXTINF:0,BBCScotlandHD
-http://86.89.104.199:60330/play/a03f
-#EXTINF:0,BBCScotlandHD
-http://87.212.248.44:60330/play/a03f
-#EXTINF:0,BLAZE
-http://86.89.104.199:60450/play/a08b/index.m3u8
-#EXTINF:0,BLAZE
-http://87.212.248.44:60450/play/a08b/index.m3u8
-#EXTINF:0,BLAZE
-http://62.131.92.221:60530/play/a084
-#EXTINF:0,BLAZE
-http://62.131.92.221:60450/play/a08b/index.m3u8
-#EXTINF:0,BLAZE
-http://86.89.104.199:60530/play/a084
-#EXTINF:0,BLAZE
-http://87.212.248.44:60530/play/a084
-#EXTINF:0,Bloomberg HD
-http://87.212.248.44:60130/play/a04k
-#EXTINF:0,Bloomberg HD
-http://62.131.92.221:60130/play/a04k
-#EXTINF:0,Bloomberg HD
-http://86.89.104.199:60130/play/a04k
-#EXTINF:0,Boomerang
-http://86.89.104.199:60330/play/a03w
-#EXTINF:0,Boomerang
-http://62.131.92.221:60330/play/a03w
-#EXTINF:0,Boomerang
-http://87.212.248.44:60330/play/a03w
-#EXTINF:0,Boomerang+1
-http://87.212.248.44:60330/play/a05o
-#EXTINF:0,Boomerang+1
-http://86.89.104.199:60330/play/a05o
-#EXTINF:0,Boomerang+1
-http://62.131.92.221:60330/play/a05o
-#EXTINF:0,Box Hits
-http://87.212.248.44:60330/play/a044
-#EXTINF:0,Box Hits
-http://86.89.104.199:60330/play/a044
-#EXTINF:0,Box Hits
-http://62.131.92.221:60330/play/a044
-#EXTINF:0,BT Sport 1
-http://87.212.248.44:60230/play/a04x/index.m3u8
-#EXTINF:0,BT Sport 1
-http://62.131.92.221:60230/play/a04x/index.m3u8
-#EXTINF:0,BT Sport 1
-http://86.89.104.199:60230/play/a04x/index.m3u8
-#EXTINF:0,BT Sport 2
-http://62.131.92.221:60330/play/a072
-#EXTINF:0,BT Sport 2
-http://86.89.104.199:60330/play/a072
-#EXTINF:0,BT Sport 2
-http://87.212.248.44:60330/play/a072
-#EXTINF:0,BT Sport 3
-http://62.131.92.221:60230/play/a04z/index.m3u8
-#EXTINF:0,BT Sport 3
-http://87.212.248.44:60230/play/a04z/index.m3u8
-#EXTINF:0,BT Sport 3
-http://86.89.104.199:60230/play/a04z/index.m3u8
-#EXTINF:0,BT Sport//ESPN
-http://62.131.92.221:60330/play/a073
-#EXTINF:0,BT Sport//ESPN
-http://86.89.104.199:60330/play/a073
-#EXTINF:0,BT Sport//ESPN
-http://87.212.248.44:60330/play/a073
-#EXTINF:0,c4 l
-http://87.212.248.44:60330/play/a04s
-#EXTINF:0,c4 l
-http://62.131.92.221:60330/play/a04s
-#EXTINF:0,c4 l
-http://86.89.104.199:60330/play/a04s
-#EXTINF:0,Cartoon Netwrk
-http://87.212.248.44:60330/play/a03u
-#EXTINF:0,Cartoon Netwrk
-http://86.89.104.199:60330/play/a03u
-#EXTINF:0,Cartoon Netwrk
-http://62.131.92.221:60330/play/a03u
-#EXTINF:0,Cartoonito
-http://62.131.92.221:60330/play/a05p
-#EXTINF:0,Cartoonito
-http://87.212.248.44:60330/play/a05p
-#EXTINF:0,Cartoonito
-http://86.89.104.199:60330/play/a05p
-#EXTINF:0,CBBC
-http://86.89.104.199:60230/play/a06y/index.m3u8
-#EXTINF:0,CBBC
-http://62.131.92.221:60230/play/a06y/index.m3u8
-#EXTINF:0,CBBC
-http://87.212.248.44:60230/play/a06y/index.m3u8
-#EXTINF:0,CBBC HD
-http://87.212.248.44:60130/play/a05p
-#EXTINF:0,CBBC HD
-http://86.89.104.199:60130/play/a05p
-#EXTINF:0,CBBC HD
-http://62.131.92.221:60130/play/a05p
-#EXTINF:0,CBeebies HD
-http://87.212.248.44:60330/play/a04n
-#EXTINF:0,CBeebies HD
-http://62.131.92.221:60330/play/a04n
-#EXTINF:0,CBeebies HD
-http://86.89.104.199:60330/play/a04n
-#EXTINF:0,CBS Drama
-http://87.212.248.44:60230/play/a04u/index.m3u8
-#EXTINF:0,CBS Drama
-http://62.131.92.221:60230/play/a04u/index.m3u8
-#EXTINF:0,CBS Drama
-http://86.89.104.199:60230/play/a04u/index.m3u8
-#EXTINF:0,CBS Justice
-http://86.89.104.199:60230/play/a04y/index.m3u8
-#EXTINF:0,CBS Justice
-http://87.212.248.44:60230/play/a04y/index.m3u8
-#EXTINF:0,CBS Justice
-http://62.131.92.221:60230/play/a04y/index.m3u8
-#EXTINF:0,CBS Reality
-http://62.131.92.221:60230/play/a051/index.m3u8
-#EXTINF:0,CBS Reality
-http://185.234.217.22:8014/play/a053/index.m3u8
-#EXTINF:0,CBS Reality
-http://87.212.248.44:60230/play/a051/index.m3u8
-#EXTINF:0,CBS Reality
-http://86.89.104.199:60230/play/a051/index.m3u8
-#EXTINF:0,CBS Reality
-http://185.234.217.22:8014/play/a054/index.m3u8
-#EXTINF:0,CBS Reality+1
-http://185.234.217.22:8014/play/a055/index.m3u8
-#EXTINF:0,CBS Reality+1
-http://86.89.104.199:60230/play/a077/index.m3u8
-#EXTINF:0,CBS Reality+1
-http://62.131.92.221:60230/play/a077/index.m3u8
-#EXTINF:0,CBS Reality+1
-http://87.212.248.44:60230/play/a077/index.m3u8
-#EXTINF:0,Challenge
-http://86.89.104.199:60150/play/a09x/index.m3u8
-#EXTINF:0,Challenge
-http://87.212.248.44:60150/play/a09x/index.m3u8
-#EXTINF:0,Challenge
-http://62.131.92.221:60150/play/a09x/index.m3u8
-#EXTINF:0,Channel 4 HD
-http://86.89.104.199:60230/play/a04s/index.m3u8
-#EXTINF:0,Channel 4 HD
-http://87.212.248.44:60230/play/a04s/index.m3u8
-#EXTINF:0,Channel 4 HD
-http://185.234.217.19:8013/play/a04u/index.m3u8
-#EXTINF:0,Channel 4 HD
-http://62.131.92.221:60230/play/a04s/index.m3u8
-#EXTINF:0,Channel 4 London
-http://86.89.104.199:60330/play/a02y
-#EXTINF:0,Channel 4 London
-http://62.131.92.221:60330/play/a02y
-#EXTINF:0,Channel 4 London
-http://87.212.248.44:60330/play/a02y
-#EXTINF:29,Channel 4 London +1
-http://86.89.104.199:60350/play/a09u/index.m3u8
-#EXTINF:0,Channel 4 London +1
-http://87.212.248.44:60350/play/a09u/index.m3u8
-#EXTINF:0,Channel 4 London +1
-http://62.131.92.221:60350/play/a09u/index.m3u8
-#EXTINF:0,Channel 4 Midlands
-http://86.89.104.199:60330/play/a05d
-#EXTINF:0,Channel 4 Midlands
-http://62.131.92.221:60330/play/a05d
-#EXTINF:0,Channel 4 Midlands
-http://87.212.248.44:60330/play/a05d
-#EXTINF:0,Channel 4 North
-http://62.131.92.221:60330/play/a05e
-#EXTINF:0,Channel 4 North
-http://87.212.248.44:60330/play/a05e
-#EXTINF:0,Channel 4 North
-http://86.89.104.199:60330/play/a05e
-#EXTINF:0,Channel 4 Northern Ireland
-http://62.131.92.221:60350/play/a09y/index.m3u8
-#EXTINF:0,Channel 4 Northern Ireland
-http://86.89.104.199:60350/play/a09y/index.m3u8
-#EXTINF:0,Channel 4 Northern Ireland
-http://87.212.248.44:60350/play/a09y/index.m3u8
-#EXTINF:0,Channel 4 Scotland
-http://87.212.248.44:60330/play/a05f
-#EXTINF:0,Channel 4 Scotland
-http://86.89.104.199:60330/play/a05f
-#EXTINF:0,Channel 4 Scotland
-http://62.131.92.221:60330/play/a05f
-#EXTINF:0,Channel 4 South & East
-http://87.212.248.44:60330/play/a05c
-#EXTINF:0,Channel 4 South & East
-http://62.131.92.221:60330/play/a05c
-#EXTINF:0,Channel 4 South & East
-http://86.89.104.199:60330/play/a05c
-#EXTINF:0,Channel 4 South & East +1
-http://62.131.92.221:60350/play/a09v/index.m3u8
-#EXTINF:0,Channel 4 South & East +1
-http://86.89.104.199:60350/play/a09v/index.m3u8
-#EXTINF:0,Channel 4 South & East +1
-http://87.212.248.44:60350/play/a09v/index.m3u8
-#EXTINF:0,Channel 4+1
-http://87.212.248.44:60330/play/a07w
-#EXTINF:0,Channel 4+1
-http://86.89.104.199:60330/play/a07w
-#EXTINF:0,Channel 4+1 North
-http://87.212.248.44:60350/play/a09w/index.m3u8
-#EXTINF:0,Channel 4+1 North
-http://62.131.92.221:60350/play/a09w/index.m3u8
-#EXTINF:0,Channel 4+1 North
-http://86.89.104.199:60350/play/a09w/index.m3u8
-#EXTINF:0,Channel 5
-http://185.234.217.22:8012/play/a050/index.m3u8
-#EXTINF:0,Channel 5
-http://185.234.217.19:8012/play/a04x/index.m3u8
-#EXTINF:0,Channel 5 HD
-http://62.131.92.221:60330/play/a04o
-#EXTINF:0,Channel 5 HD
-http://185.234.217.22:8012/play/a057/index.m3u8
-#EXTINF:0,Channel 5 HD
-http://185.234.217.19:8012/play/a054/index.m3u8
-#EXTINF:0,Channel 5 HD
-http://87.212.248.44:60330/play/a04o
-#EXTINF:0,Channel 5 HD
-http://86.89.104.199:60330/play/a04o
-#EXTINF:0,Channel 5 South Central
-http://86.89.104.199:60330/play/a05j
-#EXTINF:0,Channel 5 South Central
-http://87.212.248.44:60330/play/a05j
-#EXTINF:0,Channel 5 South Central
-http://62.131.92.221:60330/play/a05j
-#EXTINF:0,Channel 5+1
-http://185.234.217.19:8012/play/a053/index.m3u8
-#EXTINF:0,Channel 5+1
-http://86.89.104.199:60330/play/a05h
-#EXTINF:0,Channel 5+1
-http://185.234.217.22:8012/play/a056/index.m3u8
-#EXTINF:0,Channel 5+1
-http://62.131.92.221:60330/play/a05h
-#EXTINF:0,Channel 5+1
-http://87.212.248.44:60330/play/a05h
-#EXTINF:0,Channel Scotland 4+1
-http://87.212.248.44:60350/play/a09x/index.m3u8
-#EXTINF:0,Channel Scotland 4+1
-http://86.89.104.199:60350/play/a09x/index.m3u8
-#EXTINF:0,Channel Scotland 4+1
-http://62.131.92.221:60350/play/a09x/index.m3u8
-#EXTINF:0,CITV
-http://86.89.104.199:60450/play/a091/index.m3u8
-#EXTINF:0,CITV
-http://87.212.248.44:60450/play/a091/index.m3u8
-#EXTINF:0,CITV
-http://62.131.92.221:60450/play/a091/index.m3u8
-#EXTINF:0,Classic Hits
-http://86.89.104.199:60530/play/a09p
-#EXTINF:0,Classic Rock
-http://87.212.248.44:60530/play/a080
-#EXTINF:0,Classic Rock
-http://62.131.92.221:60530/play/a080
-#EXTINF:0,Classic Rock
-http://86.89.104.199:60530/play/a080
-#EXTINF:0,CN+1
-http://87.212.248.44:60330/play/a05m
-#EXTINF:0,CN+1
-http://62.131.92.221:60330/play/a05m
-#EXTINF:0,CN+1
-http://86.89.104.199:60330/play/a05m
-#EXTINF:0,CNBC
-http://87.212.248.44:60650/play/a049/index.m3u8
-#EXTINF:0,CNN
-http://62.131.92.221:60530/play/a081
-#EXTINF:0,CNN
-http://86.89.104.199:60530/play/a081
-#EXTINF:0,CNN
-http://87.212.248.44:60530/play/a081
-#EXTINF:0,CNN
-http://87.212.248.44:60450/play/a084/index.m3u8
-#EXTINF:0,CNN
-http://62.131.92.221:60450/play/a084/index.m3u8
-#EXTINF:0,CNN
-http://86.89.104.199:60450/play/a084/index.m3u8
-#EXTINF:0,CNN HD
-http://87.212.248.44:60450/play/a07z/index.m3u8
-#EXTINF:0,CNN HD
-http://62.131.92.221:60450/play/a07z/index.m3u8
-#EXTINF:0,CNN HD
-http://86.89.104.199:60450/play/a07z/index.m3u8
-#EXTINF:0,ComedyCent+1
-http://87.212.248.44:60330/play/a04z
-#EXTINF:0,ComedyCent+1
-http://62.131.92.221:60330/play/a04z
-#EXTINF:0,ComedyCent+1
-http://86.89.104.199:60330/play/a04z
-#EXTINF:0,ComedyCentral
-http://62.131.92.221:60330/play/a03l
-#EXTINF:0,ComedyCentral
-http://87.212.248.44:60330/play/a03l
-#EXTINF:0,ComedyCentral
-http://86.89.104.199:60330/play/a03l
-#EXTINF:0,ComedyXtra
-http://62.131.92.221:60330/play/a03m
-#EXTINF:0,ComedyXtra
-http://86.89.104.199:60330/play/a03m
-#EXTINF:0,ComedyXtra
-http://87.212.248.44:60330/play/a03m
-#EXTINF:0,Dave
-http://87.212.248.44:60650/play/a04q/index.m3u8
-#EXTINF:0,Dave
-http://62.131.92.221:60650/play/a04q/index.m3u8
-#EXTINF:0,Dave
-http://86.89.104.199:60650/play/a04q/index.m3u8
-#EXTINF:0,Dave
-http://185.234.217.19:8016/play/a04v/index.m3u8
-#EXTINF:0,Dave ja vu
-http://87.212.248.44:60650/play/a04y/index.m3u8
-#EXTINF:0,Dave ja vu
-http://185.234.217.19:8016/play/a052/index.m3u8
-#EXTINF:0,Dave ja vu
-http://62.131.92.221:60650/play/a04y/index.m3u8
-#EXTINF:0,Dave ja vu
-http://86.89.104.199:60650/play/a04y/index.m3u8
-#EXTINF:0,Disc.History
-http://86.89.104.199:60150/play/a0b5/index.m3u8
-#EXTINF:0,Disc.History
-http://87.212.248.44:60150/play/a0b5/index.m3u8
-#EXTINF:0,Disc.History
-http://62.131.92.221:60150/play/a0b5/index.m3u8
-#EXTINF:0,Disc.History+1
-http://62.131.92.221:60130/play/a04v
-#EXTINF:0,Disc.History+1
-http://87.212.248.44:60130/play/a04v
-#EXTINF:0,Disc.History+1
-http://86.89.104.199:60130/play/a04v
-#EXTINF:0,Disc.Science
-http://62.131.92.221:60150/play/a0b4/index.m3u8
-#EXTINF:0,Disc.Science
-http://87.212.248.44:60150/play/a0b4/index.m3u8
-#EXTINF:0,Disc.Science
-http://86.89.104.199:60150/play/a0b4/index.m3u8
-#EXTINF:0,Disc.Turbo
-http://87.212.248.44:60150/play/a0b6/index.m3u8
-#EXTINF:0,Disc.Turbo
-http://86.89.104.199:60150/play/a0b6/index.m3u8
-#EXTINF:0,Disc.Turbo
-http://62.131.92.221:60150/play/a0b6/index.m3u8
-#EXTINF:0,Disc.Turbo+1
-http://62.131.92.221:60130/play/a04z
-#EXTINF:0,Disc.Turbo+1
-http://86.89.104.199:60130/play/a04z
-#EXTINF:0,Disc.Turbo+1
-http://87.212.248.44:60130/play/a04z
-#EXTINF:0,Discovery
-http://62.131.92.221:60150/play/a0b2/index.m3u8
-#EXTINF:0,Discovery
-http://87.212.248.44:60150/play/a0b2/index.m3u8
-#EXTINF:0,Discovery
-http://86.89.104.199:60150/play/a0b2/index.m3u8
-#EXTINF:0,Discovery Shed
-http://86.89.104.199:60130/play/a04w
-#EXTINF:0,Discovery Shed
-http://87.212.248.44:60130/play/a04w
-#EXTINF:0,Discovery Shed
-http://62.131.92.221:60130/play/a04w
-#EXTINF:0,DMAX
-http://62.131.92.221:60150/play/a0b1/index.m3u8
-#EXTINF:0,DMAX
-http://86.89.104.199:60150/play/a0b1/index.m3u8
-#EXTINF:0,DMAX
-http://87.212.248.44:60150/play/a0b1/index.m3u8
-#EXTINF:0,DMAX+1
-http://87.212.248.44:60150/play/a0ax/index.m3u8
-#EXTINF:0,DMAX+1
-http://62.131.92.221:60150/play/a0ax/index.m3u8
-#EXTINF:0,DMAX+1
-http://86.89.104.199:60150/play/a0ax/index.m3u8
-#EXTINF:0,Drama
-http://86.89.104.199:60650/play/a04t/index.m3u8
-#EXTINF:0,Drama
-http://87.212.248.44:60650/play/a04t/index.m3u8
-#EXTINF:0,Drama
-http://185.234.217.19:8016/play/a04z/index.m3u8
-#EXTINF:0,Drama
-http://62.131.92.221:60650/play/a04t/index.m3u8
-#EXTINF:0,Drama+1
-http://86.89.104.199:60650/play/a04x/index.m3u8
-#EXTINF:0,Drama+1
-http://62.131.92.221:60650/play/a04x/index.m3u8
-#EXTINF:0,Drama+1
-http://185.234.217.19:8016/play/a051/index.m3u8
-#EXTINF:0,Drama+1
-http://87.212.248.44:60650/play/a04x/index.m3u8
-#EXTINF:0,E4
-http://86.89.104.199:60330/play/a031
-#EXTINF:0,E4
-http://62.131.92.221:60350/play/a09t/index.m3u8
-#EXTINF:0,E4
-http://87.212.248.44:60330/play/a031
-#EXTINF:0,E4
-http://62.131.92.221:60330/play/a031
-#EXTINF:0,E4
-http://86.89.104.199:60350/play/a09t/index.m3u8
-#EXTINF:0,E4
-http://87.212.248.44:60350/play/a09t/index.m3u8
-#EXTINF:0,E4+1
-http://86.89.104.199:60350/play/a09s/index.m3u8
-#EXTINF:0,E4+1
-http://87.212.248.44:60350/play/a09s/index.m3u8
-#EXTINF:0,E4+1
-http://62.131.92.221:60350/play/a09s/index.m3u8
-#EXTINF:0,E4+1
-http://62.131.92.221:60330/play/a04v
-#EXTINF:0,Eden
-http://87.212.248.44:60650/play/a04n/index.m3u8
-#EXTINF:0,Eden
-http://86.89.104.199:60650/play/a04n/index.m3u8
-#EXTINF:0,Eden
-http://62.131.92.221:60650/play/a04n/index.m3u8
-#EXTINF:0,Eden+1
-http://86.89.104.199:60650/play/a04v/index.m3u8
-#EXTINF:0,Eden+1
-http://62.131.92.221:60650/play/a04v/index.m3u8
-#EXTINF:0,Eden+1
-http://87.212.248.44:60650/play/a04v/index.m3u8
-#EXTINF:0,ETV1
-http://62.131.92.221:60330/play/a07f
-#EXTINF:0,ETV1
-http://86.89.104.199:60330/play/a07f
-#EXTINF:0,ETV1
-http://62.131.92.221:60330/play/a034
-#EXTINF:0,ETV1
-http://87.212.248.44:60330/play/a034
-#EXTINF:0,ETV1
-http://87.212.248.44:60330/play/a07f
-#EXTINF:0,ETV1
-http://86.89.104.199:60330/play/a034
-#EXTINF:0,ETV2
-http://87.212.248.44:60330/play/a075
-#EXTINF:0,ETV2
-http://86.89.104.199:60330/play/a075
-#EXTINF:0,ETV2
-http://62.131.92.221:60330/play/a075
-#EXTINF:0,ETV5
-http://87.212.248.44:60230/play/a04j/index.m3u8
-#EXTINF:0,ETV5
-http://86.89.104.199:60230/play/a04j/index.m3u8
-#EXTINF:0,ETV5
-http://62.131.92.221:60230/play/a04j/index.m3u8
-#EXTINF:0,ETV6
-http://86.89.104.199:60230/play/a04o/index.m3u8
-#EXTINF:0,ETV6
-http://87.212.248.44:60230/play/a04o/index.m3u8
-#EXTINF:0,ETV6
-http://62.131.92.221:60230/play/a04o/index.m3u8
-#EXTINF:0,Euronews
-http://86.89.104.199:60450/play/a08m/index.m3u8
-#EXTINF:0,Euronews
-http://62.131.92.221:60450/play/a08m/index.m3u8
-#EXTINF:0,Euronews
-http://87.212.248.44:60450/play/a08m/index.m3u8
-#EXTINF:0,Euronews
-http://86.89.104.199:60530/play/a07l
-#EXTINF:0,Euronews
-http://87.212.248.44:60530/play/a07l
-#EXTINF:0,Euronews
-http://62.131.92.221:60530/play/a07l
-#EXTINF:0,Film4
-http://62.131.92.221:60330/play/a02z
-#EXTINF:0,Film4
-http://86.89.104.199:60330/play/a02z
-#EXTINF:0,Film4
-http://87.212.248.44:60330/play/a07v
-#EXTINF:0,Film4
-http://86.89.104.199:60330/play/a07v
-#EXTINF:0,Film4
-http://87.212.248.44:60330/play/a02z
-#EXTINF:0,Film4+1
-http://86.89.104.199:60350/play/a0a1/index.m3u8
-#EXTINF:0,Film4+1
-http://62.131.92.221:60350/play/a0a1/index.m3u8
-#EXTINF:0,Film4+1
-http://87.212.248.44:60350/play/a0a1/index.m3u8
-#EXTINF:0,Food Network
-http://86.89.104.199:60150/play/a0az/index.m3u8
-#EXTINF:0,Food Network
-http://62.131.92.221:60150/play/a0az/index.m3u8
-#EXTINF:0,Food Network
-http://87.212.248.44:60150/play/a0az/index.m3u8
-#EXTINF:0,Food Network Ireland
-http://62.131.92.221:60150/play/a0ay/index.m3u8
-#EXTINF:0,Food Network Ireland
-http://86.89.104.199:60150/play/a0ay/index.m3u8
-#EXTINF:0,Food Network Ireland
-http://87.212.248.44:60150/play/a0ay/index.m3u8
-#EXTINF:0,Food Netwrk+1
-http://87.212.248.44:60150/play/a0b0/index.m3u8
-#EXTINF:0,Food Netwrk+1
-http://62.131.92.221:60150/play/a0b0/index.m3u8
-#EXTINF:0,Food Netwrk+1
-http://86.89.104.199:60150/play/a0b0/index.m3u8
-#EXTINF:0,Foodxp
-http://62.131.92.221:60530/play/a09a
-#EXTINF:0,Foodxp
-http://87.212.248.44:60530/play/a09a
-#EXTINF:0,Foodxp
-http://86.89.104.199:60530/play/a09a
-#EXTINF:0,Forces TV
-http://62.131.92.221:60150/play/a09y/index.m3u8
-#EXTINF:0,Forces TV
-http://87.212.248.44:60150/play/a09y/index.m3u8
-#EXTINF:0,Forces TV
-http://86.89.104.199:60150/play/a09y/index.m3u8
-#EXTINF:0,FRANCE 24 HD
-http://87.212.248.44:60130/play/a08r
-#EXTINF:0,FRANCE 24 HD
-http://86.89.104.199:60130/play/a08r
-#EXTINF:0,FRANCE 24 HD
-http://62.131.92.221:60130/play/a08r
-#EXTINF:0,FreeSports HD
-http://62.131.92.221:60130/play/a06k
-#EXTINF:0,FreeSports HD
-http://86.89.104.199:60130/play/a06k
-#EXTINF:0,FreeSports HD
-http://87.212.248.44:60130/play/a06k
-#EXTINF:0,GB News HD
-http://87.212.248.44:60130/play/a091
-#EXTINF:0,GB News HD
-http://62.131.92.221:60130/play/a091
-#EXTINF:0,GB News HD
-http://185.234.217.22:8014/play/a05s/index.m3u8
-#EXTINF:0,GB News HD
-http://86.89.104.199:60130/play/a091
-#EXTINF:0,GEO News
-http://86.89.104.199:60530/play/a01p
-#EXTINF:0,GEO News
-http://62.131.92.221:60530/play/a01p
-#EXTINF:0,GEO News
-http://87.212.248.44:60530/play/a01p
-#EXTINF:0,GOLD
-http://62.131.92.221:60650/play/a04o/index.m3u8
-#EXTINF:0,GOLD
-http://62.131.92.221:60450/play/a085/index.m3u8
-#EXTINF:0,GOLD
-http://86.89.104.199:60450/play/a085/index.m3u8
-#EXTINF:0,GOLD
-http://87.212.248.44:60450/play/a085/index.m3u8
-#EXTINF:0,GOLD
-http://62.131.92.221:60530/play/a082
-#EXTINF:0,GOLD
-http://87.212.248.44:60530/play/a082
-#EXTINF:0,GOLD
-http://86.89.104.199:60650/play/a04o/index.m3u8
-#EXTINF:0,GOLD
-http://86.89.104.199:60530/play/a082
-#EXTINF:0,GOLD
-http://87.212.248.44:60650/play/a04o/index.m3u8
-#EXTINF:0,GOLD+1
-http://62.131.92.221:60650/play/a04u/index.m3u8
-#EXTINF:0,GOLD+1
-http://86.89.104.199:60650/play/a04u/index.m3u8
-#EXTINF:0,GOLD+1
-http://87.212.248.44:60650/play/a04u/index.m3u8
-#EXTINF:0,GREAT! action
-http://62.131.92.221:60130/play/a08t
-#EXTINF:0,GREAT! action
-http://86.89.104.199:60130/play/a08t
-#EXTINF:0,GREAT! action
-http://185.234.217.22:8014/play/a05e/index.m3u8
-#EXTINF:0,GREAT! action
-http://87.212.248.44:60130/play/a08t
-#EXTINF:0,GREAT! class+1
-http://62.131.92.221:60130/play/a08w
-#EXTINF:0,GREAT! class+1
-http://87.212.248.44:60130/play/a08w
-#EXTINF:0,GREAT! class+1
-http://86.89.104.199:60130/play/a08w
-#EXTINF:0,GREAT! classic
-http://62.131.92.221:60130/play/a08v
-#EXTINF:0,GREAT! classic
-http://87.212.248.44:60130/play/a08v
-#EXTINF:0,GREAT! Classic
-http://185.234.217.22:8014/play/a05g/index.m3u8
-#EXTINF:0,GREAT! classic
-http://86.89.104.199:60130/play/a08v
-#EXTINF:0,GREAT! Classic+1
-http://185.234.217.22:8014/play/a05h/index.m3u8
-#EXTINF:0,GREAT! movies
-http://87.212.248.44:60130/play/a08u
-#EXTINF:0,GREAT! movies
-http://185.234.217.22:8014/play/a05f/index.m3u8
-#EXTINF:0,GREAT! movies
-http://86.89.104.199:60130/play/a08u
-#EXTINF:0,GREAT! movies
-http://62.131.92.221:60130/play/a08u
-#EXTINF:0,GREAT! movies+1
-http://62.131.92.221:60130/play/a08x
-#EXTINF:0,GREAT! movies+1
-http://86.89.104.199:60130/play/a08x
-#EXTINF:0,GREAT! movies+1
-http://185.234.217.22:8014/play/a05m/index.m3u8
-#EXTINF:0,GREAT! movies+1
-http://87.212.248.44:60130/play/a08x
-#EXTINF:0,GREAT! tv
-http://86.89.104.199:60130/play/a08z
-#EXTINF:0,GREAT! tv
-http://185.234.217.22:8014/play/a05q/index.m3u8
-#EXTINF:0,GREAT! tv
-http://62.131.92.221:60130/play/a08z
-#EXTINF:0,GREAT! tv
-http://87.212.248.44:60130/play/a08z
-#EXTINF:0,GREAT! tv+1
-http://62.131.92.221:60130/play/a090
-#EXTINF:0,GREAT! tv+1
-http://87.212.248.44:60130/play/a090
-#EXTINF:0,GREAT! tv+1
-http://185.234.217.22:8014/play/a05r/index.m3u8
-#EXTINF:0,GREAT! tv+1
-http://86.89.104.199:60130/play/a090
-#EXTINF:0,GREAT!action+1
-http://86.89.104.199:60130/play/a08y
-#EXTINF:0,GREAT!action+1
-http://87.212.248.44:60130/play/a08y
-#EXTINF:0,GREAT!action+1
-http://185.234.217.22:8014/play/a05o/index.m3u8
-#EXTINF:0,GREAT!action+1
-http://62.131.92.221:60130/play/a08y
-#EXTINF:0,Heart
-http://86.89.104.199:60530/play/a07t
-#EXTINF:0,Heart
-http://62.131.92.221:60530/play/a07t
-#EXTINF:0,Heart
-http://87.212.248.44:60530/play/a07t
-#EXTINF:0,Heart 80s
-http://87.212.248.44:60530/play/a07u
-#EXTINF:0,Heart 80s
-http://86.89.104.199:60530/play/a07u
-#EXTINF:0,Heart 80s
-http://62.131.92.221:60530/play/a07u
-#EXTINF:0,HGTV
-http://86.89.104.199:60330/play/a07r
-#EXTINF:0,HGTV
-http://87.212.248.44:60330/play/a07r
-#EXTINF:0,HGTV
-http://87.212.248.44:60330/play/a04b
-#EXTINF:0,HGTV
-http://62.131.92.221:60330/play/a04b
-#EXTINF:0,HGTV
-http://86.89.104.199:60330/play/a04b
-#EXTINF:0,HGTV+1
-http://87.212.248.44:60330/play/a07t
-#EXTINF:0,HGTV+1
-http://86.89.104.199:60330/play/a07t
-#EXTINF:0,HGTV+1
-http://62.131.92.221:60330/play/a05q
-#EXTINF:0,horror ch+1
-http://62.131.92.221:60230/play/a078/index.m3u8
-#EXTINF:0,horror ch+1
-http://86.89.104.199:60230/play/a078/index.m3u8
-#EXTINF:0,horror ch+1
-http://87.212.248.44:60230/play/a078/index.m3u8
-#EXTINF:0,horror channel
-http://87.212.248.44:60230/play/a04w/index.m3u8
-#EXTINF:0,horror channel
-http://62.131.92.221:60230/play/a04w/index.m3u8
-#EXTINF:0,horror channel
-http://86.89.104.199:60230/play/a04w/index.m3u8
-#EXTINF:0,HorrorXtra
-http://185.234.217.22:8014/play/a04v/index.m3u8
-#EXTINF:0,HorrorXtra+1
-http://185.234.217.22:8014/play/a056/index.m3u8
-#EXTINF:0,ID
-http://87.212.248.44:60130/play/a04o
-#EXTINF:0,ID
-http://86.89.104.199:60130/play/a04o
-#EXTINF:0,ID
-http://62.131.92.221:60130/play/a04o
-#EXTINF:0,ID+1
-http://62.131.92.221:60130/play/a078
-#EXTINF:0,ID+1
-http://86.89.104.199:60130/play/a078
-#EXTINF:0,ID+1
-http://87.212.248.44:60130/play/a078
-#EXTINF:0,ITV
-http://62.131.92.221:60130/play/a07d
-#EXTINF:0,ITV
-http://87.212.248.44:60130/play/a07d
-#EXTINF:0,ITV
-http://86.89.104.199:60130/play/a07d
-#EXTINF:0,ITV 1 Anglia West HD
-http://87.212.248.44:60230/play/a073/index.m3u8
-#EXTINF:0,ITV 1 Anglia West HD
-http://86.89.104.199:60230/play/a073/index.m3u8
-#EXTINF:0,ITV 1 Anglia West HD
-http://62.131.92.221:60230/play/a073/index.m3u8
-#EXTINF:0,ITV 1 Central East HD
-http://62.131.92.221:60230/play/a074/index.m3u8
-#EXTINF:0,ITV 1 Central East HD
-http://87.212.248.44:60230/play/a074/index.m3u8
-#EXTINF:0,ITV 1 Central East HD
-http://86.89.104.199:60230/play/a074/index.m3u8
-#EXTINF:0,ITV 1 Granada +1
-http://86.89.104.199:60130/play/a07f
-#EXTINF:0,ITV 1 Granada +1
-http://87.212.248.44:60130/play/a07f
-#EXTINF:0,ITV 1 Granada +1
-http://62.131.92.221:60130/play/a07f
-#EXTINF:0,ITV 1 Granada HD
-http://86.89.104.199:60530/play/a08j
-#EXTINF:0,ITV 1 Granada HD
-http://62.131.92.221:60530/play/a08j
-#EXTINF:0,ITV 1 Granada HD
-http://87.212.248.44:60530/play/a08j
-#EXTINF:0,ITV 1 Meridian North HD
-http://87.212.248.44:60230/play/a072/index.m3u8
-#EXTINF:0,ITV 1 Meridian North HD
-http://62.131.92.221:60230/play/a072/index.m3u8
-#EXTINF:0,ITV 1 Meridian North HD
-http://86.89.104.199:60230/play/a072/index.m3u8
-#EXTINF:0,ITV 1 Meridian South HD
-http://86.89.104.199:60230/play/a071/index.m3u8
-#EXTINF:0,ITV 1 Meridian South HD
-http://62.131.92.221:60230/play/a071/index.m3u8
-#EXTINF:0,ITV 1 Meridian South HD
-http://87.212.248.44:60230/play/a071/index.m3u8
-#EXTINF:0,ITV 1 West Country East HD
-http://87.212.248.44:60530/play/a08m
-#EXTINF:0,ITV 1 West Country East HD
-http://62.131.92.221:60530/play/a08m
-#EXTINF:0,ITV 1 West Country East HD
-http://86.89.104.199:60530/play/a08m
-#EXTINF:0,ITV Anglia East
-http://87.212.248.44:60350/play/a0ap/index.m3u8
-#EXTINF:0,ITV Anglia East
-http://86.89.104.199:60350/play/a0ap/index.m3u8
-#EXTINF:0,ITV Anglia East
-http://62.131.92.221:60350/play/a0ap/index.m3u8
-#EXTINF:0,ITV Anglia West
-http://86.89.104.199:60130/play/a08n
-#EXTINF:0,ITV Anglia West
-http://62.131.92.221:60130/play/a08n
-#EXTINF:0,ITV Anglia West
-http://87.212.248.44:60130/play/a08n
-#EXTINF:0,ITV Border England
-http://87.212.248.44:60350/play/a0ac/index.m3u8
-#EXTINF:0,ITV Border England
-http://62.131.92.221:60350/play/a0ac/index.m3u8
-#EXTINF:0,ITV Border England
-http://86.89.104.199:60350/play/a0ac/index.m3u8
-#EXTINF:0,ITV Border Scotland
-http://62.131.92.221:60450/play/a07l/index.m3u8
-#EXTINF:0,ITV Border Scotland
-http://87.212.248.44:60450/play/a07l/index.m3u8
-#EXTINF:0,ITV Border Scotland
-http://86.89.104.199:60450/play/a07l/index.m3u8
-#EXTINF:0,ITV Central East
-http://87.212.248.44:60130/play/a08o
-#EXTINF:0,ITV Central East
-http://86.89.104.199:60130/play/a08o
-#EXTINF:0,ITV Central East
-http://62.131.92.221:60130/play/a08o
-#EXTINF:0,ITV Central West +1
-http://86.89.104.199:60450/play/a07p/index.m3u8
-#EXTINF:0,ITV Central West +1
-http://87.212.248.44:60450/play/a07p/index.m3u8
-#EXTINF:0,ITV Central West +1
-http://62.131.92.221:60450/play/a07p/index.m3u8
-#EXTINF:0,ITV Granada
-http://87.212.248.44:60450/play/a095/index.m3u8
-#EXTINF:0,ITV Granada
-http://86.89.104.199:60450/play/a095/index.m3u8
-#EXTINF:0,ITV Granada
-http://62.131.92.221:60450/play/a095/index.m3u8
-#EXTINF:0,ITV HD
-http://86.89.104.199:60230/play/a06u/index.m3u8
-#EXTINF:0,ITV HD
-http://62.131.92.221:60230/play/a06u/index.m3u8
-#EXTINF:0,ITV HD
-http://87.212.248.44:60230/play/a06u/index.m3u8
-#EXTINF:0,ITV HD
-http://185.234.217.19:8012/play/a04u/index.m3u8
-#EXTINF:0,ITV London
-http://62.131.92.221:60450/play/a094/index.m3u8
-#EXTINF:0,ITV London
-http://87.212.248.44:60450/play/a094/index.m3u8
-#EXTINF:0,ITV London
-http://86.89.104.199:60450/play/a094/index.m3u8
-#EXTINF:0,ITV London +1
-http://86.89.104.199:60450/play/a07s/index.m3u8
-#EXTINF:0,ITV London +1
-http://87.212.248.44:60450/play/a07s/index.m3u8
-#EXTINF:0,ITV London +1
-http://62.131.92.221:60450/play/a07s/index.m3u8
-#EXTINF:0,ITV Meridian East
-http://62.131.92.221:60450/play/a07q/index.m3u8
-#EXTINF:0,ITV Meridian East
-http://86.89.104.199:60450/play/a07q/index.m3u8
-#EXTINF:0,ITV Meridian East
-http://87.212.248.44:60450/play/a07q/index.m3u8
-#EXTINF:0,ITV Meridian South Coast
-http://86.89.104.199:60130/play/a08k
-#EXTINF:0,ITV Meridian South Coast
-http://87.212.248.44:60130/play/a08k
-#EXTINF:0,ITV Meridian South Coast
-http://62.131.92.221:60130/play/a08k
-#EXTINF:0,ITV Meridian Thames Valley
-http://86.89.104.199:60130/play/a08j
-#EXTINF:0,ITV Meridian Thames Valley
-http://87.212.248.44:60130/play/a08j
-#EXTINF:0,ITV Meridian Thames Valley
-http://62.131.92.221:60130/play/a08j
-#EXTINF:0,ITV Tyne Tees HD
-http://62.131.92.221:60530/play/a08k
-#EXTINF:0,ITV Tyne Tees HD
-http://86.89.104.199:60530/play/a08k
-#EXTINF:0,ITV Tyne Tees HD
-http://87.212.248.44:60530/play/a08k
-#EXTINF:0,ITV Wales HD
-http://62.131.92.221:60530/play/a06o
-#EXTINF:0,ITV Wales HD
-http://87.212.248.44:60530/play/a06o
-#EXTINF:0,ITV Wales HD
-http://86.89.104.199:60530/play/a06o
-#EXTINF:0,ITV Yorkshire East
-http://86.89.104.199:60350/play/a0a9/index.m3u8
-#EXTINF:0,ITV Yorkshire East
-http://62.131.92.221:60350/play/a0a9/index.m3u8
-#EXTINF:0,ITV Yorkshire East
-http://87.212.248.44:60350/play/a0a9/index.m3u8
-#EXTINF:0,ITV Yorkshire West
-http://87.212.248.44:60130/play/a08l
-#EXTINF:0,ITV Yorkshire West
-http://86.89.104.199:60130/play/a08l
-#EXTINF:0,ITV Yorkshire West
-http://62.131.92.221:60130/play/a08l
-#EXTINF:0,ITV1 West Country West HD
-http://86.89.104.199:60530/play/a08l
-#EXTINF:0,ITV1 West Country West HD
-http://87.212.248.44:60530/play/a08l
-#EXTINF:0,ITV1 West Country West HD
-http://62.131.92.221:60530/play/a08l
-#EXTINF:0,ITV2
-http://86.89.104.199:60130/play/a095
-#EXTINF:0,ITV2 HD
-http://86.89.104.199:60530/play/a09i
-#EXTINF:0,ITV2 HD
-http://62.131.92.221:60530/play/a09i
-#EXTINF:0,ITV2+1
-http://87.212.248.44:60450/play/a07j/index.m3u8
-#EXTINF:0,ITV2+1
-http://62.131.92.221:60450/play/a07j/index.m3u8
-#EXTINF:0,ITV2+1
-http://86.89.104.199:60450/play/a07j/index.m3u8
-#EXTINF:0,ITV3 HD
-http://62.131.92.221:60130/play/a08m
-#EXTINF:0,ITV3 HD
-http://86.89.104.199:60230/play/a06t/index.m3u8
-#EXTINF:0,ITV3 HD
-http://185.234.217.19:8012/play/a056/index.m3u8
-#EXTINF:0,ITV3 HD
-http://86.89.104.199:60130/play/a08m
-#EXTINF:0,ITV3 HD
-http://87.212.248.44:60130/play/a08m
-#EXTINF:0,ITV3+1
-http://86.89.104.199:60130/play/a074
-#EXTINF:0,ITV3+1
-http://87.212.248.44:60130/play/a074
-#EXTINF:0,ITV3+1
-http://62.131.92.221:60130/play/a074
-#EXTINF:0,ITVBe
-http://86.89.104.199:60130/play/a08q
-#EXTINF:0,ITVBe
-http://87.212.248.44:60130/play/a08q
-#EXTINF:0,ITVBe
-http://62.131.92.221:60130/play/a08q
-#EXTINF:0,Kerrang!
-http://86.89.104.199:60330/play/a046
-#EXTINF:0,Kerrang!
-http://87.212.248.44:60330/play/a046
-#EXTINF:0,Kerrang!
-http://62.131.92.221:60330/play/a046
-#EXTINF:0,Kiss
-http://62.131.92.221:60530/play/a07v
-#EXTINF:0,Kiss
-http://86.89.104.199:60530/play/a07v
-#EXTINF:0,KISS
-http://87.212.248.44:60330/play/a045
-#EXTINF:0,KISS
-http://86.89.104.199:60330/play/a045
-#EXTINF:0,Kiss
-http://87.212.248.44:60530/play/a07v
-#EXTINF:0,KISS
-http://62.131.92.221:60330/play/a045
-#EXTINF:0,Legend
-http://185.234.217.22:8014/play/a04z/index.m3u8
-#EXTINF:0,Liverpool TV
-http://86.89.104.199:60230/play/a05p/index.m3u8
-#EXTINF:0,Liverpool TV
-http://62.131.92.221:60230/play/a05p/index.m3u8
-#EXTINF:0,Liverpool TV
-http://87.212.248.44:60230/play/a05p/index.m3u8
-#EXTINF:0,Magic
-http://87.212.248.44:60330/play/a042
-#EXTINF:0,Magic
-http://87.212.248.44:60530/play/a07w
-#EXTINF:0,Magic
-http://62.131.92.221:60330/play/a042
-#EXTINF:0,Magic
-http://86.89.104.199:60330/play/a042
-#EXTINF:0,Magic
-http://86.89.104.199:60530/play/a07w
-#EXTINF:0,Magic
-http://62.131.92.221:60530/play/a07w
-#EXTINF:0,More4
-http://62.131.92.221:60350/play/a0a0/index.m3u8
-#EXTINF:0,More4
-http://62.131.92.221:60330/play/a030
-#EXTINF:0,More4
-http://87.212.248.44:60350/play/a0a0/index.m3u8
-#EXTINF:0,More4
-http://86.89.104.199:60350/play/a0a0/index.m3u8
-#EXTINF:0,More4+1
-http://86.89.104.199:60330/play/a04u
-#EXTINF:0,More4+1
-http://87.212.248.44:60330/play/a04u
-#EXTINF:0,More4+1
-http://62.131.92.221:60330/play/a04u
-#EXTINF:0,MTV
-http://62.131.92.221:60130/play/a03w
-#EXTINF:0,MTV
-http://86.89.104.199:60130/play/a03w
-#EXTINF:0,MTV
-http://87.212.248.44:60130/play/a03w
-#EXTINF:0,MTV 90s
-http://86.89.104.199:60130/play/a096
-#EXTINF:0,MTV BASE
-http://62.131.92.221:60130/play/a03t
-#EXTINF:0,MTV BASE
-http://86.89.104.199:60130/play/a03t
-#EXTINF:0,MTV BASE
-http://87.212.248.44:60130/play/a03t
-#EXTINF:0,MTV CLASSIC
-http://62.131.92.221:60130/play/a03u
-#EXTINF:0,MTV CLASSIC
-http://86.89.104.199:60130/play/a03u
-#EXTINF:0,MTV CLASSIC
-http://87.212.248.44:60130/play/a03u
-#EXTINF:0,MTV HITS
-http://87.212.248.44:60330/play/a058
-#EXTINF:0,MTV HITS
-http://86.89.104.199:60330/play/a058
-#EXTINF:0,MTV HITS
-http://62.131.92.221:60330/play/a058
-#EXTINF:0,MTV MUSIC
-http://86.89.104.199:60330/play/a059
-#EXTINF:0,MTV MUSIC
-http://62.131.92.221:60330/play/a059
-#EXTINF:0,MTV MUSIC
-http://87.212.248.44:60330/play/a059
-#EXTINF:0,Nick Jr+1
-http://86.89.104.199:60330/play/a054
-#EXTINF:0,Nick Jr+1
-http://87.212.248.44:60330/play/a054
-#EXTINF:0,Nick Jr+1
-http://62.131.92.221:60330/play/a054
-#EXTINF:0,Nick Jr.
-http://62.131.92.221:60330/play/a053
-#EXTINF:0,Nick Jr.
-http://87.212.248.44:60330/play/a053
-#EXTINF:0,Nick Jr.
-http://86.89.104.199:60330/play/a053
-#EXTINF:0,Nick Jr. Peppa
-http://86.89.104.199:60330/play/a04r
-#EXTINF:0,Nick Jr. Peppa
-http://87.212.248.44:60330/play/a04r
-#EXTINF:0,Nick Jr. Peppa
-http://62.131.92.221:60330/play/a04r
-#EXTINF:0,Nick Jr. Too
-http://185.234.217.19:8012/play/a059/index.m3u8
-#EXTINF:0,Nick Jr. Too
-http://87.212.248.44:60330/play/a05l
-#EXTINF:0,Nick Jr. Too
-http://62.131.92.221:60330/play/a05l
-#EXTINF:0,Nick Jr. Too
-http://86.89.104.199:60330/play/a05l
-#EXTINF:0,Nickelodeon
-http://86.89.104.199:60330/play/a055
-#EXTINF:0,Nickelodeon
-http://62.131.92.221:60330/play/a055
-#EXTINF:0,Nickelodeon
-http://87.212.248.44:60330/play/a07m
-#EXTINF:0,Nickelodeon
-http://87.212.248.44:60330/play/a055
-#EXTINF:0,Nickelodeon
-http://86.89.104.199:60330/play/a07m
-#EXTINF:0,Nickelodeon
-http://62.131.92.221:60330/play/a07m
-#EXTINF:0,Nickelodeon+1
-http://87.212.248.44:60330/play/a051
-#EXTINF:0,Nickelodeon+1
-http://62.131.92.221:60330/play/a051
-#EXTINF:0,Nickelodeon+1
-http://86.89.104.199:60330/play/a051
-#EXTINF:0,NickJr. Too
-http://87.212.248.44:60330/play/a05i
-#EXTINF:0,NickJr. Too
-http://86.89.104.199:60330/play/a05i
-#EXTINF:0,NickJr. Too
-http://62.131.92.221:60330/play/a05i
-#EXTINF:0,NickJrPAWPatrol
-http://87.212.248.44:60330/play/a056
-#EXTINF:0,NickJrPAWPatrol
-http://62.131.92.221:60330/play/a056
-#EXTINF:0,NickJrPAWPatrol
-http://86.89.104.199:60330/play/a056
-#EXTINF:0,Nicktoons
-http://87.212.248.44:60330/play/a07k
-#EXTINF:0,Nicktoons
-http://86.89.104.199:60330/play/a07k
-#EXTINF:0,Nicktoons
-http://62.131.92.221:60330/play/a07k
-#EXTINF:0,NOW 70s
-http://62.131.92.221:60530/play/a07r
-#EXTINF:0,NOW 70s
-http://87.212.248.44:60530/play/a07r
-#EXTINF:0,NOW 70s
-http://86.89.104.199:60530/play/a07r
-#EXTINF:0,NOW 80s
-http://86.89.104.199:60450/play/a082/index.m3u8
-#EXTINF:0,NOW 80s
-http://87.212.248.44:60530/play/a08s
-#EXTINF:0,NOW 80s
-http://62.131.92.221:60530/play/a08s
-#EXTINF:0,NOW 80s
-http://62.131.92.221:60450/play/a082/index.m3u8
-#EXTINF:0,NOW 80s
-http://86.89.104.199:60530/play/a08s
-#EXTINF:0,NOW 80s
-http://87.212.248.44:60450/play/a082/index.m3u8
-#EXTINF:0,NOW 90s
-http://87.212.248.44:60530/play/a088
-#EXTINF:0,NOW 90s
-http://86.89.104.199:60530/play/a088
-#EXTINF:0,NOW 90s
-http://62.131.92.221:60530/play/a088
-#EXTINF:0,Paramount
-http://87.212.248.44:60330/play/a03b
-#EXTINF:0,Paramount
-http://62.131.92.221:60330/play/a03b
-#EXTINF:0,Paramount
-http://86.89.104.199:60330/play/a03b
-#EXTINF:0,PBS America
-http://185.234.217.22:8014/play/a052/index.m3u8
-#EXTINF:0,Pick
-http://62.131.92.221:60150/play/a0ac/index.m3u8
-#EXTINF:0,Pick
-http://86.89.104.199:60150/play/a0ac/index.m3u8
-#EXTINF:0,Pick
-http://87.212.248.44:60150/play/a0ac/index.m3u8
-#EXTINF:0,Pick ireland
-http://87.212.248.44:60150/play/a0aq/index.m3u8
-#EXTINF:0,Pick ireland
-http://62.131.92.221:60150/play/a0aq/index.m3u8
-#EXTINF:0,Pick ireland
-http://86.89.104.199:60150/play/a0aq/index.m3u8
-#EXTINF:0,Pick+1
-http://86.89.104.199:60150/play/a0ad/index.m3u8
-#EXTINF:0,Pick+1
-http://62.131.92.221:60150/play/a0ad/index.m3u8
-#EXTINF:0,Pick+1
-http://87.212.248.44:60150/play/a0ad/index.m3u8
-#EXTINF:0,POP
-http://62.131.92.221:60130/play/a05y
-#EXTINF:0,POP
-http://86.89.104.199:60130/play/a05y
-#EXTINF:0,POP
-http://87.212.248.44:60130/play/a05y
-#EXTINF:0,POP
-http://185.234.217.22:8014/play/a05j/index.m3u8
-#EXTINF:0,POP Max
-http://185.234.217.22:8014/play/a05l/index.m3u8
-#EXTINF:0,POP Max
-http://87.212.248.44:60130/play/a05z
-#EXTINF:0,POP Max
-http://86.89.104.199:60130/play/a05z
-#EXTINF:0,POP Max
-http://62.131.92.221:60130/play/a05z
-#EXTINF:0,POP Max+1
-http://62.131.92.221:60130/play/a08e
-#EXTINF:0,POP Max+1
-http://185.234.217.22:8014/play/a05n/index.m3u8
-#EXTINF:0,POP Max+1
-http://86.89.104.199:60130/play/a08e
-#EXTINF:0,POP Max+1
-http://87.212.248.44:60130/play/a08e
-#EXTINF:0,POP+1
-http://62.131.92.221:60130/play/a08g
-#EXTINF:0,POP+1
-http://86.89.104.199:60130/play/a08g
-#EXTINF:0,POP+1
-http://87.212.248.44:60130/play/a08g
-#EXTINF:0,POP+1
-http://185.234.217.22:8014/play/a05p/index.m3u8
-#EXTINF:0,QUEST
-http://62.131.92.221:60150/play/a0b8/index.m3u8
-#EXTINF:0,QUEST
-http://86.89.104.199:60150/play/a0b8/index.m3u8
-#EXTINF:0,QUEST
-http://87.212.248.44:60150/play/a0b8/index.m3u8
-#EXTINF:0,QUEST HD
-http://87.212.248.44:60130/play/a06l
-#EXTINF:0,QUEST HD
-http://62.131.92.221:60130/play/a06l
-#EXTINF:0,QUEST HD
-http://86.89.104.199:60130/play/a06l
-#EXTINF:0,Quest Red
-http://87.212.248.44:60150/play/a0b9/index.m3u8
-#EXTINF:0,Quest Red
-http://62.131.92.221:60150/play/a0b9/index.m3u8
-#EXTINF:0,Quest Red
-http://86.89.104.199:60150/play/a0b9/index.m3u8
-#EXTINF:0,Quest Red+1
-http://62.131.92.221:60150/play/a0b7/index.m3u8
-#EXTINF:0,Quest Red+1
-http://86.89.104.199:60150/play/a0b7/index.m3u8
-#EXTINF:0,Quest Red+1
-http://87.212.248.44:60150/play/a0b7/index.m3u8
-#EXTINF:0,QUEST+1
-http://86.89.104.199:60150/play/a0ba/index.m3u8
-#EXTINF:0,QUEST+1
-http://62.131.92.221:60150/play/a0ba/index.m3u8
-#EXTINF:0,QUEST+1
-http://87.212.248.44:60150/play/a0ba/index.m3u8
-#EXTINF:0,RealityXtra
-http://185.234.217.22:8014/play/a04u/index.m3u8
-#EXTINF:0,RealityXtra
-http://185.234.217.22:8014/play/a04y/index.m3u8
-#EXTINF:0,Really
-http://62.131.92.221:60330/play/a04c
-#EXTINF:0,Really
-http://87.212.248.44:60330/play/a07u
-#EXTINF:0,Really
-http://86.89.104.199:60330/play/a07u
-#EXTINF:0,S4C
-http://62.131.92.221:60230/play/a053/index.m3u8
-#EXTINF:0,S4C
-http://185.234.217.22:8014/play/a05d/index.m3u8
-#EXTINF:0,S4C
-http://86.89.104.199:60230/play/a053/index.m3u8
-#EXTINF:0,S4C
-http://87.212.248.44:60230/play/a053/index.m3u8
-#EXTINF:0,S4C HD
-http://62.131.92.221:60130/play/a06i
-#EXTINF:0,S4C HD
-http://87.212.248.44:60130/play/a06i
-#EXTINF:0,S4C HD
-http://86.89.104.199:60130/play/a06i
-#EXTINF:0,Showcase
-http://86.89.104.199:60230/play/a07k/index.m3u8
-#EXTINF:11,Showcase
-http://62.131.92.221:60230/play/a07k/index.m3u8
-#EXTINF:0,Showcase
-http://62.131.92.221:60230/play/a05q/index.m3u8
-#EXTINF:0,Showcase
-http://87.212.248.44:60230/play/a07k/index.m3u8
-#EXTINF:0,Showcase
-http://86.89.104.199:60230/play/a05q/index.m3u8
-#EXTINF:0,Showcase
-http://87.212.248.44:60230/play/a05q/index.m3u8
-#EXTINF:0,Sky Arts
-http://86.89.104.199:60150/play/a0ab/index.m3u8
-#EXTINF:0,Sky Arts
-http://87.212.248.44:60150/play/a0ab/index.m3u8
-#EXTINF:0,Sky Arts
-http://62.131.92.221:60150/play/a0ab/index.m3u8
-#EXTINF:0,Sky News
-http://62.131.92.221:60150/play/a0ae/index.m3u8
-#EXTINF:0,Sky News
-http://87.212.248.44:60150/play/a0ae/index.m3u8
-#EXTINF:0,Sky News
-http://86.89.104.199:60150/play/a0ae/index.m3u8
-#EXTINF:0,Smithsonian
-http://62.131.92.221:60450/play/a08g/index.m3u8
-#EXTINF:0,Smithsonian
-http://87.212.248.44:60450/play/a08g/index.m3u8
-#EXTINF:0,Smithsonian
-http://86.89.104.199:60450/play/a08g/index.m3u8
-#EXTINF:0,Sony Action
-http://86.89.104.199:60130/play/a05u
-#EXTINF:0,Sony Action
-http://62.131.92.221:60130/play/a05u
-#EXTINF:0,Sony Action
-http://87.212.248.44:60130/play/a05u
-#EXTINF:0,Sony Action+1
-http://87.212.248.44:60130/play/a08f
-#EXTINF:0,Sony Action+1
-http://86.89.104.199:60130/play/a08f
-#EXTINF:0,Sony Action+1
-http://62.131.92.221:60130/play/a08f
-#EXTINF:0,Sony Channel
-http://62.131.92.221:60130/play/a060
-#EXTINF:0,Sony Channel
-http://87.212.248.44:60130/play/a060
-#EXTINF:0,Sony Channel
-http://86.89.104.199:60130/play/a060
-#EXTINF:0,Sony Channel+1
-http://62.131.92.221:60130/play/a08h
-#EXTINF:0,Sony Channel+1
-http://87.212.248.44:60130/play/a08h
-#EXTINF:0,Sony Channel+1
-http://86.89.104.199:60130/play/a08h
-#EXTINF:0,Sony Christmas
-http://62.131.92.221:60130/play/a06z
-#EXTINF:0,Sony Christmas
-http://86.89.104.199:60130/play/a06z
-#EXTINF:0,Sony Christmas
-http://87.212.248.44:60130/play/a06z
-#EXTINF:0,Sony Classic
-http://86.89.104.199:60130/play/a05w
-#EXTINF:0,Sony Classic
-http://62.131.92.221:60130/play/a05w
-#EXTINF:0,Sony Classic
-http://87.212.248.44:60130/play/a05w
-#EXTINF:0,Sony Classic+1
-http://87.212.248.44:60130/play/a08b
-#EXTINF:0,Sony Classic+1
-http://86.89.104.199:60130/play/a08b
-#EXTINF:0,Sony Classic+1
-http://62.131.92.221:60130/play/a08b
-#EXTINF:0,Sony Movies
-http://86.89.104.199:60130/play/a05v
-#EXTINF:0,Sony Movies
-http://87.212.248.44:60130/play/a05v
-#EXTINF:0,Sony Movies
-http://62.131.92.221:60130/play/a05v
-#EXTINF:0,Sony Movies+1
-http://87.212.248.44:60130/play/a08d
-#EXTINF:0,Sony Movies+1
-http://62.131.92.221:60130/play/a08d
-#EXTINF:0,Sony Movies+1
-http://86.89.104.199:60130/play/a08d
-#EXTINF:0,SportyStuff HD
-http://87.212.248.44:60230/play/a07s/index.m3u8
-#EXTINF:0,SportyStuff HD
-http://62.131.92.221:60230/play/a07s/index.m3u8
-#EXTINF:0,SportyStuff HD
-http://86.89.104.199:60230/play/a07s/index.m3u8
-#EXTINF:0,Spotlight TV
-http://87.212.248.44:60450/play/a087/index.m3u8
-#EXTINF:0,Spotlight TV
-http://86.89.104.199:60450/play/a087/index.m3u8
-#EXTINF:0,Spotlight TV
-http://62.131.92.221:60450/play/a087/index.m3u8
-#EXTINF:0,STV
-http://87.212.248.44:60130/play/a06a
-#EXTINF:0,STV
-http://86.89.104.199:60130/play/a06a
-#EXTINF:0,STV
-http://62.131.92.221:60130/play/a06a
-#EXTINF:0,STV Central East
-http://86.89.104.199:60130/play/a07i
-#EXTINF:0,STV Central East
-http://87.212.248.44:60130/play/a07i
-#EXTINF:0,STV Central East
-http://62.131.92.221:60130/play/a07i
-#EXTINF:0,STV Central West
-http://87.212.248.44:60130/play/a07h
-#EXTINF:0,STV Central West
-http://62.131.92.221:60130/play/a07h
-#EXTINF:0,STV Central West
-http://86.89.104.199:60130/play/a07h
-#EXTINF:0,STV HD
-http://86.89.104.199:60350/play/a0a7/index.m3u8
-#EXTINF:0,STV HD
-http://62.131.92.221:60350/play/a0a7/index.m3u8
-#EXTINF:0,STV HD
-http://87.212.248.44:60350/play/a0a7/index.m3u8
-#EXTINF:0,STV North
-http://86.89.104.199:60130/play/a07g
-#EXTINF:0,STV North
-http://87.212.248.44:60130/play/a07g
-#EXTINF:0,STV North
-http://62.131.92.221:60130/play/a07g
-#EXTINF:0,TalkingPictures
-http://62.131.92.221:60230/play/a05j/index.m3u8
-#EXTINF:0,TalkingPictures
-http://87.212.248.44:60230/play/a05j/index.m3u8
-#EXTINF:0,TalkingPictures
-http://86.89.104.199:60230/play/a05j/index.m3u8
-#EXTINF:0,TalkingPictures
-http://86.89.104.199:60530/play/a09o
-#EXTINF:0,TCM Movies
-http://87.212.248.44:60330/play/a03v
-#EXTINF:0,TCM Movies
-http://62.131.92.221:60330/play/a03v
-#EXTINF:0,TCM Movies
-http://86.89.104.199:60330/play/a03v
-#EXTINF:0,TCM Movies+1
-http://87.212.248.44:60330/play/a05n
-#EXTINF:0,TCM Movies+1
-http://62.131.92.221:60330/play/a05n
-#EXTINF:0,TCM Movies+1
-http://86.89.104.199:60330/play/a05n
-#EXTINF:0,That's TV Gold
-http://86.89.104.199:60530/play/a09h
-#EXTINF:0,That's TV Gold
-http://87.212.248.44:60530/play/a09h
-#EXTINF:0,That's TV Gold
-http://62.131.92.221:60530/play/a09h
-#EXTINF:0,The Box
-http://86.89.104.199:60330/play/a043
-#EXTINF:0,The Box
-http://62.131.92.221:60330/play/a043
-#EXTINF:0,The Box
-http://87.212.248.44:60330/play/a043
-#EXTINF:0,Tiny Pop
-http://185.234.217.22:8014/play/a05i/index.m3u8
-#EXTINF:0,Tiny Pop
-http://62.131.92.221:60130/play/a05x
-#EXTINF:0,Tiny Pop
-http://87.212.248.44:60130/play/a05x
-#EXTINF:0,Tiny Pop
-http://86.89.104.199:60130/play/a05x
-#EXTINF:0,Tiny Pop+1
-http://87.212.248.44:60130/play/a08c
-#EXTINF:0,Tiny Pop+1
-http://86.89.104.199:60130/play/a08c
-#EXTINF:0,Tiny Pop+1
-http://185.234.217.22:8014/play/a05k/index.m3u8
-#EXTINF:0,Tiny Pop+1
-http://62.131.92.221:60130/play/a08c
-#EXTINF:0,Together
-http://86.89.104.199:60150/play/a09u/index.m3u8
-#EXTINF:0,Together
-http://87.212.248.44:60150/play/a09u/index.m3u8
-#EXTINF:0,Together
-http://62.131.92.221:60150/play/a09u/index.m3u8
-#EXTINF:0,Trace Hits
-http://86.89.104.199:60230/play/a075/index.m3u8
-#EXTINF:0,Trace Hits
-http://87.212.248.44:60230/play/a075/index.m3u8
-#EXTINF:0,Trace Hits
-http://62.131.92.221:60230/play/a075/index.m3u8
-#EXTINF:0,Trace Hits
-http://185.234.217.22:8014/play/a04x/index.m3u8
-#EXTINF:0,Trace Vault
-http://185.234.217.22:8014/play/a050/index.m3u8
-#EXTINF:29,TV One
-http://87.212.248.44:60450/play/a08o/index.m3u8
-#EXTINF:0,TV One
-http://86.89.104.199:60450/play/a08o/index.m3u8
-#EXTINF:0,TV One
-http://62.131.92.221:60450/play/a08o/index.m3u8
-#EXTINF:0,UTV HD
-http://87.212.248.44:60350/play/a0a8/index.m3u8
-#EXTINF:0,UTV HD
-http://86.89.104.199:60350/play/a0a8/index.m3u8
-#EXTINF:0,UTV HD
-http://62.131.92.221:60350/play/a0a8/index.m3u8
-#EXTINF:0,W
-http://62.131.92.221:60450/play/a08c/index.m3u8
-#EXTINF:0,W
-http://87.212.248.44:60450/play/a08c/index.m3u8
-#EXTINF:0,W
-http://62.131.92.221:60530/play/a085
-#EXTINF:0,W
-http://86.89.104.199:60530/play/a085
-#EXTINF:0,W
-http://87.212.248.44:60530/play/a085
-#EXTINF:0,W
-http://86.89.104.199:60450/play/a08c/index.m3u8
-#EXTINF:0,W
-http://87.212.248.44:60650/play/a04r/index.m3u8
-#EXTINF:0,W
-http://62.131.92.221:60650/play/a04r/index.m3u8
-#EXTINF:0,W
-http://86.89.104.199:60650/play/a04r/index.m3u8
-#EXTINF:0,W+1
-http://86.89.104.199:60650/play/a04w/index.m3u8
-#EXTINF:0,W+1
-http://62.131.92.221:60650/play/a04w/index.m3u8
-#EXTINF:0,W+1
-http://87.212.248.44:60650/play/a04w/index.m3u8
-#EXTINF:0,YESTERDAY
-http://185.234.217.19:8016/play/a04u/index.m3u8
-#EXTINF:0,YESTERDAY
-http://86.89.104.199:60650/play/a04p/index.m3u8
-#EXTINF:0,YESTERDAY
-http://62.131.92.221:60650/play/a04p/index.m3u8
-#EXTINF:0,YESTERDAY
-http://87.212.248.44:60650/play/a04p/index.m3u8
-#EXTINF:0,YESTERDAY+1
-http://62.131.92.221:60650/play/a050/index.m3u8
-#EXTINF:0,YESTERDAY+1
-http://185.234.217.19:8016/play/a053/index.m3u8
-#EXTINF:0,YESTERDAY+1
-http://86.89.104.199:60650/play/a050/index.m3u8
-#EXTINF:0,YESTERDAY+1
-http://87.212.248.44:60650/play/a050/index.m3u8
+ #EXTM3U
+#EXTINF:-1,Channel 5
+http://194.76.186.55:8888/udp/239.33.30.21:1234
+#EXTINF:-1,Channel 5
+http://194.76.186.55:8888/udp/239.33.30.70:1234
+#EXTINF:-1,5 USA
+http://194.76.186.55:8888/udp/239.33.30.30:1234
+#EXTINF:-1,5SELECT
+http://194.76.186.55:8888/udp/239.33.30.36:1234
+#EXTINF:-1,5USA+1
+http://194.76.186.55:8888/udp/239.33.30.31:1234
+#EXTINF:-1,5STAR+1
+http://194.76.186.55:8888/udp/239.33.30.37:1234
+#EXTINF:-1,5STAR
+http://194.76.186.55:8888/udp/239.33.30.35:1234
+#EXTINF:-1,Channel 5+1
+http://194.76.186.55:8888/udp/239.33.30.40:1234
+#EXTINF:-1,5ACTION
+http://194.76.186.55:8888/udp/239.33.30.80:1234
+#EXTINF:-1,NickJrPAWPatrol
+http://194.76.186.55:8888/udp/239.33.30.90:1234
+#EXTINF:-1,Sky Arts
+http://194.76.186.55:8888/udp/239.37.22.120:1234
+#EXTINF:-1,Pick
+http://194.76.186.55:8888/udp/239.37.22.200:1234
+#EXTINF:-1,GREAT! action
+http://194.76.186.55:8888/udp/239.14.208.62:1234
+#EXTINF:-1,GREAT! xmas+1
+http://194.76.186.55:8888/udp/239.14.208.77:1234
+#EXTINF:-1,GREAT! xmas
+http://194.76.186.55:8888/udp/239.14.208.72:1234
+#EXTINF:-1,Tiny Pop
+http://194.76.186.55:8888/udp/239.14.208.82:1234
+#EXTINF:-1,GREAT! movies
+http://194.76.186.55:8888/udp/239.14.208.67:1234
+#EXTINF:-1,Tiny Pop+1
+http://194.76.186.55:8888/udp/239.14.208.97:1234
+#EXTINF:-1,GREAT! movies+1
+http://194.76.186.55:8888/udp/239.14.208.107:1234
+#EXTINF:-1,POP Max
+http://194.76.186.55:8888/udp/239.14.208.102:1234
+#EXTINF:-1,GREAT!action+1
+http://194.76.186.55:8888/udp/239.14.208.117:1234
+#EXTINF:-1,POP Max+1
+http://194.76.186.55:8888/udp/239.14.208.112:1234
+#EXTINF:-1,POP
+http://194.76.186.55:8888/udp/239.14.208.92:1234
+#EXTINF:-1,POP+1
+http://194.76.186.55:8888/udp/239.14.208.122:1234
+#EXTINF:-1,GREAT! tv+1
+http://194.76.186.55:8888/udp/239.14.208.132:1234
+#EXTINF:-1,GREAT! tv
+http://194.76.186.55:8888/udp/239.14.208.127:1234
+#EXTINF:-1,ITV
+http://194.76.186.55:8888/udp/239.35.39.216:1234
+#EXTINF:-1,ITV2
+http://194.76.186.55:8888/udp/239.35.39.218:1234
+#EXTINF:-1,STV
+http://194.76.186.55:8888/udp/239.35.39.236:1234
+#EXTINF:-1,STV
+http://194.76.186.55:8888/udp/239.35.39.226:1234
+#EXTINF:-1,STV
+http://194.76.186.55:8888/udp/239.35.39.237:1234
+#EXTINF:-1,ITVBe
+http://194.76.186.55:8888/udp/239.35.39.249:1234
+#EXTINF:-1,ITV+1
+http://194.76.186.55:8888/udp/239.35.39.251:1234
+#EXTINF:-1,STV
+http://194.76.186.55:8888/udp/239.35.39.241:1234
+#EXTINF:-1,ITV
+http://194.76.186.55:8888/udp/239.36.39.138:1234
+#EXTINF:-1,ITV
+http://194.76.186.55:8888/udp/239.36.39.137:1234
+#EXTINF:-1,ITV+1
+http://194.76.186.55:8888/udp/239.36.39.161:1234
+#EXTINF:-1,UTV
+http://194.76.186.55:8888/udp/239.36.39.148:1234
+#EXTINF:-1,ITV
+http://194.76.186.55:8888/udp/239.36.39.158:1234
+#EXTINF:-1,ITV+1
+http://194.76.186.55:8888/udp/239.36.39.171:1234
+#EXTINF:-1,ITV4
+http://194.76.186.55:8888/udp/239.36.39.177:1234
+#EXTINF:-1,ITV Wales
+http://194.76.186.55:8888/udp/239.36.39.163:1234
+#EXTINF:-1,ITV
+http://194.76.186.55:8888/udp/239.36.39.166:1234
+#EXTINF:-1,ITV3
+http://194.76.186.55:8888/udp/239.36.39.179:1234
+#EXTINF:-1,ITV4
+http://194.76.186.55:8888/udp/239.36.39.180:1234
+#EXTINF:-1,ITV2+1
+http://194.76.186.55:8888/udp/239.36.39.181:1234
+#EXTINF:-1,CBeebies
+http://194.76.186.55:8888/udp/239.31.24.174:1234
+#EXTINF:-1,BBC One Lon
+http://194.76.186.55:8888/udp/239.31.24.177:1234
+#EXTINF:-1,BBC Two
+http://194.76.186.55:8888/udp/239.31.24.178:1234
+#EXTINF:-1,ETV1
+http://194.76.186.55:8888/udp/239.31.24.162:1234
+#EXTINF:-1,CBeebies
+http://194.76.186.55:8888/udp/239.31.24.194:1234
+#EXTINF:-1,BBC One West
+http://194.76.186.55:8888/udp/239.31.24.197:1234
+#EXTINF:-1,BBC One Lon
+http://194.76.186.55:8888/udp/239.31.24.157:1234
+#EXTINF:-1,BBC Two
+http://194.76.186.55:8888/udp/239.31.24.158:1234
+#EXTINF:-1,BBC One East W
+http://194.76.186.55:8888/udp/239.31.24.207:1234
+#EXTINF:-1,BBC One CI
+http://194.76.186.55:8888/udp/239.31.24.217:1234
+#EXTINF:-1,BBC RB 1
+http://194.76.186.55:8888/udp/239.31.24.246:1234
+#EXTINF:-1,Really
+http://194.76.186.55:8888/udp/239.11.207.233:1234
+#EXTINF:-1,HGTV+1
+http://194.76.186.55:8888/udp/239.11.207.239:1234
+#EXTINF:-1,Really
+http://194.76.186.55:8888/udp/239.11.207.243:1234
+#EXTINF:-1,HGTV
+http://194.76.186.55:8888/udp/239.11.207.229:1234
+#EXTINF:-1,Challenge
+http://194.76.186.55:8888/udp/239.38.23.143:1234
+#EXTINF:-1,TalkTV
+http://194.76.186.55:8888/udp/239.20.205.110:1234
+#EXTINF:-1,S4C HD
+http://194.76.186.55:8888/udp/239.20.205.85:1234
+#EXTINF:-1,FreeSports HD
+http://194.76.186.55:8888/udp/239.20.205.95:1234
+#EXTINF:-1,QUEST HD
+http://194.76.186.55:8888/udp/239.20.205.100:1234
+#EXTINF:-1,TLC
+http://194.76.186.55:8888/udp/239.20.205.91:1234
+#EXTINF:-1,BBC One Wal
+http://194.76.186.55:8888/udp/239.25.34.207:1234
+#EXTINF:-1,BBCScotlandHD
+http://194.76.186.55:8888/udp/239.25.34.220:1234
+#EXTINF:-1,BBC One ScotHD
+http://194.76.186.55:8888/udp/239.25.34.197:1234
+#EXTINF:-1,CBeebies HD
+http://194.76.186.55:8888/udp/239.25.34.228:1234
+#EXTINF:-1,CBeebies HD
+http://194.76.186.55:8888/udp/239.25.34.248:1234
+#EXTINF:-1,BBC NEWS HD
+http://194.76.186.55:8888/udp/239.25.34.217:1234
+#EXTINF:-1,HorrorXtra
+http://194.76.186.55:8888/udp/239.16.215.162:1234
+#EXTINF:-1,CBS Reality+1
+http://194.76.186.55:8888/udp/239.16.215.177:1234
+#EXTINF:-1,CBS Reality
+http://194.76.186.55:8888/udp/239.16.215.176:1234
+#EXTINF:-1,Trace Xmas
+http://194.76.186.55:8888/udp/239.16.215.167:1234
+#EXTINF:-1,CBS Reality
+http://194.76.186.55:8888/udp/239.16.215.174:1234
+#EXTINF:-1,PBS America
+http://194.76.186.55:8888/udp/239.16.215.173:1234
+#EXTINF:-1,RealityXtra
+http://194.76.186.55:8888/udp/239.16.215.168:1234
+#EXTINF:-1,HorrorXtra+1
+http://194.76.186.55:8888/udp/239.16.215.178:1234
+#EXTINF:-1,Legend
+http://194.76.186.55:8888/udp/239.16.215.169:1234
+#EXTINF:-1,Trace Vault
+http://194.76.186.55:8888/udp/239.16.215.170:1234
+#EXTINF:-1,BT Sport 1
+http://194.76.186.55:8888/udp/239.16.215.165:1234
+#EXTINF:-1,BT Sport 3
+http://194.76.186.55:8888/udp/239.16.215.171:1234
+#EXTINF:-1,BT Sport 1
+http://194.76.186.55:8888/udp/239.16.215.210:1234
+#EXTINF:-1,BT Sport 3
+http://194.76.186.55:8888/udp/239.16.215.220:1234
+#EXTINF:-1,55251
+http://194.76.186.55:8888/udp/239.16.215.211:1234
+#EXTINF:-1,50368
+http://194.76.186.55:8888/udp/239.16.215.212:1234
+#EXTINF:-1,50342
+http://194.76.186.55:8888/udp/239.16.215.221:1234
+#EXTINF:-1,50343
+http://194.76.186.55:8888/udp/239.16.215.222:1234
+#EXTINF:-1,S4C
+http://194.76.186.55:8888/udp/239.16.215.255:1234
+#EXTINF:-1,More4+1
+http://194.76.186.55:8888/udp/239.34.36.14:1234
+#EXTINF:-1,Film4
+http://194.76.186.55:8888/udp/239.34.36.4:1234
+#EXTINF:-1,E4
+http://194.76.186.55:8888/udp/239.34.36.25:1234
+#EXTINF:-1,More4
+http://194.76.186.55:8888/udp/239.34.36.15:1234
+#EXTINF:-1,c4 l
+http://194.76.186.55:8888/udp/239.34.36.65:1234
+#EXTINF:-1,Channel 4+1
+http://194.76.186.55:8888/udp/239.34.36.29:1234
+#EXTINF:-1,E4+1
+http://194.76.186.55:8888/udp/239.34.36.34:1234
+#EXTINF:-1,Pitaara
+http://194.76.186.55:8888/udp/239.12.203.134:1234
+#EXTINF:-1,NOW 70s
+http://194.76.186.55:8888/udp/239.12.203.139:1234
+#EXTINF:-1,CHSTV
+http://194.76.186.55:8888/udp/239.12.203.141:1234
+#EXTINF:-1,Kanshi TV
+http://194.76.186.55:8888/udp/239.12.203.138:1234
+#EXTINF:-1,Babenation
+http://194.76.186.55:8888/udp/239.12.203.144:1234
+#EXTINF:-1,Foodxp
+http://194.76.186.55:8888/udp/239.12.203.136:1234
+#EXTINF:-1,Classic Hits
+http://194.76.186.55:8888/udp/239.12.203.153:1234
+#EXTINF:-1,TalkingPictures
+http://194.76.186.55:8888/udp/239.12.203.167:1234
+#EXTINF:-1,That's TV
+http://194.76.186.55:8888/udp/239.12.203.171:1234
+#EXTINF:-1,Ideal Extra
+http://194.76.186.55:8888/udp/239.12.203.182:1234
+#EXTINF:-1,Eman Channel
+http://194.76.186.55:8888/udp/239.12.203.172:1234
+#EXTINF:-1,SONY MAX
+http://194.76.186.55:8888/udp/239.12.203.132:1234
+#EXTINF:-1,Al Jazeera HD
+http://194.76.186.55:8888/udp/239.12.203.221:1234
+#EXTINF:-1,Food Network
+http://194.76.186.55:8888/udp/239.32.11.94:1234
+#EXTINF:-1,Food Network
+http://194.76.186.55:8888/udp/239.32.11.92:1234
+#EXTINF:-1,DMAX
+http://194.76.186.55:8888/udp/239.32.11.100:1234
+#EXTINF:-1,Food Netwrk+1
+http://194.76.186.55:8888/udp/239.32.11.96:1234
+#EXTINF:-1,DMAX+1
+http://194.76.186.55:8888/udp/239.32.11.89:1234
+#EXTINF:-1,Quest Red
+http://194.76.186.55:8888/udp/239.32.24.70:1234
+#EXTINF:-1,Quest Red+1
+http://194.76.186.55:8888/udp/239.32.24.67:1234
+#EXTINF:-1,QUEST
+http://194.76.186.55:8888/udp/239.32.24.69:1234
+#EXTINF:-1,QUEST+1
+http://194.76.186.55:8888/udp/239.32.24.71:1234
+#EXTINF:-1,Animal Planet
+http://194.76.186.55:8888/udp/239.32.24.58:1234
+#EXTINF:-1,Discovery
+http://194.76.186.55:8888/udp/239.32.24.57:1234
+#EXTINF:-1,Disc.Science
+http://194.76.186.55:8888/udp/239.32.24.62:1234
+#EXTINF:-1,Disc.History
+http://194.76.186.55:8888/udp/239.32.24.63:1234
+#EXTINF:-1,Disc.Turbo
+http://194.76.186.55:8888/udp/239.32.24.65:1234
+#EXTINF:-1,TLC
+http://194.76.186.55:8888/udp/239.32.24.89:1234
+#EXTINF:-1,Channel 4
+http://194.76.186.55:8888/udp/239.34.35.254:1234
+#EXTINF:-1,Channel 4
+http://194.76.186.55:8888/udp/239.34.35.251:1234
+#EXTINF:-1,Channel 4
+http://194.76.186.55:8888/udp/239.34.35.252:1234
+#EXTINF:-1,Channel 4
+http://194.76.186.55:8888/udp/239.34.35.253:1234
+#EXTINF:-1,BBC One W Mid
+http://194.76.186.55:8888/udp/239.41.40.61:1234
+#EXTINF:-1,BBC Parliament
+http://194.76.186.55:8888/udp/239.41.40.67:1234
+#EXTINF:-1,BBC One Wales
+http://194.76.186.55:8888/udp/239.41.40.71:1234
+#EXTINF:-1,BBC One E Mid
+http://194.76.186.55:8888/udp/239.41.40.65:1234
+#EXTINF:-1,BBC One Yk
+Li&http://194.76.186.55:8888/udp/239.41.40.63:1234
+#EXTINF:-1,BBC One East E
+http://194.76.186.55:8888/udp/239.41.40.66:1234
+#EXTINF:-1,BBC Two Wales
+http://194.76.186.55:8888/udp/239.41.40.72:1234
+#EXTINF:-1,ETV5
+http://194.76.186.55:8888/udp/239.41.40.81:1234
+#EXTINF:-1,Sky News
+http://194.76.186.55:8888/udp/239.37.25.4:1234
+#EXTINF:-1,BBC Three
+http://194.76.186.55:8888/udp/239.40.40.111:1234
+#EXTINF:-1,BBC One S West
+http://194.76.186.55:8888/udp/239.40.40.114:1234
+#EXTINF:-1,BBC One Oxford
+http://194.76.186.55:8888/udp/239.40.40.116:1234
+#EXTINF:-1,BBC NEWS
+http://194.76.186.55:8888/udp/239.40.40.118:1234
+#EXTINF:-1,BBC One South
+http://194.76.186.55:8888/udp/239.40.40.113:1234
+#EXTINF:-1,BBC Three
+http://194.76.186.55:8888/udp/239.40.40.133:1234
+#EXTINF:-1,ETV6
+http://194.76.186.55:8888/udp/239.40.40.131:1234
+#EXTINF:-1,BBC One NI
+http://194.76.186.55:8888/udp/239.40.40.121:1234
+#EXTINF:-1,BBC Two NI
+http://194.76.186.55:8888/udp/239.40.40.122:1234
+#EXTINF:-1,BBC Two NI
+http://194.76.186.55:8888/udp/239.40.40.153:1234
+#EXTINF:-1,BBC One NI
+http://194.76.186.55:8888/udp/239.40.40.152:1234
+#EXTINF:-1,TRT World HD
+http://194.76.186.55:8888/udp/239.13.215.233:1234
+#EXTINF:-1,Smithsonian HD
+http://194.76.186.55:8888/udp/239.13.215.231:1234
+#EXTINF:-1,Iran Int'l HD
+http://194.76.186.55:8888/udp/239.15.196.74:1234
+#EXTINF:-1,Ideal World HD
+http://194.76.186.55:8888/udp/239.15.196.64:1234
+#EXTINF:-1,EarthxTV HD
+http://194.76.186.55:8888/udp/239.15.196.84:1234
+#EXTINF:-1,LoveWorld HD
+http://194.76.186.55:8888/udp/239.15.196.79:1234
+#EXTINF:-1,CNN HD
+http://194.76.186.55:8888/udp/239.15.196.114:1234
+#EXTINF:-1,Channel 4
+http://194.76.186.55:8888/udp/239.21.82.208:1234
+#EXTINF:-1,Channel 4+1
+http://194.76.186.55:8888/udp/239.39.32.119:1234
+#EXTINF:-1,Channel 4+1
+http://194.76.186.55:8888/udp/239.39.32.120:1234
+#EXTINF:-1,Channel 4+1
+http://194.76.186.55:8888/udp/239.39.32.124:1234
+#EXTINF:-1,E4+1
+http://194.76.186.55:8888/udp/239.39.32.108:1234
+#EXTINF:-1,Channel 4
+http://194.76.186.55:8888/udp/239.39.32.128:1234
+#EXTINF:-1,Channel 4+1
+http://194.76.186.55:8888/udp/239.39.32.122:1234
+#EXTINF:-1,Film4+1
+http://194.76.186.55:8888/udp/239.39.32.149:1234
+#EXTINF:-1,More4
+http://194.76.186.55:8888/udp/239.39.32.148:1234
+#EXTINF:-1,E4
+http://194.76.186.55:8888/udp/239.39.32.114:1234
+#EXTINF:-1,E4 Extra
+http://194.76.186.55:8888/udp/239.39.32.168:1234
+#EXTINF:-1,Channel 4
+http://194.76.186.55:8888/udp/239.39.32.133:1234
+#EXTINF:-1,NOW 80s
+http://194.76.186.55:8888/udp/239.22.196.130:1234
+#EXTINF:-1,CNN
+http://194.76.186.55:8888/udp/239.22.196.140:1234
+#EXTINF:-1,Ahlulbayt TV
+http://194.76.186.55:8888/udp/239.22.196.149:1234
+#EXTINF:-1,Sikh Channel
+http://194.76.186.55:8888/udp/239.22.196.159:1234
+#EXTINF:-1,HobbyMaker
+http://194.76.186.55:8888/udp/239.22.196.170:1234
+#EXTINF:-1,BLAZE
+http://194.76.186.55:8888/udp/239.22.196.174:1234
+#EXTINF:-1,W
+http://194.76.186.55:8888/udp/239.22.196.179:1234
+#EXTINF:-1,ARISEPlay
+http://194.76.186.55:8888/udp/239.22.196.189:1234
+#EXTINF:-1,GOLD
+http://194.76.186.55:8888/udp/239.22.196.144:1234
+#EXTINF:-1,Inspiration TV
+http://194.76.186.55:8888/udp/239.22.196.214:1234
+#EXTINF:-1,BBC Two HD
+http://194.76.186.55:8888/udp/239.26.27.28:1234
+#EXTINF:-1,6945
+http://194.76.186.55:8888/udp/239.26.27.33:1234
+#EXTINF:-1,BBC One
+http://194.76.186.55:8888/udp/239.26.27.49:1234
+#EXTINF:-1,BBC Two HD
+http://194.76.186.55:8888/udp/239.26.27.48:1234
+#EXTINF:-1,BBC One NI HD
+http://194.76.186.55:8888/udp/239.26.27.51:1234
+#EXTINF:-1,BBC Three HD
+http://194.76.186.55:8888/udp/239.26.27.39:1234
+#EXTINF:-1,BBC One HD
+http://194.76.186.55:8888/udp/239.26.27.29:1234
+#EXTINF:-1,BBC Three HD
+http://194.76.186.55:8888/udp/239.26.27.59:1234
+#EXTINF:-1,BBC One NI HD
+http://194.76.186.55:8888/udp/239.26.27.31:1234
+#EXTINF:-1,YESTERDAY
+http://194.76.186.55:8888/udp/239.10.25.105:1234
+#EXTINF:-1,Drama
+http://194.76.186.55:8888/udp/239.10.25.122:1234
+#EXTINF:-1,Dave
+http://194.76.186.55:8888/udp/239.10.25.106:1234
+#EXTINF:-1,W
+http://194.76.186.55:8888/udp/239.10.25.120:1234
+#EXTINF:-1,GOLD
+http://194.76.186.55:8888/udp/239.10.25.104:1234
+#EXTINF:-1,alibi
+http://194.76.186.55:8888/udp/239.10.25.121:1234
+#EXTINF:-1,ITV HD
+http://194.76.186.55:8888/udp/239.18.82.48:1234
+#EXTINF:-1,ITV HD
+http://194.76.186.55:8888/udp/239.18.82.18:1234
+#EXTINF:-1,ITV HD
+http://194.76.186.55:8888/udp/239.18.82.23:1234
+#EXTINF:-1,ITV HD
+http://194.76.186.55:8888/udp/239.18.82.78:1234
+#EXTINF:-1,ITV HD
+http://194.76.186.55:8888/udp/239.18.82.88:1234
+#EXTINF:-1,4seven
+http://194.76.186.55:8888/udp/239.21.83.2:1234
+#EXTINF:-1,STV HD
+http://194.76.186.55:8888/udp/239.28.81.64:1234
+#EXTINF:-1,UTV HD
+http://194.76.186.55:8888/udp/239.28.81.74:1234
+#EXTINF:-1,ITV HD
+http://194.76.186.55:8888/udp/239.28.81.84:1234
+#EXTINF:-1,ITV HD
+http://194.76.186.55:8888/udp/239.28.81.114:1234
+#EXTINF:-1,ITV HD
+http://194.76.186.55:8888/udp/239.28.81.104:1234
+#EXTINF:-1,ITV4
+http://194.76.186.55:8888/udp/239.28.81.89:1234
+#EXTINF:-1,FRANCE 24 HD
+http://194.76.186.55:8888/udp/239.17.216.14:1234
+#EXTINF:-1,TJC HD
+http://194.76.186.55:8888/udp/239.17.216.19:1234
+#EXTINF:-1,DAYSTAR HD
+http://194.76.186.55:8888/udp/239.17.216.9:1234
+#EXTINF:-1,Bloomberg HD
+http://194.76.186.55:8888/udp/239.17.216.96:1234
