@@ -1,4 +1,16 @@
 #EXTM3U
+http://62.131.92.221:60030/playlist.m3u8
+http://62.131.92.221:60130/playlist.m3u8
+http://62.131.92.221:60150/playlist.m3u8
+http://62.131.92.221:60230/playlist.m3u8
+http://62.131.92.221:60250/playlist.m3u8
+http://62.131.92.221:60330/playlist.m3u8
+http://62.131.92.221:60350/playlist.m3u8
+http://62.131.92.221:60450/playlist.m3u8
+http://62.131.92.221:60530/playlist.m3u8
+http://62.131.92.221:60550/playlist.m3u8
+http://62.131.92.221:60630/playlist.m3u8
+http://62.131.92.221:60650/playlist.m3u8
 #EXTINF:8,4seven
 http://62.131.92.221:60230/play/a04t/index.m3u8
 #EXTINF:0,5 USA
