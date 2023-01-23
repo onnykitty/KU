@@ -1,222 +1,158 @@
 #EXTM3U
-http://62.131.92.221:60030/playlist.m3u8
-http://62.131.92.221:60130/playlist.m3u8
-http://62.131.92.221:60150/playlist.m3u8
-http://62.131.92.221:60230/playlist.m3u8
-http://62.131.92.221:60250/playlist.m3u8
-http://62.131.92.221:60330/playlist.m3u8
-http://62.131.92.221:60350/playlist.m3u8
-http://62.131.92.221:60450/playlist.m3u8
-http://62.131.92.221:60530/playlist.m3u8
-http://62.131.92.221:60550/playlist.m3u8
-http://62.131.92.221:60630/playlist.m3u8
-http://62.131.92.221:60650/playlist.m3u8
+#EXTINF:8,4Music
+http://62.131.92.221:60330/play/a044/index.m3u8
 #EXTINF:8,4seven
 http://62.131.92.221:60230/play/a04t/index.m3u8
-#EXTINF:0,5 USA
-http://62.131.92.221:60330/play/a081
-#EXTINF:0,5ACTION
-http://62.131.92.221:60330/play/a087
-#EXTINF:0,5STAR
-http://62.131.92.221:60330/play/a083
-#EXTINF:0,5STAR+1
-http://62.131.92.221:60330/play/a084
-#EXTINF:0,5USA+1
-http://62.131.92.221:60330/play/a082
-#EXTINF:24,alibi
-http://62.131.92.221:60650/play/a04s/index.m3u8
-#EXTINF:24,alibi
-http://62.131.92.221:60450/play/a089/index.m3u8
-#EXTINF:24,alibi+1
-http://62.131.92.221:60650/play/a04z/index.m3u8
-#EXTINF:24,Animal Planet
-http://62.131.92.221:60150/play/a0b3/index.m3u8
-#EXTINF:8,Animal Plnt+1
-http://62.131.92.221:60130/play/a04p/index.m3u8
+#EXTINF:8,5 USA
+http://62.131.92.221:60330/play/a081/index.m3u8
+#EXTINF:8,5ACTION
+http://62.131.92.221:60330/play/a087/index.m3u8
+#EXTINF:8,5STAR
+http://62.131.92.221:60330/play/a083/index.m3u8
+#EXTINF:8,5STAR+1
+http://62.131.92.221:60330/play/a084/index.m3u8
+#EXTINF:8,5USA+1
+http://62.131.92.221:60330/play/a082/index.m3u8
+#EXTINF:8,BBC ALBA
+http://62.131.92.221:60330/play/a078/index.m3u8
 #EXTINF:0,BBC Four HD
-http://62.131.92.221:60330/play/a05k
+http://62.131.92.221:60330/play/a05k/index.m3u8
 #EXTINF:8,BBC NEWS
 http://62.131.92.221:60230/play/a04n/index.m3u8
-#EXTINF:0,BBC NEWS HD
-http://62.131.92.221:60330/play/a03e
-#EXTINF:0,BBC One CI
-http://62.131.92.221:60330/play/a07i
+#EXTINF:8,BBC NEWS HD
+http://62.131.92.221:60330/play/a03e/index.m3u8
+#EXTINF:8,BBC One CI
+http://62.131.92.221:60330/play/a07i/index.m3u8
 #EXTINF:8,BBC One E Mid
 http://62.131.92.221:60230/play/a04e/index.m3u8
 #EXTINF:8,BBC One East E
 http://62.131.92.221:60230/play/a04f/index.m3u8
-#EXTINF:0,BBC One East W
-http://62.131.92.221:60330/play/a07h
 #EXTINF:8,BBC One HD
 http://62.131.92.221:60130/play/a05n/index.m3u8
-#EXTINF:0,BBC One Lon
-http://62.131.92.221:60330/play/a032
-#EXTINF:0,BBC One N West
-http://62.131.92.221:60330/play/a079
-#EXTINF:0,BBC One NE&C
-http://62.131.92.221:60330/play/a07d
+#EXTINF:8,BBC One Lon
+http://62.131.92.221:60330/play/a032/index.m3u8
+#EXTINF:8,BBC One N West
+http://62.131.92.221:60330/play/a079/index.m3u8
+#EXTINF:8,BBC One NE&C
+http://62.131.92.221:60330/play/a07d/index.m3u8
 #EXTINF:8,BBC One NI
 http://62.131.92.221:60230/play/a06z/index.m3u8
 #EXTINF:8,BBC One NI HD
 http://62.131.92.221:60130/play/a05o/index.m3u8
-#EXTINF:8,BBC One Oxford
-http://62.131.92.221:60230/play/a04m/index.m3u8
-#EXTINF:0,BBC One S East
-http://62.131.92.221:60330/play/a07b
-#EXTINF:8,BBC One S West
-http://62.131.92.221:60230/play/a04l/index.m3u8
-#EXTINF:0,BBC One Scot
-http://62.131.92.221:60330/play/a077
-#EXTINF:0,BBC One ScotHD
-http://62.131.92.221:60330/play/a03c
+#EXTINF:8,BBC One S East
+http://62.131.92.221:60330/play/a07b/index.m3u8
+#EXTINF:8,BBC One Scot
+http://62.131.92.221:60330/play/a077/index.m3u8
+#EXTINF:8,BBC One ScotHD
+http://62.131.92.221:60330/play/a03c/index.m3u8
 #EXTINF:8,BBC One South
 http://62.131.92.221:60230/play/a04k/index.m3u8
 #EXTINF:8,BBC One W Mid
 http://62.131.92.221:60230/play/a04c/index.m3u8
-#EXTINF:0,BBC One Wal HD
-http://62.131.92.221:60330/play/a03d
+#EXTINF:8,BBC One Wal HD
+http://62.131.92.221:60330/play/a03d/index.m3u8
 #EXTINF:8,BBC One Wales
 http://62.131.92.221:60230/play/a04h/index.m3u8
-#EXTINF:0,BBC One West
-http://62.131.92.221:60330/play/a07g
+#EXTINF:8,BBC One West
+http://62.131.92.221:60330/play/a07g/index.m3u8
 #EXTINF:8,BBC One Yk&Li
 http://62.131.92.221:60230/play/a04d/index.m3u8
-#EXTINF:0,BBC One Yorks
-http://62.131.92.221:60330/play/a07a
-#EXTINF:0,BBC RB 1
-http://62.131.92.221:60330/play/a07j
-#EXTINF:0,BBC Scotland
-http://62.131.92.221:60330/play/a076
-#EXTINF:0,BBC Two
-http://62.131.92.221:60330/play/a033
-#EXTINF:8,BBC Two HD
-http://62.131.92.221:60130/play/a05q/index.m3u8
+#EXTINF:8,BBC One Yorks
+http://62.131.92.221:60330/play/a07a/index.m3u8
+#EXTINF:8,BBC Parliament
+http://62.131.92.221:60230/play/a04g/index.m3u8
+#EXTINF:8,BBC RB 1
+http://62.131.92.221:60330/play/a07j/index.m3u8
+#EXTINF:8,BBC Scotland
+http://62.131.92.221:60330/play/a076/index.m3u8
+#EXTINF:8,BBC Two
+http://62.131.92.221:60330/play/a033/index.m3u8
 #EXTINF:8,BBC Two NI
 http://62.131.92.221:60230/play/a070/index.m3u8
 #EXTINF:8,BBC Two Wal HD
 http://62.131.92.221:60130/play/a05l/index.m3u8
 #EXTINF:8,BBC Two Wales
 http://62.131.92.221:60230/play/a04i/index.m3u8
-#EXTINF:0,BBCScotlandHD
-http://62.131.92.221:60330/play/a03f
+#EXTINF:8,BBCScotlandHD
+http://62.131.92.221:60330/play/a03f/index.m3u8
 #EXTINF:24,BLAZE
 http://62.131.92.221:60450/play/a08b/index.m3u8
-#EXTINF:8,BLAZE
-http://62.131.92.221:60530/play/a084/index.m3u8
-#EXTINF:0,Box Hits
-http://62.131.92.221:60330/play/a044
-#EXTINF:0,BoXmas
-http://62.131.92.221:60330/play/a07y
-#EXTINF:8,BT Sport 1
-http://62.131.92.221:60230/play/a04x/index.m3u8
-#EXTINF:0,BT Sport 2
-http://62.131.92.221:60330/play/a072
-#EXTINF:8,BT Sport 3
-http://62.131.92.221:60230/play/a04z/index.m3u8
-#EXTINF:0,BT Sport//ESPN
-http://62.131.92.221:60330/play/a073
-#EXTINF:0,c4 l
-http://62.131.92.221:60330/play/a04s
 #EXTINF:8,CBBC
 http://62.131.92.221:60230/play/a06y/index.m3u8
 #EXTINF:8,CBBC HD
 http://62.131.92.221:60130/play/a05p/index.m3u8
-#EXTINF:0,CBeebies HD
-http://62.131.92.221:60330/play/a04n
+#EXTINF:8,CBeebies HD
+http://62.131.92.221:60330/play/a04n/index.m3u8
 #EXTINF:8,CBS Drama
 http://62.131.92.221:60230/play/a04u/index.m3u8
+#EXTINF:8,CBS Justice
+http://62.131.92.221:60230/play/a04y/index.m3u8
 #EXTINF:8,CBS Reality
 http://62.131.92.221:60230/play/a051/index.m3u8
 #EXTINF:8,CBS Reality+1
 http://62.131.92.221:60230/play/a077/index.m3u8
 #EXTINF:24,Challenge
 http://62.131.92.221:60150/play/a09x/index.m3u8
+#EXTINF:8,c4 l
+http://62.131.92.221:60330/play/a04s/index.m3u8
 #EXTINF:8,Channel 4 HD
 http://62.131.92.221:60230/play/a04s/index.m3u8
-#EXTINF:0,Channel 4 London
-http://62.131.92.221:60330/play/a02y
+#EXTINF:8,Channel 4 London
+http://62.131.92.221:60330/play/a02y/index.m3u8
 #EXTINF:24,Channel 4 London +1
 http://62.131.92.221:60350/play/a09u/index.m3u8
-#EXTINF:0,Channel 4 Midlands
-http://62.131.92.221:60330/play/a05d
-#EXTINF:0,Channel 4 North
-http://62.131.92.221:60330/play/a05e
+#EXTINF:8,Channel 4 Midlands
+http://62.131.92.221:60330/play/a05d/index.m3u8
+#EXTINF:8,Channel 4 North
+http://62.131.92.221:60330/play/a05e/index.m3u8
 #EXTINF:24,Channel 4 Northern Ireland
 http://62.131.92.221:60350/play/a09y/index.m3u8
-#EXTINF:0,Channel 4 Scotland
-http://62.131.92.221:60330/play/a05f
-#EXTINF:0,Channel 4 South & East
-http://62.131.92.221:60330/play/a05c
+#EXTINF:8,Channel 4 Scotland
+http://62.131.92.221:60330/play/a05f/index.m3u8
+#EXTINF:8,Channel 4 South & East
+http://62.131.92.221:60330/play/a05c/index.m3u8
 #EXTINF:24,Channel 4 South & East +1
 http://62.131.92.221:60350/play/a09v/index.m3u8
-#EXTINF:0,Channel 4+1
-http://62.131.92.221:60330/play/a07w
 #EXTINF:24,Channel 4+1 North
 http://62.131.92.221:60350/play/a09w/index.m3u8
-#EXTINF:0,Channel 5
-http://62.131.92.221:60330/play/a080
-#EXTINF:0,Channel 5 HD
-http://62.131.92.221:60330/play/a086
-#EXTINF:0,Channel 5+1
-http://62.131.92.221:60330/play/a085
+#EXTINF:8,Channel 5
+http://62.131.92.221:60330/play/a080/index.m3u8
+#EXTINF:8,Channel 5 HD
+http://62.131.92.221:60330/play/a086/index.m3u8
+#EXTINF:8,Channel 5+1
+http://62.131.92.221:60330/play/a085/index.m3u8
 #EXTINF:24,Channel Scotland 4+1
 http://62.131.92.221:60350/play/a09x/index.m3u8
 #EXTINF:24,CITV
 http://62.131.92.221:60450/play/a091/index.m3u8
-#EXTINF:8,Classic Hits
-http://62.131.92.221:60530/play/a09p/index.m3u8
-#EXTINF:8,CNN
-http://62.131.92.221:60530/play/a081/index.m3u8
 #EXTINF:24,CNN
 http://62.131.92.221:60450/play/a084/index.m3u8
 #EXTINF:24,CNN HD
 http://62.131.92.221:60450/play/a07z/index.m3u8
-#EXTINF:8,ComedyXtra
-http://62.131.92.221:60130/play/a09b/index.m3u8
 #EXTINF:8,Court TV
 http://62.131.92.221:60630/play/a07n/index.m3u8
 #EXTINF:24,Dave
 http://62.131.92.221:60650/play/a04q/index.m3u8
 #EXTINF:24,Dave ja vu
 http://62.131.92.221:60650/play/a04y/index.m3u8
-#EXTINF:24,Disc.History
-http://62.131.92.221:60150/play/a0b5/index.m3u8
-#EXTINF:6,Disc.History+1
-http://62.131.92.221:60130/play/a04v/index.m3u8
-#EXTINF:24,Disc.Science
-http://62.131.92.221:60150/play/a0b4/index.m3u8
-#EXTINF:24,Disc.Turbo
-http://62.131.92.221:60150/play/a0b6/index.m3u8
-#EXTINF:8,Disc.Turbo+1
-http://62.131.92.221:60130/play/a04z/index.m3u8
-#EXTINF:24,Discovery
-http://62.131.92.221:60150/play/a0b2/index.m3u8
+#EXTINF:8,Discovery Shed
+http://62.131.92.221:60130/play/a04w/index.m3u8
 #EXTINF:24,DMAX
 http://62.131.92.221:60150/play/a0b1/index.m3u8
-#EXTINF:8,DMAX
-http://62.131.92.221:60130/play/a04w/index.m3u8
-#EXTINF:24,DMAX+1
+#EXTINF:25,DMAX+1
 http://62.131.92.221:60150/play/a0ax/index.m3u8
 #EXTINF:24,Drama
 http://62.131.92.221:60650/play/a04t/index.m3u8
 #EXTINF:24,Drama+1
 http://62.131.92.221:60650/play/a04x/index.m3u8
-#EXTINF:0,E4
-http://62.131.92.221:60330/play/a031
+#EXTINF:8,E4
+http://62.131.92.221:60330/play/a031/index.m3u8
 #EXTINF:24,E4+1
 http://62.131.92.221:60350/play/a09s/index.m3u8
-#EXTINF:24,Eden
-http://62.131.92.221:60650/play/a04n/index.m3u8
-#EXTINF:24,Eden+1
-http://62.131.92.221:60650/play/a04v/index.m3u8
-#EXTINF:8,Euronews
-http://62.131.92.221:60530/play/a07l/index.m3u8
 #EXTINF:24,Euronews
 http://62.131.92.221:60450/play/a08m/index.m3u8
-#EXTINF:0,Film4
-http://62.131.92.221:60330/play/a07v
-#EXTINF:0,Film4
-http://62.131.92.221:60330/play/a02z
+#EXTINF:8,Film4
+http://62.131.92.221:60330/play/a02z/index.m3u8
 #EXTINF:24,Film4+1
 http://62.131.92.221:60350/play/a0a1/index.m3u8
 #EXTINF:24,Food Network
@@ -225,14 +161,14 @@ http://62.131.92.221:60150/play/a0az/index.m3u8
 http://62.131.92.221:60150/play/a0ay/index.m3u8
 #EXTINF:24,Food Netwrk+1
 http://62.131.92.221:60150/play/a0b0/index.m3u8
-#EXTINF:8,Foodxp
-http://62.131.92.221:60530/play/a09a/index.m3u8
-#EXTINF:8,GOLD
-http://62.131.92.221:60530/play/a082/index.m3u8
-#EXTINF:24,GOLD
-http://62.131.92.221:60650/play/a04o/index.m3u8
-#EXTINF:24,GOLD+1
-http://62.131.92.221:60650/play/a04u/index.m3u8
+#EXTINF:8,FRANCE 24 HD
+http://62.131.92.221:60130/play/a08r/index.m3u8
+#EXTINF:8,FRANCE 24 HD
+http://62.131.92.221:60130/play/a04j/index.m3u8
+#EXTINF:8,FreeSports HD
+http://62.131.92.221:60130/play/a06k/index.m3u8
+#EXTINF:8,GB News HD
+http://62.131.92.221:60130/play/a091/index.m3u8
 #EXTINF:8,GREAT! action
 http://62.131.92.221:60130/play/a08t/index.m3u8
 #EXTINF:8,GREAT! class+1
@@ -243,34 +179,38 @@ http://62.131.92.221:60130/play/a08v/index.m3u8
 http://62.131.92.221:60130/play/a08u/index.m3u8
 #EXTINF:8,GREAT! movies+1
 http://62.131.92.221:60130/play/a08x/index.m3u8
+#EXTINF:8,GREAT! movies+1
+http://62.131.92.221:60130/play/a08d/index.m3u8
+#EXTINF:8,GREAT! tv
+http://62.131.92.221:60130/play/a060/index.m3u8
 #EXTINF:8,GREAT! tv
 http://62.131.92.221:60130/play/a08z/index.m3u8
 #EXTINF:8,GREAT! tv+1
 http://62.131.92.221:60130/play/a090/index.m3u8
 #EXTINF:8,GREAT!action+1
 http://62.131.92.221:60130/play/a08y/index.m3u8
-#EXTINF:0,HGTV
-http://62.131.92.221:60330/play/a04b
-#EXTINF:0,HGTV
-http://62.131.92.221:60330/play/a07r
-#EXTINF:0,HGTV+1
-http://62.131.92.221:60330/play/a07t
+#EXTINF:8,GREAT!action+1
+http://62.131.92.221:60130/play/a08f/index.m3u8
+#EXTINF:8,HGTV
+http://62.131.92.221:60130/play/a04s/index.m3u8
+#EXTINF:8,HGTV
+http://62.131.92.221:60330/play/a07r/index.m3u8
+#EXTINF:8,HGTV
+http://62.131.92.221:60330/play/a04b/index.m3u8
+#EXTINF:8,HGTV+1
+http://62.131.92.221:60330/play/a07t/index.m3u8
 #EXTINF:8,horror ch+1
 http://62.131.92.221:60230/play/a078/index.m3u8
 #EXTINF:8,horror channel
 http://62.131.92.221:60230/play/a04w/index.m3u8
-#EXTINF:8,ID
-http://62.131.92.221:60130/play/a04o/index.m3u8
-#EXTINF:8,ID+1
-http://62.131.92.221:60130/play/a078/index.m3u8
 #EXTINF:8,ITV
 http://62.131.92.221:60130/play/a07d/index.m3u8
+#EXTINF:8,ITV 1 Granada +1
+http://62.131.92.221:60130/play/a07f/index.m3u8
 #EXTINF:8,ITV 1 Meridian North HD
 http://62.131.92.221:60230/play/a072/index.m3u8
 #EXTINF:8,ITV 1 Meridian South HD
 http://62.131.92.221:60230/play/a071/index.m3u8
-#EXTINF:8,ITV 1 West Country East HD
-http://62.131.92.221:60530/play/a08m/index.m3u8
 #EXTINF:24,ITV Anglia East
 http://62.131.92.221:60350/play/a0ap/index.m3u8
 #EXTINF:8,ITV Anglia West
@@ -281,6 +221,8 @@ http://62.131.92.221:60350/play/a0ac/index.m3u8
 http://62.131.92.221:60450/play/a07l/index.m3u8
 #EXTINF:8,ITV Central East
 http://62.131.92.221:60130/play/a08o/index.m3u8
+#EXTINF:8, ITV Central West
+http://62.131.92.221:60130/play/a08p/index.m3u8
 #EXTINF:24,ITV Central West +1
 http://62.131.92.221:60450/play/a07p/index.m3u8
 #EXTINF:24,ITV Granada
@@ -295,32 +237,18 @@ http://62.131.92.221:60450/play/a07s/index.m3u8
 http://62.131.92.221:60450/play/a07q/index.m3u8
 #EXTINF:24,ITV Yorkshire East
 http://62.131.92.221:60350/play/a0a9/index.m3u8
-#EXTINF:8,ITV1
-http://62.131.92.221:60130/play/a08p/index.m3u8
 #EXTINF:8,ITV1 HD
 http://62.131.92.221:60230/play/a074/index.m3u8
+#EXTINF:8,ITV1 HD
+http://62.131.92.221:60230/play/a073/index.m3u8
+#EXTINF:8,ITV1 HD
+http://62.131.92.221:60130/play/a08k/index.m3u8
 #EXTINF:8,ITV1 HD
 http://62.131.92.221:60130/play/a08j/index.m3u8
 #EXTINF:8,ITV1 HD
 http://62.131.92.221:60130/play/a08l/index.m3u8
-#EXTINF:8,ITV1 HD
-http://62.131.92.221:60530/play/a08j/index.m3u8
-#EXTINF:8,ITV1 HD
-http://62.131.92.221:60530/play/a08k/index.m3u8
-#EXTINF:8,ITV1 HD
-http://62.131.92.221:60130/play/a08k/index.m3u8
-#EXTINF:8,ITV1 HD
-http://62.131.92.221:60230/play/a073/index.m3u8
-#EXTINF:8,ITV1 Wales HD
-http://62.131.92.221:60530/play/a06o/index.m3u8
-#EXTINF:8,ITV1 West Country West HD
-http://62.131.92.221:60530/play/a08l/index.m3u8
-#EXTINF:8,ITV1+1
-http://62.131.92.221:60130/play/a07f/index.m3u8
 #EXTINF:8,ITV2
 http://62.131.92.221:60130/play/a095/index.m3u8
-#EXTINF:8,ITV2 HD
-http://62.131.92.221:60530/play/a094/index.m3u8
 #EXTINF:24,ITV2+1
 http://62.131.92.221:60450/play/a07j/index.m3u8
 #EXTINF:8,ITV3 HD
@@ -331,36 +259,20 @@ http://62.131.92.221:60130/play/a08m/index.m3u8
 http://62.131.92.221:60130/play/a074/index.m3u8
 #EXTINF:8,ITVBe
 http://62.131.92.221:60130/play/a08q/index.m3u8
-#EXTINF:0,Kerrang!
-http://62.131.92.221:60330/play/a046
-#EXTINF:0,KISS
-http://62.131.92.221:60330/play/a045
+#EXTINF:8,Kerrang!
+http://62.131.92.221:60330/play/a046/index.m3u8
+#EXTINF:8,KISS
+http://62.131.92.221:60330/play/a045/index.m3u8
 #EXTINF:8,Legend
 http://62.131.92.221:60230/play/a07v/index.m3u8
-#EXTINF:8,Legend
-http://62.131.92.221:60230/play/a04y/index.m3u8
-#EXTINF:0,Magic
-http://62.131.92.221:60330/play/a042
+#EXTINF:8,Magic
+http://62.131.92.221:60330/play/a042/index.m3u8
 #EXTINF:24,More4
 http://62.131.92.221:60350/play/a0a0/index.m3u8
-#EXTINF:0,More4+1
-http://62.131.92.221:60330/play/a04u
-#EXTINF:8,MTV
-http://62.131.92.221:60130/play/a03w/index.m3u8
-#EXTINF:8,MTV 80s
-http://62.131.92.221:60130/play/a03u/index.m3u8
-#EXTINF:8,MTV XMAS
-http://62.131.92.221:60130/play/a096/index.m3u8
-#EXTINF:8,MTV XMAS
-http://62.131.92.221:60130/play/a03t/index.m3u8
-#EXTINF:8,NOW 70s
-http://62.131.92.221:60530/play/a07r/index.m3u8
+#EXTINF:8,More4+1
+http://62.131.92.221:60330/play/a04u/index.m3u8
 #EXTINF:24,NOW 80s
 http://62.131.92.221:60450/play/a082/index.m3u8
-#EXTINF:8,NOW 80s
-http://62.131.92.221:60530/play/a08s/index.m3u8
-#EXTINF:8,NOW 90s
-http://62.131.92.221:60530/play/a088/index.m3u8
 #EXTINF:24,Pick
 http://62.131.92.221:60150/play/a0ac/index.m3u8
 #EXTINF:24,Pick ireland
@@ -383,24 +295,18 @@ http://62.131.92.221:60150/play/a0b9/index.m3u8
 http://62.131.92.221:60150/play/a0b7/index.m3u8
 #EXTINF:24,QUEST+1
 http://62.131.92.221:60150/play/a0ba/index.m3u8
-#EXTINF:0,Really
-http://62.131.92.221:60330/play/a07u
+#EXTINF:8,Really
+http://62.131.92.221:60330/play/a07u/index.m3u8
+#EXTINF:8,Showcase
+http://62.131.92.221:60230/play/a05q/index.m3u8
+#EXTINF:8,Showcase
+http://62.131.92.221:60230/play/a07k/index.m3u8
 #EXTINF:24,Sky Arts
 http://62.131.92.221:60150/play/a0ab/index.m3u8
 #EXTINF:24,Sky News
 http://62.131.92.221:60150/play/a0ae/index.m3u8
-#EXTINF:24,Smithsonian
-http://62.131.92.221:60450/play/a08g/index.m3u8
-#EXTINF:8,Smithsonian HD
-http://62.131.92.221:60230/play/a07x/index.m3u8
-#EXTINF:8,Smithsonian HD
-http://62.131.92.221:60630/play/a06u/index.m3u8
 #EXTINF:8,Sony Action
 http://62.131.92.221:60130/play/a05u/index.m3u8
-#EXTINF:8,Sony Action+1
-http://62.131.92.221:60130/play/a08f/index.m3u8
-#EXTINF:8,Sony Channel
-http://62.131.92.221:60130/play/a060/index.m3u8
 #EXTINF:8,Sony Channel+1
 http://62.131.92.221:60130/play/a08h/index.m3u8
 #EXTINF:8,Sony Christmas
@@ -411,38 +317,30 @@ http://62.131.92.221:60130/play/a05w/index.m3u8
 http://62.131.92.221:60130/play/a08b/index.m3u8
 #EXTINF:8,Sony Movies
 http://62.131.92.221:60130/play/a05v/index.m3u8
-#EXTINF:8,Sony Movies+1
-http://62.131.92.221:60130/play/a08d/index.m3u8
-#EXTINF:8,TalkingPictures
-http://62.131.92.221:60530/play/a09o/index.m3u8
-#EXTINF:0,TCM Movies
-http://62.131.92.221:60330/play/a03v
-#EXTINF:0,TCM Movies+1
-http://62.131.92.221:60330/play/a05n
-#EXTINF:8,That's TV Gold
-http://62.131.92.221:60530/play/a09h/index.m3u8
-#EXTINF:0,The Box
-http://62.131.92.221:60330/play/a043
+#EXTINF:8,SportyStuff HD
+http://62.131.92.221:60230/play/a07s/index.m3u8
+#EXTINF:8,The Box
+http://62.131.92.221:60330/play/a043/index.m3u8
+#EXTINF:8,The Box
+http://62.131.92.221:60330/play/a07y/index.m3u8
 #EXTINF:8,Tiny Pop
 http://62.131.92.221:60130/play/a05x/index.m3u8
 #EXTINF:8,Tiny Pop+1
 http://62.131.92.221:60130/play/a08c/index.m3u8
-#EXTINF:8,TLC
-http://62.131.92.221:60130/play/a04u/index.m3u8
-#EXTINF:4,TLC+1
-http://62.131.92.221:60130/play/a09f/index.m3u8
 #EXTINF:24,Together
 http://62.131.92.221:60150/play/a09u/index.m3u8
 #EXTINF:8,Trace Hits
 http://62.131.92.221:60230/play/a075/index.m3u8
 #EXTINF:8,Travelxp
 http://62.131.92.221:60630/play/a07m/index.m3u8
+#EXTINF:8,TVC News
+http://62.131.92.221:60630/play/a05e/index.m3u8
+#EXTINF:24,UTV HD
+http://62.131.92.221:60350/play/a0a8/index.m3u8
 #EXTINF:24,W
 http://62.131.92.221:60450/play/a08c/index.m3u8
 #EXTINF:24,W
 http://62.131.92.221:60650/play/a04r/index.m3u8
-#EXTINF:8,W
-http://62.131.92.221:60530/play/a085/index.m3u8
 #EXTINF:24,W+1
 http://62.131.92.221:60650/play/a04w/index.m3u8
 #EXTINF:24,YESTERDAY
