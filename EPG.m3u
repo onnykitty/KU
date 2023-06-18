@@ -27,7 +27,7 @@ http://ipflix.click:80/0yx1nedqn/jqzdrnedf/692503
 http://ipflix.click:80/0yx1nedqn/jqzdrnedf/693172
 #EXTINF:0 type="stream" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Sky%20Comedy%20HD.svg?raw=true", Sky Comedy HD
 http://ipflix.click:80/0yx1nedqn/jqzdrnedf/692550
-#EXTINF:0 type="stream" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/BBC%20Three%20HD.svg?raw=true", BBC Three HD
+#EXTINF:0 type="stream" channel id="BBCThree.uk" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/BBC%20Three%20HD.svg?raw=true", BBC Three HD
 http://ipflix.click:80/0yx1nedqn/jqzdrnedf/696748
 #EXTINF:0 type="stream" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/BBC%20Four%20HD.svg?raw=true", BBC Four HD
 http://ipflix.click:80/0yx1nedqn/jqzdrnedf/692368
