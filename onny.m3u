@@ -9,7 +9,7 @@ http://136.175.8.179:4002/play/a09u
 http://136.175.8.179:4002/play/a00i
 #EXTINF:0 type="stream" channel id="Channel5.uk" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Channel%205%20HD.svg?raw=true", Channel 5 HD
 http://136.175.8.179:4002/play/a01y
-#EXTINF:0 type="stream" channel id="SkyShowcase.uk" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Sky%20Showcase%20HD.svg?raw=true", Sky Showcase
+#EXTINF:0 type="stream" channel id="SkyShowcase.uk" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Sky%20Showcase%20HD.svg?raw=true", Sky Showcase HD
 http://ipflix.click:80/0yx1nedqn/jqzdrnedf/692547
 #EXTINF:0 type="stream" channel id="SkyWitness.uk" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Sky%20Witness%20HD.svg?raw=true", Sky Witness HD
 http://ipflix.click:80/0yx1nedqn/jqzdrnedf/692430
