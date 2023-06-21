@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://github.com/acidjesuz/EPG/raw/master/UK_guide.xml.gz"
+#EXTM3U x-tvg-url="https://www.bevy.be/bevyfiles/unitedkingdom.xml"
 #EXTINF:0 type="stream" channel id="BBCOneEngland.uk" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/BBC%20One%20HD.svg?raw=true", BBC One HD
 http://136.175.8.179:4001/play/a01x
 #EXTINF:0 type="stream" channel id="BBCTwoEngland.uk" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/BBC%20Two%20HD.svg?raw=true", BBC Two HD
