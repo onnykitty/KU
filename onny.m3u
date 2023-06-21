@@ -19,7 +19,7 @@ http://ipflix.click:80/0yx1nedqn/jqzdrnedf/692553
 http://136.175.8.179:4001/play/a04q
 #EXTINF:0 type="stream" channel id="Gold.uk" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Gold%20HD.svg?raw=true", Gold HD*
 http://136.175.8.179:4001/play/a04n
-#EXTINF:0 type="stream" channel id="Dave.uk" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Dave%20HD.svg?raw=true", Dave HD*
+#EXTINF:0 type="stream" channel id="Dave.uk" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Dave%20HD.svg?raw=true", Dave HD
 http://136.175.8.179:4002/play/a09d
 #EXTINF:0 type="stream" channel id="" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Comedy%20Central%20HD.svg?raw=true", Comedy Central HD
 http://136.175.8.179:4002/play/a07p
