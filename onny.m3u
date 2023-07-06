@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="http://m3u4u.com/epg/5z3endmdwdur22jmyqpk#format=xmltv"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/onnykitty/KU/main/EPG-Guide-20230706164102.xml"
 #EXTINF:-1 tvg-id="BBCOne.uk" tvg-name="BBC One HD" tvg-logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/BBC%20One%20HD.svg?raw=true" group-title="(no group)",BBC One HD
 http://194.76.186.146:8000/play/a01y/index.m3u8
 #EXTINF:-1 tvg-id="BBCTwo.uk" tvg-name="BBC Two HD" tvg-logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/BBC%20Two%20HD.svg?raw=true" group-title="(no group)",BBC Two HD
