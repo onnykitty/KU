@@ -1,229 +1,231 @@
-#EXTM3U x-tvg-url="https://www.bevy.be/bevyfiles/unitedkingdom.xml"
-#EXTINF:0 type="stream" channel id="BBCOneEngland.uk" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/BBC%20One%20HD.svg?raw=true", BBC One HD
-http://136.175.8.179:4001/play/a01x
-#EXTINF:0 type="stream" channel id="BBCTwoEngland.uk" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/BBC%20Two%20HD.svg?raw=true", BBC Two HD
-http://136.175.8.179:4001/play/a027
-#EXTINF:0 type="stream" channel id="ITV1.uk" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/ITV1%20HD.svg?raw=true", ITV HD
-http://136.175.8.179:4002/play/a09u
-#EXTINF:0 type="stream" channel id="Channel4.uk" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Channel%204%20HD.svg?raw=true", Channel 4 HD
-http://136.175.8.179:4002/play/a00i
-#EXTINF:0 type="stream" channel id="Channel5.uk" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Channel%205%20HD.svg?raw=true", Channel 5 HD
-http://136.175.8.179:4002/play/a01y
-#EXTINF:0 type="stream" channel id="SkyShowcase.uk" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Sky%20Showcase%20HD.svg?raw=true", Sky Showcase HD
+#EXTM3U url-tvg="http://m3u4u.com/epg/5z3endmdwdur22jmyqpk"
+#EXTINF:-1 tvg-id="BBCOne.uk" tvg-name="BBC One HD" tvg-logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/BBC%20One%20HD.svg?raw=true" group-title="(no group)",BBC One HD
+http://194.76.186.146:8000/play/a01y/index.m3u8
+#EXTINF:-1 tvg-id="BBCTwo.uk" tvg-name="BBC Two HD" tvg-logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/BBC%20Two%20HD.svg?raw=true" group-title="(no group)",BBC Two HD
+http://194.76.186.146:8000/play/a029/index.m3u8
+#EXTINF:-1 tvg-id="ITV1(src01).uk" tvg-name="ITV HD" tvg-logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/ITV1%20HD.svg?raw=true" group-title="(no group)",ITV HD
+http://194.76.186.146:8000/play/a04w/index.m3u8
+#EXTINF:-1 tvg-id="Channel4.uk" tvg-name="Channel 4 HD*" tvg-logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Channel%204%20HD.svg?raw=true" group-title="(no group)",Channel 4 HD*
+http://194.76.186.146:8000/play/a03q/index.m3u8
+#EXTINF:-1 tvg-id="Channel5.uk" tvg-name="Channel 5 HD" tvg-logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Channel%205%20HD.svg?raw=true" group-title="(no group)",Channel 5 HD
+http://194.76.186.146:8000/play/a06e/index.m3u8
+#EXTINF:-1 tvg-id="SkyShowcase.uk" tvg-name="Sky Showcase HD" tvg-logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Sky%20Showcase%20HD.svg?raw=true" group-title="(no group)",Sky Showcase HD
 http://ipflix.click:80/0yx1nedqn/jqzdrnedf/692547
-#EXTINF:0 type="stream" channel id="SkyWitness.uk" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Sky%20Witness%20HD.svg?raw=true", Sky Witness HD
+#EXTINF:-1 tvg-id="SkyWitness.uk" tvg-name="Sky Witness HD" tvg-logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Sky%20Witness%20HD.svg?raw=true" group-title="(no group)",Sky Witness HD
 http://ipflix.click:80/0yx1nedqn/jqzdrnedf/692430
-#EXTINF:0 type="stream" channel id="SkyAtlantic.uk" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Sky%20Atlantic%20HD.svg?raw=true", Sky Atlantic HD
+#EXTINF:-1 tvg-id="SkyAtlantic.uk" tvg-name="Sky Atlantic HD" tvg-logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Sky%20Atlantic%20HD.svg?raw=true" group-title="(no group)",Sky Atlantic HD
 http://ipflix.click:80/0yx1nedqn/jqzdrnedf/692553
-#EXTINF:0 type="stream" channel id="Alibi.uk" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Alibi%20HD.png?raw=true", Alibi HD*
-http://136.175.8.179:4001/play/a04q
-#EXTINF:0 type="stream" channel id="Gold.uk" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Gold%20HD.svg?raw=true", Gold HD*
-http://136.175.8.179:4001/play/a04n
-#EXTINF:0 type="stream" channel id="Dave.uk" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Dave%20HD.svg?raw=true", Dave HD*
-http://136.175.8.179:4002/play/a09d
-#EXTINF:0 type="stream" channel id="" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Comedy%20Central%20HD.svg?raw=true", Comedy Central HD
-http://136.175.8.179:4002/play/a07p
-#EXTINF:0 type="stream" channel id="SkyMax.uk" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Sky%20Max%20HD.svg?raw=true", Sky Max HD
+#EXTINF:-1 tvg-id="Alibi.uk" tvg-name="Alibi HD" tvg-logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Alibi%20HD.png?raw=true" group-title="(no group)",Alibi HD
+http://ipflix.click:80/0yx1nedqn/jqzdrnedf/692582
+#EXTINF:-1 tvg-id="GOLD.uk" tvg-name="Gold HD*" tvg-logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Gold%20HD.svg?raw=true" group-title="(no group)",Gold HD*
+http://ipflix.click:80/0yx1nedqn/jqzdrnedf/692519
+#EXTINF:-1 tvg-id="Dave.uk" tvg-name="Dave HD" tvg-logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Dave%20HD.svg?raw=true" group-title="(no group)",Dave HD
+http://ipflix.click:80/0yx1nedqn/jqzdrnedf/692507
+#EXTINF:-1 tvg-id="ComedyCentral.uk" tvg-name="Comedy Central HD*" tvg-logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Comedy%20Central%20HD.svg?raw=true" group-title="(no group)",Comedy Central HD*
+http://ipflix.click:80/0yx1nedqn/jqzdrnedf/692503
+#EXTINF:-1 tvg-id="SkyMax.uk" tvg-name="Sky Max HD" tvg-logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Sky%20Max%20HD.svg?raw=true" group-title="(no group)",Sky Max HD
 http://ipflix.click:80/0yx1nedqn/jqzdrnedf/693172
-#EXTINF:0 type="stream" channel id="SkyComedy.uk" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Sky%20Comedy%20HD.svg?raw=true", Sky Comedy HD
+#EXTINF:-1 tvg-id="SkyComedy.uk" tvg-name="Sky Comedy HD" tvg-logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Sky%20Comedy%20HD.svg?raw=true" group-title="(no group)",Sky Comedy HD
 http://ipflix.click:80/0yx1nedqn/jqzdrnedf/692550
-#EXTINF:0 type="stream" channel id="BBCThree.uk" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/BBC%20Three%20HD.svg?raw=true", BBC Three HD
-http://136.175.8.179:4001/play/a02d
-#EXTINF:0 type="stream" channel id="BBCFour.uk" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/BBC%20Four%20HD.svg?raw=true", BBC Four HD
-http://136.175.8.179:4001/play/a01z
-#EXTINF:0 type="stream" channel id="LondonLive.uk" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/London%20Live.svg?raw=true", London Live
-http://136.175.8.179:4002/play/a04g
-#EXTINF:0 type="stream" channel id="ITV2.uk" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/ITV2%20HD.svg?raw=true", ITV2 HD
-http://136.175.8.179:4001/play/a049
-#EXTINF:0 type="stream" channel id="ITV3.uk" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/ITV3%20HD.svg?raw=true", ITV3 HD
-http://136.175.8.179:4001/play/a04z
-#EXTINF:0 type="stream" channel id="ITV4.uk" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/ITV4%20HD.svg?raw=true", ITV4 HD
-http://136.175.8.179:4001/play/a04i
-#EXTINF:0 type="stream" channel id="SkyDocumentaries.uk" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Sky%20Documentaries%20HD.svg?raw=true", Sky Documentaries HD
+#EXTINF:-1 tvg-id="BBCThree.uk" tvg-name="BBC Three HD" tvg-logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/BBC%20Three%20HD.svg?raw=true" group-title="(no group)",BBC Three HD
+http://194.76.186.146:8000/play/a02c/index.m3u8
+#EXTINF:-1 tvg-id="BBCFour.uk" tvg-name="BBC Four HD" tvg-logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/BBC%20Four%20HD.svg?raw=true" group-title="(no group)",BBC Four HD
+http://194.76.186.146:8000/play/a024/index.m3u8
+#EXTINF:-1 tvg-id="LondonLive.uk" tvg-name="London Live" tvg-logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/London%20Live.svg?raw=true" group-title="(no group)",London Live
+http://ipflix.click:80/0yx1nedqn/jqzdrnedf/692524
+#EXTINF:-1 tvg-id="ITV2.uk" tvg-name="ITV2 HD" tvg-logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/ITV2%20HD.svg?raw=true" group-title="(no group)",ITV2 HD
+http://194.76.186.146:8000/play/a048/index.m3u8
+#EXTINF:-1 tvg-id="ITV3.uk" tvg-name="ITV3 HD" tvg-logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/ITV3%20HD.svg?raw=true" group-title="(no group)",ITV3 HD
+http://194.76.186.146:8000/play/a04x/index.m3u8
+#EXTINF:-1 tvg-id="ITV4.uk" tvg-name="ITV4 HD" tvg-logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/ITV4%20HD.svg?raw=true" group-title="(no group)",ITV4 HD
+http://194.76.186.146:8000/play/a04h/index.m3u8
+#EXTINF:-1 tvg-id="SkyDocumentaries.uk" tvg-name="Sky Documentaries HD" tvg-logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Sky%20Documentaries%20HD.svg?raw=true" group-title="(no group)",Sky Documentaries HD
 http://ipflix.click:80/0yx1nedqn/jqzdrnedf/692456
-#EXTINF:0 type="stream" channel id="SkyCrime.uk" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Sky%20Crime%20HD.svg?raw=true", Sky Crime HD
-http://b1g.one:80/70707070/80808080/80331
-#EXTINF:0 type="stream" channel id="SkyHistory.uk" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Sky%20History%20HD.svg?raw=true", Sky History HD*
-http://136.175.8.179:4002/play/a07b
-#EXTINF:0 type="stream" channel id="SkyNature.uk" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Sky%20Nature%20HD.svg?raw=true", Sky Nature HD
+#EXTINF:-1 tvg-id="SkyCrime.uk" tvg-name="Sky Crime HD" tvg-logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Sky%20Crime%20HD.svg?raw=true" group-title="(no group)",Sky Crime HD
+http://line.rs6ott.com:80/Andreas/Andreas/164073
+#EXTINF:-1 tvg-id="SkyHistory.uk" tvg-name="Sky History HD" tvg-logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Sky%20History%20HD.svg?raw=true" group-title="(no group)",Sky History HD
+http://ipflix.click:80/0yx1nedqn/jqzdrnedf/692449
+#EXTINF:-1 tvg-id="SkyNature.uk" tvg-name="Sky Nature HD" tvg-logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Sky%20Nature%20HD.svg?raw=true" group-title="(no group)",Sky Nature HD
 http://ipflix.click:80/0yx1nedqn/jqzdrnedf/692458
-#EXTINF:0 type="stream" channelId="DiscoveryChannelUK.uk" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Discovery%20HD.svg?raw=true", Discovery HD*
-http://136.175.8.179:4002/play/a0a4
-#EXTINF:0 type="stream" channel id="ComedyCentralExtra.uk" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Comedy%20Central%20Extra.svg?raw=true", Comedy Central Extra
-http://136.175.8.179:4002/play/a07t
-#EXTINF:0 type="stream" channel id="5Star.uk" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/5Star.svg?raw=true", 5Star
-http://136.175.8.179:4002/play/a01u
-#EXTINF:0 type="stream" channelId="NationalGeographicUK.uk" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/National%20Geographic%20HD.svg?raw=true", National Geographic HD
+#EXTINF:-1 tvg-id="Discovery(src01).uk" tvg-name="Discovery HD" tvg-logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Discovery%20HD.svg?raw=true" group-title="(no group)",Discovery HD
+http://ipflix.click:80/0yx1nedqn/jqzdrnedf/692444
+#EXTINF:-1 tvg-id="ComedyCentralExtra.uk" tvg-name="Comedy Central Extra" tvg-logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Comedy%20Central%20Extra.svg?raw=true" group-title="(no group)",Comedy Central Extra
+http://ipflix.click:80/0yx1nedqn/jqzdrnedf/692505
+#EXTINF:-1 tvg-id="5Star.uk" tvg-name="5Star" tvg-logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/5Star.svg?raw=true" group-title="(no group)",5Star
+http://194.76.186.146:8000/play/a06a/index.m3u8
+#EXTINF:-1 tvg-id="NationalGeographic.uk" tvg-name="National Geographic HD" tvg-logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/National%20Geographic%20HD.svg?raw=true" group-title="(no group)",National Geographic HD
 http://ipflix.click:80/0yx1nedqn/jqzdrnedf/692453
-#EXTINF:0 type="stream" channel id="SkyArts.uk" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Sky%20Arts%20HD.png?raw=true", Sky Arts HD*
-http://136.175.8.179:4002/play/a095
-#EXTINF:0 type="stream" channel id="ITVBe.uk" logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/ITVBe.svg?raw=true", ITVBe
-http://136.175.8.179:4001/play/a031
-#EXTINF:0 type="stream" channel id="W.uk" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/W%20HD.svg?raw=true", W HD*
-http://136.175.8.179:4002/play/a09e
-#EXTINF:0 type="stream" channel id="E4.uk" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/E4%20HD.svg?raw=true", E4 HD*
-http://136.175.8.179:4001/play/a038
-#EXTINF:0 type="stream" channel id="More4.uk" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/More4%20HD.svg?raw=true", More4 HD
-http://136.175.8.179:4001/play/a00b
-#EXTINF:0 type="stream" channel id="4seven.uk" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/4seven.svg?raw=true", 4seven
-http://136.175.8.179:4002/play/a00j
-#EXTINF:0 type="stream" channel id="E4Extra.uk" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/E4%20Extra.svg?raw=true", E4 Extra
-http://136.175.8.179:4001/play/a03h
-#EXTINF:0 type="stream" channel id="SkySciFi.uk" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Sky%20Sci-Fi%20HD.svg?raw=true", Sky Sci-Fi HD
+#EXTINF:-1 tvg-id="SkyArts.uk" tvg-name="Sky Arts HD" tvg-logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Sky%20Arts%20HD.png?raw=true" group-title="(no group)",Sky Arts HD
+http://ipflix.click:80/0yx1nedqn/jqzdrnedf/692551
+#EXTINF:-1 tvg-id="ITVBE.uk" tvg-name="ITVBe" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/ITVBe.svg?raw=true" group-title="(no group)",ITVBe
+http://ipflix.click:80/0yx1nedqn/jqzdrnedf/692493
+#EXTINF:-1 tvg-id="W.uk" tvg-name="W HD*" tvg-logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/W%20HD.svg?raw=true" group-title="(no group)",W HD*
+http://194.76.186.146:8000/play/a04r/index.m3u8
+#EXTINF:-1 tvg-id="E4.uk" tvg-name="E4 HD*" tvg-logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/E4%20HD.svg?raw=true" group-title="(no group)",E4 HD*
+http://194.76.186.146:8000/play/a00a/index.m3u8
+#EXTINF:-1 tvg-id="More4.uk" tvg-name="More4 HD*" tvg-logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/More4%20HD.svg?raw=true" group-title="(no group)",More4 HD*
+http://194.76.186.146:8000/play/a03s/index.m3u8
+#EXTINF:-1 tvg-id="4Seven.uk" tvg-name="4seven" tvg-logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/4seven.svg?raw=true" group-title="(no group)",4seven
+http://ipflix.click:80/0yx1nedqn/jqzdrnedf/692569
+#EXTINF:-1 tvg-id="E4Extra.uk" tvg-name="E4 Extra" tvg-logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/E4%20Extra.svg?raw=true" group-title="(no group)",E4 Extra
+http://194.76.186.146:8000/play/a03u/index.m3u8
+#EXTINF:-1 tvg-id="SkySciFi.uk" tvg-name="Sky Sci-Fi HD" tvg-logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Sky%20Sci-Fi%20HD.svg?raw=true" group-title="(no group)",Sky Sci-Fi HD
 http://ipflix.click:80/0yx1nedqn/jqzdrnedf/692557
-#EXTINF:0 type="stream" channel id="FoodNetworkUK.uk" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Food%20Network.svg?raw=true", Food Network
-http://136.175.8.179:4002/play/a0a0
-#EXTINF:0 type="stream" channel id="5USA.uk" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/5USA.svg?raw=true", 5USA
-http://136.175.8.179:4002/play/a01s
-#EXTINF:0 type="stream" channel id="Really.uk" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Really.svg?raw=true", Really
-http://136.175.8.179:4002/play/a039
-#EXTINF:0 type="stream" channel id="Drama.uk" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Drama.svg?raw=true", Drama
-http://136.175.8.179:4002/play/a09k
-#EXTINF:0 type="stream" channel id="QuestUK.uk" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Quest%20HD.svg?raw=true", Quest HD
-http://136.175.8.179:4002/play/a03m
-#EXTINF:0 type="stream" channel id="Challenge.uk" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Challenge.svg?raw=true", Challenge
-http://136.175.8.179:4001/play/a054
-#EXTINF:0 type="stream" channelId="CBSRealityUK.uk" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/CBS%20Reality.svg?raw=true", CBS Reality
-http://136.175.8.179:4002/play/a02r
-#EXTINF:0 type="stream" channelId="RealityXtra.uk" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/RealityXtra.svg?raw=true", RealityXtra
-http://136.175.8.179:4002/play/a02g
-#EXTINF:0 type="stream" channel id="Legend.uk" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Legend.svg?raw=true", Legend
-http://136.175.8.179:4002/play/a02m
-#EXTINF:0 type="stream" channel id="QuestRedUK.uk" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Quest%20Red.svg?raw=true", Quest Red
-http://136.175.8.179:4002/play/a0ab
-#EXTINF:0 type="stream" channel id="5Action.uk" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/5Action.svg?raw=true", 5Action
-http://136.175.8.179:4002/play/a01z
-#EXTINF:0 type="stream" channel id="Pick.uk" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Pick.svg?raw=true", Pick
-http://136.175.8.179:4002/play/a096
-#EXTINF:0 type="stream" channel id="SkyReplay.uk" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Sky%20Replay.svg?raw=true", Sky Replay
+#EXTINF:-1 tvg-id="FoodNetwork.uk" tvg-name="Food Network" tvg-logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Food%20Network.svg?raw=true" group-title="(no group)",Food Network
+http://ipflix.click:80/0yx1nedqn/jqzdrnedf/692518
+#EXTINF:-1 tvg-id="5USA.uk" tvg-name="5USA" tvg-logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/5USA.svg?raw=true" group-title="(no group)",5USA
+http://194.76.186.146:8000/play/a068/index.m3u8
+#EXTINF:-1 tvg-id="Really(src01).uk" tvg-name="Really" tvg-logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Really.svg?raw=true" group-title="(no group)",Really
+http://b1g.one:80/70707070/80808080/11882
+#EXTINF:-1 tvg-id="Drama.uk" tvg-name="Drama" tvg-logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Drama.svg?raw=true" group-title="(no group)",Drama
+http://ipflix.click:80/0yx1nedqn/jqzdrnedf/692510
+#EXTINF:-1 tvg-id="Quest.uk" tvg-name="Quest HD" tvg-logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Quest%20HD.svg?raw=true" group-title="(no group)",Quest HD
+http://ipflix.click:80/0yx1nedqn/jqzdrnedf/692542
+#EXTINF:-1 tvg-id="Challenge(src01).uk" tvg-name="Challenge" tvg-logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Challenge.svg?raw=true" group-title="(no group)",Challenge
+http://ipflix.click:80/0yx1nedqn/jqzdrnedf/692497
+#EXTINF:-1 tvg-id="CBSReality.uk" tvg-name="CBS Reality" tvg-logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/CBS%20Reality.svg?raw=true" group-title="(no group)",CBS Reality
+http://194.76.186.146:8000/play/a078/index.m3u8
+#EXTINF:-1 tvg-id="RealityXtra.uk" tvg-name="RealityXtra" tvg-logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/RealityXtra.svg?raw=true" group-title="(no group)",RealityXtra
+http://194.76.186.146:8000/play/a072/index.m3u8
+#EXTINF:-1 tvg-id="Legend.uk" tvg-name="Legend" tvg-logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Legend.svg?raw=true" group-title="(no group)",Legend
+http://194.76.186.146:8000/play/a073/index.m3u8
+#EXTINF:-1 tvg-id="QuestRed.uk" tvg-name="Quest Red" tvg-logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Quest%20Red.svg?raw=true" group-title="(no group)",Quest Red
+http://194.76.186.146:8000/play/a046/index.m3u8
+#EXTINF:-1 tvg-id="5Action.uk" tvg-name="5Action" tvg-logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/5Action.svg?raw=true" group-title="(no group)",5Action
+http://194.76.186.146:8000/play/a06f/index.m3u8
+#EXTINF:-1 tvg-id="Pick(src01).uk" tvg-name="Pick" tvg-logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Pick.svg?raw=true" group-title="(no group)",Pick
+http://ipflix.click:80/0yx1nedqn/jqzdrnedf/692541
+#EXTINF:-1 tvg-id="SkyReplay.uk" tvg-name="Sky Replay" tvg-logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Sky%20Replay.svg?raw=true" group-title="(no group)",Sky Replay
 http://ipflix.click:80/0yx1nedqn/jqzdrnedf/692549
-#EXTINF:0 type="stream" channel id="5Select.uk" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/5Select.svg?raw=true", 5Select
-http://136.175.8.179:4002/play/a01v
-#EXTINF:0 type="stream" channelId="InvestigationDiscoveryUK.uk" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/ID.svg?raw=true", Investigation Discovery
-http://136.175.8.179:4001/play/a03v
-#EXTINF:0 type="stream" channelId="Yesterday.uk" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Yesterday.svg?raw=true", Yesterday
-http://136.175.8.179:4002/play/a09c
-#EXTINF:0 type="stream" channel id="CrimePlusInvestigationUK.uk" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Crime%20and%20Investigation%20HD.svg?raw=true", Crime & Investigation HD*
-http://136.175.8.179:4002/play/a07e
-#EXTINF:0 type="stream" channelId="GreatTV.uk" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Great%20TV.svg?raw=true", Great! TV
-http://136.175.8.179:4002/play/a02d
-#EXTINF:0 type="stream" channel id="HGTVUK.uk" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/HGTV.svg?raw=true", HGTV
-http://136.175.8.179:4001/play/a03z
-#EXTINF:0 type="stream" channel id="DiscoveryTurboUK.uk" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Discovery%20Turbo.svg?raw=true", Discovery Turbo
-http://136.175.8.179:4002/play/a0a8
-#EXTINF:0 type="stream" channelId="AnimalPlanetUK.uk" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Animal%20Planet.svg?raw=true", Animal Planet
-http://136.175.8.179:4002/play/a0a5
-#EXTINF:0 type="stream" channel id="SkyHistory2.uk" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Sky%20History2%20HD.svg?raw=true", Sky History 2 HD
-http://136.175.8.179:4002/play/a07d
-#EXTINF:0 type="stream" channel id="Blaze.uk" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Blaze.svg?raw=true", Blaze
-http://136.175.8.179:4001/play/a04s
-#EXTINF:0 type="stream" channelId="NationalGeographicWildUK.uk" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/National%20Geographic%20Wild%20HD.svg?raw=true", Nat Geo Wild HD
+#EXTINF:-1 tvg-id="5SELECT.uk" tvg-name="5Select" tvg-logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/5Select.svg?raw=true" group-title="(no group)",5Select
+http://194.76.186.146:8000/play/a06b/index.m3u8
+#EXTINF:-1 tvg-id="InvestigationDiscovery.uk" tvg-name="Investigation Discovery" tvg-logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/ID.svg?raw=true" group-title="(no group)",Investigation Discovery
+http://ipflix.click:80/0yx1nedqn/jqzdrnedf/692446
+#EXTINF:-1 tvg-id="Yesterday.uk" tvg-name="Yesterday" tvg-logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Yesterday.svg?raw=true" group-title="(no group)",Yesterday
+http://ipflix.click:80/0yx1nedqn/jqzdrnedf/692568
+#EXTINF:-1 tvg-id="CrimeandInvestigation(src01).uk" tvg-name="Crime & Investigation HD" tvg-logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Crime%20and%20Investigation%20HD.svg?raw=true" group-title="(no group)",Crime & Investigation HD
+http://ipflix.click:80/0yx1nedqn/jqzdrnedf/692443
+#EXTINF:-1 tvg-id="GreatTV.uk" tvg-name="Great! TV" tvg-logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Great%20TV.svg?raw=true" group-title="(no group)",Great! TV
+http://194.76.186.146:8000/play/a06u/index.m3u8
+#EXTINF:-1 tvg-id="HGTV.uk" tvg-name="HGTV" tvg-logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/HGTV.svg?raw=true" group-title="(no group)",HGTV
+http://194.76.186.146:8000/play/a044/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryTurbo.uk" tvg-name="Discovery Turbo" tvg-logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Discovery%20Turbo.svg?raw=true" group-title="(no group)",Discovery Turbo
+http://ipflix.click:80/0yx1nedqn/jqzdrnedf/692448
+#EXTINF:-1 tvg-id="AnimalPlanet.uk" tvg-name="Animal Planet" tvg-logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Animal%20Planet.svg?raw=true" group-title="(no group)",Animal Planet
+http://ipflix.click:80/0yx1nedqn/jqzdrnedf/692441
+#EXTINF:-1 tvg-id="SkyHistory2.uk" tvg-name="Sky History 2 HD" tvg-logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Sky%20History2%20HD.svg?raw=true" group-title="(no group)",Sky History 2 HD
+http://ipflix.click:80/0yx1nedqn/jqzdrnedf/692451
+#EXTINF:-1 tvg-id="BLAZE.uk" tvg-name="Blaze" tvg-logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Blaze.svg?raw=true" group-title="(no group)",Blaze
+http://194.76.186.146:8000/play/a04q/index.m3u8
+#EXTINF:-1 tvg-id="NatGeoWild(src01).uk" tvg-name="Nat Geo Wild HD" tvg-logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/National%20Geographic%20Wild%20HD.svg?raw=true" group-title="(no group)",Nat Geo Wild HD
 http://ipflix.click:80/0yx1nedqn/jqzdrnedf/692454
-#EXTINF:0 type="stream" channel id="Eden.uk" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Eden.png?raw=true", Eden
-http://136.175.8.179:4002/play/a09a
-#EXTINF:0 type="stream" channelId="DiscoveryScienceUK.uk" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Discovery%20Science.svg?raw=true", Discovery Science
-http://136.175.8.179:4002/play/a0a6
-#EXTINF:0 type="stream" channel id="TogetherTV.uk" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Together%20TV.svg?raw=true", Together
+#EXTINF:-1 tvg-id="Eden.uk" tvg-name="Eden" tvg-logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Eden.png?raw=true" group-title="(no group)",Eden
+http://ipflix.click:80/0yx1nedqn/jqzdrnedf/692506
+#EXTINF:-1 tvg-id="DiscoveryScience.uk" tvg-name="Discovery Science" tvg-logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Discovery%20Science.svg?raw=true" group-title="(no group)",Discovery Science
+http://ipflix.click:80/0yx1nedqn/jqzdrnedf/692447
+#EXTINF:-1 tvg-id="Together.uk" tvg-name="Together" tvg-logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Together%20TV.svg?raw=true" group-title="(no group)",Together
 http://136.175.8.179:4001/play/a053
-#EXTINF:0 type="stream" channelId="DMAXUK.uk" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/DMAX.svg?raw=true", DMAX
-http://136.175.8.179:4001/play/a043
-#EXTINF:0 type="stream" channel id="PBSAmerica.uk" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/PBS%20America.svg?raw=true", PBS America
-http://136.175.8.179:4002/play/a02p
-#EXTINF:0 type="stream" channel id="DiscoveryHistory.uk" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Discovery%20History.png?raw=true", Discovery History
-http://136.175.8.179:4002/play/a0a7
-#EXTINF:0 type="stream" channel id="EarthxTV.us" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/EarthxTV.svg?raw=true", Earthx TV
+#EXTINF:-1 tvg-id="DMAX.uk" tvg-name="DMAX" tvg-logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/DMAX.svg?raw=true" group-title="(no group)",DMAX
+http://194.76.186.146:8000/play/a045/index.m3u8
+#EXTINF:-1 tvg-id="PBSAmerica.uk" tvg-name="PBS America" tvg-logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/PBS%20America.svg?raw=true" group-title="(no group)",PBS America
+http://194.76.186.146:8000/play/a04l/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryHistory.uk" tvg-name="Discovery History" tvg-logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Discovery%20History.png?raw=true" group-title="(no group)",Discovery History
+http://ipflix.click:80/0yx1nedqn/jqzdrnedf/692445
+#EXTINF:-1 tvg-id="EarthxTV(src01).uk" tvg-name="Earthx TV" tvg-logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/EarthxTV.svg?raw=true" group-title="(no group)",Earthx TV
 http://136.175.8.179:4002/play/a07y
-#EXTINF:0 type="stream" channel id="Travelxp.in" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Travelxp.svg?raw=true", Travel XP
+#EXTINF:-1 tvg-id="TravelxpEurope.uk" tvg-name="Travel XP" tvg-logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Travelxp.svg?raw=true" group-title="(no group)",Travel XP
 http://136.175.8.179:4002/play/a06a
-#EXTINF:0 type="stream" channel id="BBCScotland.uk" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/BBC%20Scotland%20HD.svg?raw=true", BBC Scotland HD
-http://136.175.8.179:4001/play/a00q
-#EXTINF:0 type="stream" channel id="Davejavu.uk" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Dave%20ja%20vu.svg?raw=true", Dave ja vu
+#EXTINF:-1 tvg-id="BBCScotland.uk" tvg-name="BBC Scotland HD" tvg-logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/BBC%20Scotland%20HD.svg?raw=true" group-title="(no group)",BBC Scotland HD
+http://194.76.186.146:8000/play/a00p/index.m3u8
+#EXTINF:-1 tvg-id="DaveJaVu.uk" tvg-name="Dave ja vu" tvg-logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Dave%20ja%20vu.svg?raw=true" group-title="(no group)",Dave ja vu
 http://136.175.8.179:4002/play/a09n
-#EXTINF:0 type="stream" channel id="SkyCinemaPremiere.uk" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Sky%20Cinema%20Premiere%20HD.svg?raw=true", Sky Cinema Premiere HD
+#EXTINF:-1 tvg-id="SkyCinemaPremiere.uk" tvg-name="Sky Cinema Premiere HD" tvg-logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Sky%20Cinema%20Premiere%20HD.svg?raw=true" group-title="(no group)",Sky Cinema Premiere HD
 http://ipflix.click:80/0yx1nedqn/jqzdrnedf/692633
-#EXTINF:0 type="stream" channelId="SkyCinemaSelect.uk" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Sky%20Cinema%20Select%20HD.svg?raw=true", Sky Cinema Select HD
+#EXTINF:-1 tvg-id="SkyCinemaSelect.uk" tvg-name="Sky Cinema Select HD" tvg-logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Sky%20Cinema%20Select%20HD.svg?raw=true" group-title="(no group)",Sky Cinema Select HD
 http://ipflix.click:80/0yx1nedqn/jqzdrnedf/692404
-#EXTINF:0 type="stream" channel id="SkyCinemaHits.uk" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Sky%20Cinema%20Hits%20HD.svg?raw=true", Sky Cinema Hits HD
+#EXTINF:-1 tvg-id="SkyCinemaHits.uk" tvg-name="Sky Cinema Hits HD" tvg-logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Sky%20Cinema%20Hits%20HD.svg?raw=true" group-title="(no group)",Sky Cinema Hits HD
 http://ipflix.click:80/0yx1nedqn/jqzdrnedf/692412
-#EXTINF:0 type="stream" channel id="SkyCinemaGreats.uk" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Sky%20Cinema%20Greats%20HD.svg?raw=true", Sky Cinema Greats HD
+#EXTINF:-1 tvg-id="SkyCinemaGreats.uk" tvg-name="Sky Cinema Greats HD" tvg-logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Sky%20Cinema%20Greats%20HD.svg?raw=true" group-title="(no group)",Sky Cinema Greats HD
 http://ipflix.click:80/0yx1nedqn/jqzdrnedf/692414
-#EXTINF:0 type="stream" channel id="SkyCinemaAnimation.uk" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Sky%20Cinema%20Animation%20HD.svg?raw=true", Sky Cinema Animation HD
+#EXTINF:-1 tvg-id="SkyCinemaAnimation.uk" tvg-name="Sky Cinema Animation HD" tvg-logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Sky%20Cinema%20Animation%20HD.svg?raw=true" group-title="(no group)",Sky Cinema Animation HD
 http://ipflix.click:80/0yx1nedqn/jqzdrnedf/692416
-#EXTINF:0 type="stream" channel id="SkyCinemaFamily.uk" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Sky%20Cinema%20Family%20HD.svg?raw=true", Sky Cinema Family HD
+#EXTINF:-1 tvg-id="SkyCinemaFamily.uk" tvg-name="Sky Cinema Family HD" tvg-logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Sky%20Cinema%20Family%20HD.svg?raw=true" group-title="(no group)",Sky Cinema Family HD
 http://ipflix.click:80/0yx1nedqn/jqzdrnedf/692417
-#EXTINF:0 type="stream" channel id="SkyCinemaAction.uk" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Sky%20Cinema%20Action%20HD.svg?raw=true", Sky Cinema Action HD
+#EXTINF:-1 tvg-id="SkyCinemaAction.uk" tvg-name="Sky Cinema Action HD" tvg-logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Sky%20Cinema%20Action%20HD.svg?raw=true" group-title="(no group)",Sky Cinema Action HD
 http://ipflix.click:80/0yx1nedqn/jqzdrnedf/692421
-#EXTINF:0 type="stream" channel id="SkyCinemaComedy.uk" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Sky%20Cinema%20Comedy%20HD.svg?raw=true", Sky Cinema Comedy HD
+#EXTINF:-1 tvg-id="SkyCinemaComedy.uk" tvg-name="Sky Cinema Comedy HD" tvg-logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Sky%20Cinema%20Comedy%20HD.svg?raw=true" group-title="(no group)",Sky Cinema Comedy HD
 http://ipflix.click:80/0yx1nedqn/jqzdrnedf/692423
-#EXTINF:0 type="stream" channel id="SkyCinemaThriller.uk" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Sky%20Cinema%20Thriller%20HD.svg?raw=true", Sky Cinema Thriller HD
+#EXTINF:-1 tvg-id="SkyCinemaThriller.uk" tvg-name="Sky Cinema Thriller HD" tvg-logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Sky%20Cinema%20Thriller%20HD.svg?raw=true" group-title="(no group)",Sky Cinema Thriller HD
 http://ipflix.click:80/0yx1nedqn/jqzdrnedf/692426
-#EXTINF:0 type="stream" channel id="SkyCinemaDrama.uk" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Sky%20Cinema%20Drama%20HD.svg?raw=true", Sky Cinema Drama HD
+#EXTINF:-1 tvg-id="SkyCinemaDrama.uk" tvg-name="Sky Cinema Drama HD" tvg-logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Sky%20Cinema%20Drama%20HD.svg?raw=true" group-title="(no group)",Sky Cinema Drama HD
 http://ipflix.click:80/0yx1nedqn/jqzdrnedf/692427
-#EXTINF:0 type="stream" channel id="SkyCinemaSciFiHorror.uk" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Sky%20Cinema%20Scifi%20Horror%20HD.svg?raw=true", Sky Cinema Sci Fi & Horror HD
+#EXTINF:-1 tvg-id="SkyCinemaSciFiandHorror.uk" tvg-name="Sky Cinema Sci Fi & Horror HD" tvg-logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Sky%20Cinema%20Scifi%20Horror%20HD.svg?raw=true" group-title="(no group)",Sky Cinema Sci Fi & Horror HD
 http://ipflix.click:80/0yx1nedqn/jqzdrnedf/692429
-#EXTINF:0 type="stream" channel id="Film4.uk" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Film4%20HD.svg?raw=true", Film4 HD*
-http://136.175.8.179:4001/play/a009
-#EXTINF:0 type="stream" channel id="TCMMovies.uk" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/TCM%20Movies.svg?raw=true", TCM Movies
+#EXTINF:-1 tvg-id="Film4.uk" tvg-name="Film4 HD*" tvg-logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Film4%20HD.svg?raw=true" group-title="(no group)",Film4 HD*
+http://194.76.186.146:8000/play/a007/index.m3u8
+#EXTINF:-1 tvg-id="TCM(src01).uk" tvg-name="TCM Movies" tvg-logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/TCM%20Movies.svg?raw=true" group-title="(no group)",TCM Movies
 http://136.175.8.179:4002/play/a01h
-#EXTINF:0 type="stream" channel id="HorrorXtra.uk" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/HorrorXtra.svg?raw=true", HorrorXtra
-http://136.175.8.179:4002/play/a02i
-#EXTINF:0 type="stream" channel id="GreatMoviesClassic.uk" logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Great%20Romance.png?raw=true", Great! Romance
-http://136.175.8.179:4002/play/a023
-#EXTINF:0 type="stream" channel id="GreatMovies.uk" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Great%20Movies.svg?raw=true", Great! Movies
-http://136.175.8.179:4002/play/a022
-#EXTINF:0 type="stream" channel id="GreatMoviesAction.uk" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Great%20Movies%20Action.svg?raw=true", Great! Movies Action
-http://136.175.8.179:4002/play/a021
-#EXTINF:0 type="stream" channel id="Movies24.uk" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Movies%2024.svg?raw=true", Movies 24
-http://protocol.solanaflix.com:8080/play/3XbIrVfOgsiLmEm5YEx_CVepz5f0HVp_X_DwyBg8GoLBGleqjbgJNwDPyDMQjdjQ
-#EXTINF:0 type="stream" channel id="TalkingPicturesTV.uk" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Talking%20Pictures%20TV.svg?raw=true", Talking Pictures TV
+#EXTINF:-1 tvg-id="HorrorXtra(src01).uk" tvg-name="HorrorXtra" tvg-logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/HorrorXtra.svg?raw=true" group-title="(no group)",HorrorXtra
+http://194.76.186.146:8000/play/a070/index.m3u8
+#EXTINF:-1 tvg-id="GREATRomance.uk" tvg-name="Great! Romance" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Great%20Romance.png?raw=true" group-title="(no group)",Great! Romance
+http://194.76.186.146:8000/play/a06k/index.m3u8
+#EXTINF:-1 tvg-id="GreatMovies.uk" tvg-name="Great! Movies" tvg-logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Great%20Movies.svg?raw=true" group-title="(no group)",Great! Movies
+http://194.76.186.146:8000/play/a06j/index.m3u8
+#EXTINF:-1 tvg-id="GreatMoviesAction.uk" tvg-name="Great! Movies Action" tvg-logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Great%20Movies%20Action.svg?raw=true" group-title="(no group)",Great! Movies Action
+http://194.76.186.146:8000/play/a06i/index.m3u8
+#EXTINF:-1 tvg-id="Movies24.uk" tvg-name="Movies 24" tvg-logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Movies%2024.svg?raw=true" group-title="(no group)",Movies 24
+http://line.rs6ott.com:80/Andreas/Andreas/1014210
+#EXTINF:-1 tvg-id="Movies24plus1(src01).uk" tvg-name="Movies 24+" tvg-logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Movies%2024%20Plus.svg?raw=true" group-title="(no group)",Movies 24+
+http://line.rs6ott.com:80/Andreas/Andreas/1014211
+#EXTINF:-1 tvg-id="TalkingPicturesTV.uk" tvg-name="Talking Pictures TV" tvg-logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Talking%20Pictures%20TV.svg?raw=true" group-title="(no group)",Talking Pictures TV
 http://136.175.8.179:4002/play/a06u
-#EXTINF:0 type="stream" channel id="MTVMusicUK.uk" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/MTV%20Music.svg?raw=true", MTV Music
+#EXTINF:-1 tvg-id="MTVMusic.uk" tvg-name="MTV Music" tvg-logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/MTV%20Music.svg?raw=true" group-title="(no group)",MTV Music
 http://136.175.8.179:4002/play/a00x
-#EXTINF:0 type="stream" channelId="MTVHitsUK.uk" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/MTV%20Hits.svg?raw=true", MTV Hits
+#EXTINF:-1 tvg-id="MTVHits.uk" tvg-name="MTV Hits" tvg-logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/MTV%20Hits.svg?raw=true" group-title="(no group)",MTV Hits
 http://136.175.8.179:4002/play/a00w
-#EXTINF:0 type="stream" channel id="MTVBaseUK.uk" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/MTV%2090s.svg?raw=true", MTV 90s
+#EXTINF:-1 tvg-id="MTV90sUK.uk" tvg-name="MTV 90s" tvg-logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/MTV%2090s.svg?raw=true" group-title="(no group)",MTV 90s
 http://136.175.8.179:4002/play/a07q
-#EXTINF:0 type="stream" channel id="MTVClassicUK.uk" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/MTV%2080s.png?raw=true", MTV 80s
+#EXTINF:-1 tvg-id="MTV80sUK.uk" tvg-name="MTV 80s" tvg-logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/MTV%2080s.png?raw=true" group-title="(no group)",MTV 80s
 http://136.175.8.179:4002/play/a07r
-#EXTINF:0 type="stream" channel id="4Music.uk" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/4Music.svg?raw=true", 4Music
-http://136.175.8.179:4002/play/a013
-#EXTINF:0 type="stream" channel id="TheBoxUK.uk" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/The%20Box.svg?raw=true", The Box
-http://136.175.8.179:4002/play/a012
-#EXTINF:0 type="stream" channel id="KissTVUK.uk" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Kiss.svg?raw=true", Kiss
-http://136.175.8.179:4002/play/a014
-#EXTINF:0 type="stream" channel id="Magic.uk" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Magic%20TV.svg?raw=true", Magic
-http://136.175.8.179:4002/play/a011
-#EXTINF:0 type="stream" channel id="Kerrang.uk" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Kerrang.svg?raw=true", Kerrang!
-http://136.175.8.179:4002/play/a015
-#EXTINF:0 type="stream" channel id="TraceVault.uk" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Trace%20Vault.svg?raw=true", Trace Vault
-http://136.175.8.179:4002/play/a02n
-#EXTINF:0 type="stream" channel id="Now70s.uk" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Now%2070s.png?raw=true", NOW 70s
+#EXTINF:-1 tvg-id="4Music.uk" tvg-name="4Music" tvg-logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/4Music.svg?raw=true" group-title="(no group)",4Music
+http://194.76.186.146:8000/play/a05s/index.m3u8
+#EXTINF:-1 tvg-id="TheBox.uk" tvg-name="The Box" tvg-logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/The%20Box.svg?raw=true" group-title="(no group)",The Box
+http://194.76.186.146:8000/play/a05r/index.m3u8
+#EXTINF:-1 tvg-id="Kiss.uk" tvg-name="Kiss" tvg-logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Kiss.svg?raw=true" group-title="(no group)",Kiss
+http://194.76.186.146:8000/play/a05t/index.m3u8
+#EXTINF:-1 tvg-id="Magic.uk" tvg-name="Magic" tvg-logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Magic%20TV.svg?raw=true" group-title="(no group)",Magic
+http://194.76.186.146:8000/play/a05q/index.m3u8
+#EXTINF:-1 tvg-id="Kerrang.uk" tvg-name="Kerrang!" tvg-logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Kerrang.svg?raw=true" group-title="(no group)",Kerrang!
+http://194.76.186.146:8000/play/a05u/index.m3u8
+#EXTINF:-1 tvg-id="TraceVault(src01).uk" tvg-name="Trace Vault" tvg-logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Trace%20Vault.svg?raw=true" group-title="(no group)",Trace Vault
+http://194.76.186.146:8000/play/a074/index.m3u8
+#EXTINF:-1 tvg-id="Now70s.uk" tvg-name="NOW 70s" tvg-logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Now%2070s.png?raw=true" group-title="(no group)",NOW 70s
 http://136.175.8.179:4002/play/a06o
-#EXTINF:0 type="stream" channel id="Now80s.uk" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Now%2080s.png?raw=true", NOW 80s
-http://136.175.8.179:4001/play/a04l
-#EXTINF:0 type="stream" channelId="Now90s.uk" logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/Now%20Rock.png", NOW Rock
+#EXTINF:-1 tvg-id="Now80s.uk" tvg-name="NOW 80s" tvg-logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Now%2080s.png?raw=true" group-title="(no group)",NOW 80s
+http://194.76.186.146:8000/play/a04l/index.m3u8
+#EXTINF:-1 tvg-id="NowRock.uk" tvg-name="NOW Rock" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/Now%20Rock.png" group-title="(no group)",NOW Rock
 http://136.175.8.179:4002/play/a05k
-#EXTINF:0 type="stream" channel id="ClublandTV.uk" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Clubland%20TV.svg?raw=true", Clubland TV
+#EXTINF:-1 tvg-id="ClublandTV(src01).uk" tvg-name="Clubland TV" tvg-logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Clubland%20TV.svg?raw=true" group-title="(no group)",Clubland TV
 http://136.175.8.179:4002/play/a05j
-#EXTINF:0 type="stream" channel id="SkySportsF1.uk" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Sky%20Sports%20F1%20HD.svg?raw=true", Sky Sports F1 HD
+#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="Sky Sports F1 HD" tvg-logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Sky%20Sports%20F1%20HD.svg?raw=true" group-title="(no group)",Sky Sports F1 HD
 http://ipflix.click:80/0yx1nedqn/jqzdrnedf/692269
-#EXTINF:0 type="stream" channel id="SkySportsNews.uk" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Sky%20Sports%20News%20HD.svg?raw=true", Sky Sports News HD
+#EXTINF:-1 tvg-id="SkySportsNews.uk" tvg-name="Sky Sports News HD" tvg-logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Sky%20Sports%20News%20HD.svg?raw=true" group-title="(no group)",Sky Sports News HD
 http://ipflix.click:80/0yx1nedqn/jqzdrnedf/692273
-#EXTINF:0 type="stream" channelId="Eurosport1UK.uk" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Eurosport%201%20HD.svg?raw=true", Eurosport 1 HD
+#EXTINF:-1 tvg-id="Eurosport1.uk" tvg-name="Eurosport 1 HD" tvg-logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Eurosport%201%20HD.svg?raw=true" group-title="(no group)",Eurosport 1 HD
 http://ipflix.click:80/0yx1nedqn/jqzdrnedf/692293
-#EXTINF:0 type="stream" channelId="Eurosport2UK.uk" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Eurosport%202%20HD.svg?raw=true", Eurosport 2 HD
+#EXTINF:-1 tvg-id="Eurosport2.uk" tvg-name="Eurosport 2 HD" tvg-logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Eurosport%202%20HD.svg?raw=true" group-title="(no group)",Eurosport 2 HD
 http://ipflix.click:80/0yx1nedqn/jqzdrnedf/692294
-#EXTINF:0 type="stream" channel id="BTSport1.uk" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/BT%20Sport%201%20HD.svg?raw=true", BT Sport 1 HD
+#EXTINF:-1 tvg-id="BTSport1.uk" tvg-name="BT Sport 1 HD" tvg-logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/BT%20Sport%201%20HD.svg?raw=true" group-title="(no group)",BT Sport 1 HD
 http://ipflix.click:80/0yx1nedqn/jqzdrnedf/692280
-#EXTINF:0 type="stream" channel id="BTSport2.uk" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/BT%20Sport%202%20HD.svg?raw=true", BT Sport 2 HD
+#EXTINF:-1 tvg-id="BTSport2.uk" tvg-name="BT Sport 2 HD" tvg-logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/BT%20Sport%202%20HD.svg?raw=true" group-title="(no group)",BT Sport 2 HD
 http://ipflix.click:80/0yx1nedqn/jqzdrnedf/692282
-#EXTINF:0 type="stream" channel id="SkyNews.uk" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Sky%20News%20HD.svg?raw=true", Sky News HD*
+#EXTINF:-1 tvg-id="SkyNews.uk" tvg-name="Sky News HD*" tvg-logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Sky%20News%20HD.svg?raw=true" group-title="(no group)",Sky News HD*
 http://136.175.8.179:4002/play/a098
-#EXTINF:0 type="stream" channel id="BBCNews.uk" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/BBC%20News%20HD.svg?raw=true", BBC News HD
-http://136.175.8.179:4001/play/a03l
-#EXTINF:0 type="stream" channel id="" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/CNN%20HD.svg?raw=true", CNN HD
-http://136.175.8.179:4002/play/a080
-#EXTINF:0 type="stream" channelId="EuronewsEnglish.fr" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Euronews.svg?raw=true", Euronews
+#EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="BBC News HD" tvg-logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/BBC%20News%20HD.svg?raw=true" group-title="(no group)",BBC News HD
+http://194.76.186.146:8000/play/a03z/index.m3u8
+#EXTINF:-1 tvg-id="CNNInternational.uk" tvg-name="CNN HD*" tvg-logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/CNN%20HD.svg?raw=true" group-title="(no group)",CNN HD*
+http://194.76.186.146:8000/play/a04m/index.m3u8
+#EXTINF:-1 tvg-id="euronews.uk" tvg-name="Euronews" tvg-logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Euronews.svg?raw=true" group-title="(no group)",Euronews
 http://136.175.8.179:4002/play/a03z
-#EXTINF:0 type="stream" channel id="BBCRedButton1.uk" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/BBC%20Red%20Button.svg?raw=true", BBC Red Button
-http://136.175.8.179:4001/play/a00o
+#EXTINF:-1 tvg-id="BBCRedButton(src01).uk" tvg-name="BBC Red Button" tvg-logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/BBC%20Red%20Button.svg?raw=true" group-title="(no group)",BBC Red Button
+http://194.76.186.146:8000/play/a00n/index.m3u8
