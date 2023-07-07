@@ -163,8 +163,6 @@ http://ipflix.click:80/0yx1nedqn/jqzdrnedf/692427
 http://ipflix.click:80/0yx1nedqn/jqzdrnedf/692429
 #EXTINF:-1 tvg-id="Film4.uk" tvg-name="Film4 HD*" tvg-logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Film4%20HD.svg?raw=true" group-title="(no group)",Film4 HD*
 http://194.76.186.146:8000/play/a007/index.m3u8
-#EXTINF:-1 tvg-id="TCM(src01).uk" tvg-name="TCM Movies" tvg-logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/TCM%20Movies.svg?raw=true" group-title="(no group)",TCM Movies
-http://136.175.8.179:4002/play/a01h
 #EXTINF:-1 tvg-id="HorrorXtra(src01).uk" tvg-name="HorrorXtra" tvg-logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/HorrorXtra.svg?raw=true" group-title="(no group)",HorrorXtra
 http://194.76.186.146:8000/play/a070/index.m3u8
 #EXTINF:-1 tvg-id="GREATRomance.uk" tvg-name="Great! Romance" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Great%20Romance.png?raw=true" group-title="(no group)",Great! Romance
