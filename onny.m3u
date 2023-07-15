@@ -20,7 +20,7 @@ http://ipflix.click:80/0yx1nedqn/jqzdrnedf/692582
 #EXTINF:0 type="stream" channel id="Gold.uk" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Gold%20HD.svg?raw=true", Gold HD*
 http://ipflix.click:80/0yx1nedqn/jqzdrnedf/692519
 #EXTINF:0 type="stream" channel id="Dave.uk" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Dave%20HD.svg?raw=true", Dave HD
-http://ultraflix.uk:8080/gaylaw3/h3t0NAAB1E/2118
+https://cdnuk001.broadcastcdn.net/KUK-DAVE/playlist.m3u8
 #EXTINF:0 type="stream" channel id="ComedyCentralUK.uk" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Comedy%20Central%20HD.svg?raw=true", Comedy Central HD*
 http://ipflix.click:80/0yx1nedqn/jqzdrnedf/692503
 #EXTINF:0 type="stream" channel id="SkyMax.uk" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Sky%20Max%20HD.svg?raw=true", Sky Max HD
@@ -138,7 +138,7 @@ http://b1g.one:80/70707070/80808080/80329
 #EXTINF:0 type="stream" channel id="BBCScotland.uk" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/BBC%20Scotland%20HD.svg?raw=true", BBC Scotland HD
 http://194.76.186.146:8000/play/a00p/index.m3u8
 #EXTINF:0 type="stream" channel id="Davejavu.uk" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Dave%20ja%20vu.svg?raw=true", Dave ja vu
-http://ultraflix.uk:8080/gaylaw3/h3t0NAAB1E/3449
+https://cdnuk001.broadcastcdn.net/KUK-DAVEJAVU/playlist.m3u8
 #EXTINF:0 type="stream" channel id="SkyCinemaPremiere.uk" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Sky%20Cinema%20Premiere%20HD.svg?raw=true", Sky Cinema Premiere HD
 http://ipflix.click:80/0yx1nedqn/jqzdrnedf/692633
 #EXTINF:0 type="stream" channel id="SkyCinemaSelect.uk" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Sky%20Cinema%20Select%20HD.svg?raw=true", Sky Cinema Select HD
