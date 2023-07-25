@@ -68,7 +68,7 @@ http://194.76.186.146:8000/play/a03s/index.m3u8
 #EXTINF:0 type="stream" channel id="4seven.uk" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/4seven.svg?raw=true", 4seven
 http://ipflix.click:80/0yx1nedqn/jqzdrnedf/692569
 #EXTINF:0 type="stream" channel id="E4Extra.uk" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/E4%20Extra.svg?raw=true", E4 Extra
-http://194.76.186.146:8000/play/a03u/index.m3u8
+http://ipflix.click:80/0yx1nedqn/jqzdrnedf/692608
 #EXTINF:0 type="stream" channel id="SkySciFi.uk" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Sky%20Sci-Fi%20HD.svg?raw=true", Sky Sci-Fi HD
 http://ipflix.click:80/0yx1nedqn/jqzdrnedf/692557
 #EXTINF:0 type="stream" channel id="FoodNetworkUK.uk" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Food%20Network.svg?raw=true", Food Network
