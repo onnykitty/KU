@@ -191,7 +191,7 @@ http://194.76.186.146:8000/play/a05s/index.m3u8
 http://194.76.186.146:8000/play/a05r/index.m3u8
 #EXTINF:0 type="stream" channel id="KissTVUK.uk" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Kiss.svg?raw=true", Kiss
 http://194.76.186.146:8000/play/a05t/index.m3u8
-#EXTINF:0 type="stream" channelId="1229" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Magic%20TV.svg?raw=true", Magic
+#EXTINF:0 type="stream" channelId="Magic" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Magic%20TV.svg?raw=true", Magic
 http://194.76.186.146:8000/play/a05q/index.m3u8
 #EXTINF:0 type="stream" channel id="Kerrang.uk" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Kerrang.svg?raw=true", Kerrang!
 http://194.76.186.146:8000/play/a05u/index.m3u8
