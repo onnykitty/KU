@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://www.bevy.be/bevyfiles/unitedkingdom.xml"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/dp247/Freeview-EPG/master/epg.xml,https://experiencersinternational.github.io/tvsetup/epg.xml"
 #EXTINF:0,4Music
 http://136.175.8.179:4002/play/a013
 #EXTINF:0,4seven
