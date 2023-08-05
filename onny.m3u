@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://www.bevy.be/bevyfiles/unitedkingdom.xml,https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/dp247/Freeview-EPG/master/epg.xml,https://www.bevy.be/bevyfiles/unitedkingdom.xml,https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml"
 #EXTINF:0 type="stream" channel id="BBCOneEngland.uk" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/BBC%20One%20HD.svg?raw=true", BBC One HD
 http://194.76.186.146:8000/play/a01y/index.m3u8
 #EXTINF:0 type="stream" channel id="BBCTwoEngland.uk" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/BBC%20Two%20HD.svg?raw=true", BBC Two HD
