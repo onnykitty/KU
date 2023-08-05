@@ -1,8 +1,9 @@
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/dp247/Freeview-EPG/master/epg.xml,https://experiencersinternational.github.io/tvsetup/epg.xml"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/dp247/Freeview-EPG/master/epg.xml"
 #EXTINF:0,4Music
 http://136.175.8.179:4002/play/a013
 #EXTINF:0,4seven
-http://136.175.8.179:4002/play/a00j
+http://136.175.8.179:4002/play/a00j,https://experiencersinternational.github.io/tvsetup/epg.xml"
+#EXTINF:0,4Music
 #EXTINF:0,5 USA
 http://136.175.8.179:4002/play/a01s
 #EXTINF:0,5ACTION
