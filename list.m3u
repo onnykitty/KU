@@ -1,548 +1,325 @@
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/dp247/Freeview-EPG/master/epg.xml"
-#EXTINF:0,4Music
-http://136.175.8.179:4002/play/a013
-#EXTINF:0,4seven
-http://136.175.8.179:4002/play/a00j,https://experiencersinternational.github.io/tvsetup/epg.xml"
-#EXTINF:0,4Music
-#EXTINF:0,5 USA
-http://136.175.8.179:4002/play/a01s
-#EXTINF:0,5ACTION
-http://136.175.8.179:4002/play/a01z
-#EXTINF:0,5SELECT
-http://136.175.8.179:4002/play/a01v
-#EXTINF:0,5STAR
-http://136.175.8.179:4002/play/a01u
-#EXTINF:0,5STAR+1
-http://136.175.8.179:4002/play/a01w
-#EXTINF:0,5USA+1
-http://136.175.8.179:4002/play/a01t
-#EXTINF:0,Al Jazeera HD
-http://136.175.8.179:4002/play/a06z
-#EXTINF:0,alibi
-http://136.175.8.179:4001/play/a04q
-#EXTINF:0,alibi
-http://136.175.8.179:4002/play/a09f
-#EXTINF:0,alibi+1
-http://136.175.8.179:4002/play/a09o
-#EXTINF:0,Animal Planet
-http://136.175.8.179:4002/play/a0a5
-#EXTINF:0,Animal Plnt+1
-http://136.175.8.179:4001/play/a03w
-#EXTINF:0,BBC Four
-http://136.175.8.179:4001/play/a00v
-#EXTINF:0,BBC Four
-http://136.175.8.179:4001/play/a01u
-#EXTINF:0,BBC Four HD
-http://136.175.8.179:4001/play/a01z
-#EXTINF:0,BBC Four HD
-http://136.175.8.179:4001/play/a023
-#EXTINF:0,BBC NEWS
-http://136.175.8.179:4001/play/a00y
-#EXTINF:0,BBC NEWS HD
-http://136.175.8.179:4001/play/a03l
-#EXTINF:0,BBC One
-http://136.175.8.179:4001/play/a01r
-#EXTINF:0,BBC One
-http://136.175.8.179:4001/play/a013
-#EXTINF:0,BBC One
-http://136.175.8.179:4001/play/a012
-#EXTINF:0,BBC One
-http://136.175.8.179:4001/play/a011
-#EXTINF:0,BBC One
-http://136.175.8.179:4001/play/a00s
-#EXTINF:0,BBC One CI HD
-http://136.175.8.179:4001/play/a00m
-#EXTINF:0,BBC One EastHD
-http://136.175.8.179:4001/play/a021
-#EXTINF:0,BBC One EMidHD
-http://136.175.8.179:4001/play/a022
-#EXTINF:0,BBC One Lon HD
-http://136.175.8.179:4001/play/a01x
-#EXTINF:0,BBC One NE HD
-http://136.175.8.179:4001/play/a00h
-#EXTINF:0,BBC One NI HD
-http://136.175.8.179:4001/play/a02c
-#EXTINF:0,BBC One NI HD
-http://136.175.8.179:4001/play/a028
-#EXTINF:0,BBC One NW HD
-http://136.175.8.179:4001/play/a00j
-#EXTINF:0,BBC One ScotHD
-http://136.175.8.179:4001/play/a03j
-#EXTINF:0,BBC One SE HD
-http://136.175.8.179:4001/play/a026
-#EXTINF:0,BBC One SW HD
-http://136.175.8.179:4001/play/a00r
-#EXTINF:0,BBC One Wal HD
-http://136.175.8.179:4001/play/a03k
-#EXTINF:0,BBC One WM HD
-http://136.175.8.179:4001/play/a03o
-#EXTINF:0,BBC One Wst HD
-http://136.175.8.179:4001/play/a00p
-#EXTINF:0,BBC One Y&L HD
-http://136.175.8.179:4001/play/a025
-#EXTINF:0,BBC One Yks HD
-http://136.175.8.179:4001/play/a00l
-#EXTINF:0,BBC RB 1
-http://136.175.8.179:4001/play/a010
-#EXTINF:0,BBC RB 1 HD
-http://136.175.8.179:4001/play/a00o
-#EXTINF:0,BBC Scotland
-http://136.175.8.179:4001/play/a00w
-#EXTINF:0,BBC Three
-http://136.175.8.179:4001/play/a01t
-#EXTINF:0,BBC Three
-http://136.175.8.179:4001/play/a00u
-#EXTINF:0,BBC Three HD
-http://136.175.8.179:4001/play/a02d
-#EXTINF:0,BBC Three HD
-http://136.175.8.179:4001/play/a02a
-#EXTINF:0,BBC Two
-http://136.175.8.179:4001/play/a01s
-#EXTINF:0,BBC Two
-http://136.175.8.179:4001/play/a00t
-#EXTINF:0,BBC Two HD
-http://136.175.8.179:4001/play/a027
-#EXTINF:0,BBC Two NI HD
-http://136.175.8.179:4001/play/a00k
-#EXTINF:0,BBC Two NI HD
-http://136.175.8.179:4001/play/a00i
-#EXTINF:0,BBC Two Wal HD
-http://136.175.8.179:4001/play/a01y
-#EXTINF:0,BBCScotlandHD
-http://136.175.8.179:4001/play/a00q
-#EXTINF:0,BLAZE
-http://136.175.8.179:4001/play/a04s
-#EXTINF:0,Bloomberg HD
-http://136.175.8.179:4002/play/a085
-#EXTINF:0,Boomerang
-http://136.175.8.179:4002/play/a01j
-#EXTINF:0,Boomerang+1
-http://136.175.8.179:4002/play/a01k
-#EXTINF:0,Cartoon Netwrk
-http://136.175.8.179:4002/play/a01f
-#EXTINF:0,Cartoonito
-http://136.175.8.179:4002/play/a01l
-#EXTINF:0,CBBC
-http://136.175.8.179:4001/play/a01v
-#EXTINF:0,CBBC
-http://136.175.8.179:4001/play/a01e
-#EXTINF:0,CBBC HD
-http://136.175.8.179:4001/play/a02b
-#EXTINF:0,CBBC HD
-http://136.175.8.179:4001/play/a02e
-#EXTINF:0,CBeebies
-http://136.175.8.179:4001/play/a01w
-#EXTINF:0,CBeebies
-http://136.175.8.179:4001/play/a01f
-#EXTINF:0,CBeebies HD
-http://136.175.8.179:4001/play/a024
-#EXTINF:0,CBeebies HD
-http://136.175.8.179:4001/play/a020
-#EXTINF:0,CBS Reality
-http://136.175.8.179:4002/play/a02r
-#EXTINF:0,CBS Reality
-http://136.175.8.179:4002/play/a02q
-#EXTINF:0,CBS Reality+1
-http://136.175.8.179:4002/play/a02s
-#EXTINF:0,Challenge
-http://136.175.8.179:4001/play/a054
-#EXTINF:0,Channel 4 London
-http://136.175.8.179:4001/play/a004
-#EXTINF:0,Channel 4 London +1
-http://136.175.8.179:4001/play/a039
-#EXTINF:0,Channel 4 London HD
-http://136.175.8.179:4002/play/a00i
-#EXTINF:0,Channel 4 Midlands
-http://136.175.8.179:4001/play/a006
-#EXTINF:0,Channel 4 North
-http://136.175.8.179:4001/play/a007
-#EXTINF:0,Channel 4 North +1
-http://136.175.8.179:4001/play/a03b
-#EXTINF:0,Channel 4 Northern Ireland
-http://136.175.8.179:4001/play/a03d
-#EXTINF:0,Channel 4 Scotland
-http://136.175.8.179:4001/play/a008
-#EXTINF:0,Channel 4 Scotland +1
-http://136.175.8.179:4001/play/a03c
-#EXTINF:0,Channel 4 Scotland HD
-http://136.175.8.179:4002/play/a09w
-#EXTINF:0,Channel 4 South & East
-http://136.175.8.179:4001/play/a005
-#EXTINF:0,Channel 4 South & East +1
-http://136.175.8.179:4001/play/a03a
-#EXTINF:0,Channel 4 South & East HD
-http://136.175.8.179:4002/play/a09v
-#EXTINF:0,Channel 5
-http://136.175.8.179:4002/play/a01r
-#EXTINF:0,Channel 5 HD
-http://136.175.8.179:4002/play/a01y
-#EXTINF:0,Channel 5+1
-http://136.175.8.179:4002/play/a01x
-#EXTINF:0,CITV
-http://136.175.8.179:4001/play/a02r
-#EXTINF:0,Clubland TV
-http://136.175.8.179:4002/play/a05j
-#EXTINF:0,CN+1
-http://136.175.8.179:4002/play/a01g
-#EXTINF:0,CNBC
-http://136.175.8.179:4002/play/a047
-#EXTINF:0,CNN
-http://136.175.8.179:4001/play/a04m
-#EXTINF:0,CNN HD
-http://136.175.8.179:4002/play/a080
-#EXTINF:0,ComedyCent+1
-http://136.175.8.179:4002/play/a00n
-#EXTINF:0,ComedyCentHD
-http://136.175.8.179:4002/play/a07p
-#EXTINF:0,ComedyCentral
-http://136.175.8.179:4002/play/a00o
-#EXTINF:0,ComedyCentral
-http://136.175.8.179:4002/play/a00v
-#EXTINF:0,ComedyXtra
-http://136.175.8.179:4002/play/a07t
-#EXTINF:0,ComedyXtra
-http://136.175.8.179:4002/play/a00q
-#EXTINF:0,Court TV
-http://136.175.8.179:4002/play/a06b
-#EXTINF:0,Crime+Inv
-http://136.175.8.179:4002/play/a07e
-#EXTINF:0,Crime+Inv+1
-http://136.175.8.179:4002/play/a07f
-#EXTINF:0,Dave
-http://136.175.8.179:4002/play/a09d
-#EXTINF:0,Dave
-http://136.175.8.179:4002/play/a09l
-#EXTINF:0,Dave ja vu
-http://136.175.8.179:4002/play/a09n
-#EXTINF:0,Disc.History
-http://136.175.8.179:4002/play/a0a7
-#EXTINF:0,Disc.History+1
-http://136.175.8.179:4001/play/a042
-#EXTINF:0,Disc.Sci+1
-http://136.175.8.179:4001/play/a03x
-#EXTINF:0,Disc.Science
-http://136.175.8.179:4002/play/a0a6
-#EXTINF:0,Disc.Turbo
-http://136.175.8.179:4002/play/a0a8
-#EXTINF:0,Disc.Turbo+1
-http://136.175.8.179:4001/play/a046
-#EXTINF:0,Discovery
-http://136.175.8.179:4002/play/a0a4
-#EXTINF:0,Discovery
-http://136.175.8.179:4001/play/a047
-#EXTINF:0,Discovery+1
-http://136.175.8.179:4001/play/a03y
-#EXTINF:0,DMAX
-http://136.175.8.179:4001/play/a043
-#EXTINF:0,DMAX
-http://136.175.8.179:4002/play/a0a3
-#EXTINF:0,DMAX+1
-http://136.175.8.179:4002/play/a09z
-#EXTINF:0,Drama
-http://136.175.8.179:4002/play/a09k
-#EXTINF:0,Drama
-http://136.175.8.179:4002/play/a09g
-#EXTINF:0,Drama+1
-http://136.175.8.179:4002/play/a09m
-#EXTINF:0,E4
-http://136.175.8.179:4001/play/a038
-#EXTINF:0,E4
-http://136.175.8.179:4001/play/a00c
-#EXTINF:0,E4 Extra
-http://136.175.8.179:4001/play/a03h
-#EXTINF:0,E4+1
-http://136.175.8.179:4001/play/a037
-#EXTINF:0,E4+1
-http://136.175.8.179:4001/play/a00e
-#EXTINF:0,EarthxTV HD
-http://136.175.8.179:4002/play/a07y
-#EXTINF:0,Eden
-http://136.175.8.179:4002/play/a09a
-#EXTINF:0,Eden+1
-http://136.175.8.179:4002/play/a09i
-#EXTINF:0,Euronews
-http://136.175.8.179:4002/play/a03z
-#EXTINF:0,Film4
-http://136.175.8.179:4001/play/a009
-#EXTINF:0,Film4
-http://136.175.8.179:4002/play/a016
-#EXTINF:0,Film4+1
-http://136.175.8.179:4001/play/a03g
-#EXTINF:0,Food Network
-http://136.175.8.179:4002/play/a0a0
-#EXTINF:0,Food Network
-http://136.175.8.179:4002/play/a0a1
-#EXTINF:0,Food Netwrk+1
-http://136.175.8.179:4002/play/a0a2
-#EXTINF:0,Foodxp
-http://136.175.8.179:4002/play/a06m
-#EXTINF:0,FRANCE 24 HD
-http://136.175.8.179:4002/play/a082
-#EXTINF:0,G! romance+1
-http://136.175.8.179:4002/play/a024
-#EXTINF:0,GB News HD
-http://136.175.8.179:4002/play/a02f
-#EXTINF:0,GOLD
-http://136.175.8.179:4001/play/a04n
-#EXTINF:0,GOLD
-http://136.175.8.179:4002/play/a09b
-#EXTINF:0,GOLD+1
-http://136.175.8.179:4002/play/a09h
-#EXTINF:0,GREAT! action
-http://136.175.8.179:4002/play/a021
-#EXTINF:0,GREAT! movies
-http://136.175.8.179:4002/play/a022
-#EXTINF:0,GREAT! movies+1
-http://136.175.8.179:4002/play/a029
-#EXTINF:0,GREAT! romance
-http://136.175.8.179:4002/play/a023
-#EXTINF:0,GREAT! tv
-http://136.175.8.179:4002/play/a02d
-#EXTINF:0,GREAT! tv+1
-http://136.175.8.179:4002/play/a02e
-#EXTINF:0,GREAT!action+1
-http://136.175.8.179:4002/play/a02b
-#EXTINF:0,HGTV
-http://136.175.8.179:4001/play/a03z
-#EXTINF:0,HGTV
-http://136.175.8.179:4002/play/a036
-#EXTINF:0,HGTV+1
-http://136.175.8.179:4002/play/a038
-#EXTINF:0,HorrorXtra
-http://136.175.8.179:4002/play/a02i
-#EXTINF:0,HorrorXtra+1
-http://136.175.8.179:4002/play/a02t
-#EXTINF:0,ID
-http://136.175.8.179:4001/play/a03v
-#EXTINF:0,ID
-http://136.175.8.179:4001/play/a048
-#EXTINF:0,ID+1
-http://136.175.8.179:4001/play/a040
-#EXTINF:0,ITV 1 Anglia East HD
-http://136.175.8.179:4001/play/a04j
-#EXTINF:0,ITV 1 Anglia West HD
-http://136.175.8.179:4001/play/a050
-#EXTINF:0,ITV 1 Border England HD
-http://136.175.8.179:4001/play/a04k
-#EXTINF:0,ITV 1 Border Scotland
-http://136.175.8.179:4001/play/a02j
-#EXTINF:0,ITV 1 Central East HD
-http://136.175.8.179:4001/play/a051
-#EXTINF:0,ITV 1 Central West
-http://136.175.8.179:4001/play/a034
-#EXTINF:0,ITV 1 Central West +1
-http://136.175.8.179:4001/play/a02n
-#EXTINF:0,ITV 1 Channel TV
-http://136.175.8.179:4001/play/a02v
-#EXTINF:0,ITV 1 Granada
-http://136.175.8.179:4001/play/a02m
-#EXTINF:0,ITV 1 Granada +1
-http://136.175.8.179:4001/play/a035
-#EXTINF:0,ITV 1 Granada HD
-http://136.175.8.179:4001/play/a04b
-#EXTINF:0,ITV 1 London
-http://136.175.8.179:4001/play/a02k
-#EXTINF:0,ITV 1 London +1
-http://136.175.8.179:4001/play/a02q
-#EXTINF:0,ITV 1 London HD
-http://136.175.8.179:4002/play/a09u
-#EXTINF:0,ITV 1 Meridian East
-http://136.175.8.179:4001/play/a02p
-#EXTINF:0,ITV 1 Meridian East +1
-http://136.175.8.179:4001/play/a032
-#EXTINF:0,ITV 1 Meridian South Coast HD
-http://136.175.8.179:4001/play/a04x
-#EXTINF:0,ITV 1 Meridian Thames Valley HD
-http://136.175.8.179:4001/play/a04w
-#EXTINF:0,ITV 1 Tyne Tees HD
-http://136.175.8.179:4001/play/a04c
-#EXTINF:0,ITV 1 Westcountry South West HD
-http://136.175.8.179:4001/play/a04d
-#EXTINF:0,ITV 1 Westcountry West HD
-http://136.175.8.179:4001/play/a04e
-#EXTINF:0,ITV 1 Yorkshire East HD
-http://136.175.8.179:4001/play/a04h
-#EXTINF:0,ITV 1 Yorkshire West HD
-http://136.175.8.179:4001/play/a04y
-#EXTINF:0,ITV1 Wales
-http://136.175.8.179:4001/play/a02o
-#EXTINF:0,ITV1 Wales HD
-http://136.175.8.179:4001/play/a04a
-#EXTINF:0,ITV2
-http://136.175.8.179:4001/play/a02w
-#EXTINF:0,ITV2 HD
-http://136.175.8.179:4001/play/a049
-#EXTINF:0,ITV2+1
-http://136.175.8.179:4001/play/a02u
-#EXTINF:0,ITV3
-http://136.175.8.179:4001/play/a02s
-#EXTINF:0,ITV3 HD
-http://136.175.8.179:4001/play/a04z
-#EXTINF:0,ITV3+1
-http://136.175.8.179:4001/play/a036
-#EXTINF:0,ITV4
-http://136.175.8.179:4001/play/a02t
-#EXTINF:0,ITV4 HD
-http://136.175.8.179:4001/play/a04i
-#EXTINF:0,ITV4+1
-http://136.175.8.179:4001/play/a033
-#EXTINF:0,ITVBe
-http://136.175.8.179:4001/play/a031
-#EXTINF:0,Kerrang!
-http://136.175.8.179:4002/play/a015
-#EXTINF:0,KISS
-http://136.175.8.179:4002/play/a014
-#EXTINF:0,Legend
-http://136.175.8.179:4002/play/a02m
-#EXTINF:0,London Live
-http://136.175.8.179:4002/play/a04g
-#EXTINF:0,Magic
-http://136.175.8.179:4002/play/a011
-#EXTINF:0,More4
-http://136.175.8.179:4001/play/a00b
-#EXTINF:0,More4
-http://136.175.8.179:4001/play/a03f
-#EXTINF:0,More4+1
-http://136.175.8.179:4001/play/a00a
-#EXTINF:0,MTV
-http://136.175.8.179:4002/play/a07m
-#EXTINF:0,MTV
-http://136.175.8.179:4002/play/a07s
-#EXTINF:0,MTV 80s
-http://136.175.8.179:4002/play/a07r
-#EXTINF:0,MTV 90s
-http://136.175.8.179:4002/play/a07q
-#EXTINF:0,MTV HD
-http://136.175.8.179:4002/play/a07o
-#EXTINF:0,MTV HITS
-http://136.175.8.179:4002/play/a00w
-#EXTINF:0,MTV MUSIC
-http://136.175.8.179:4002/play/a00x
-#EXTINF:0,NHK World HD
-http://136.175.8.179:4002/play/a01n
-#EXTINF:0,Nick Jr+1
-http://136.175.8.179:4002/play/a00s
-#EXTINF:0,Nick Jr.
-http://136.175.8.179:4002/play/a00l
-#EXTINF:0,Nick Jr.
-http://136.175.8.179:4002/play/a00r
-#EXTINF:0,Nick Jr. HD
-http://136.175.8.179:4002/play/a07n
-#EXTINF:0,Nick Jr. Too
-http://136.175.8.179:4002/play/a020
-#EXTINF:0,Nick Jr. Too
-http://136.175.8.179:4002/play/a00u
-#EXTINF:0,Nickelodeon
-http://136.175.8.179:4002/play/a00t
-#EXTINF:0,Nickelodeon
-http://136.175.8.179:4002/play/a01c
-#EXTINF:0,Nickelodeon+1
-http://136.175.8.179:4002/play/a00p
-#EXTINF:0,NickSpongeBob
-http://136.175.8.179:4002/play/a00m
-#EXTINF:0,NickSpongeBob
-http://136.175.8.179:4002/play/a07u
-#EXTINF:0,NOW 70s
-http://136.175.8.179:4002/play/a06o
-#EXTINF:0,NOW 80s
-http://136.175.8.179:4001/play/a04l
-#EXTINF:0,NOW ROCK
-http://136.175.8.179:4002/play/a05k
-#EXTINF:0,NTD
-http://136.175.8.179:4002/play/a05h
-#EXTINF:0,PBS America
-http://136.175.8.179:4002/play/a02p
-#EXTINF:0,Pick
-http://136.175.8.179:4002/play/a096
-#EXTINF:0,POP
-http://136.175.8.179:4002/play/a026
-#EXTINF:0,POP Max
-http://136.175.8.179:4002/play/a028
-#EXTINF:0,POP Max+1
-http://136.175.8.179:4002/play/a02a
-#EXTINF:0,POP+1
-http://136.175.8.179:4002/play/a02c
-#EXTINF:0,QUEST
-http://136.175.8.179:4002/play/a0aa
-#EXTINF:0,QUEST HD
-http://136.175.8.179:4002/play/a03m
-#EXTINF:0,Quest Red
-http://136.175.8.179:4002/play/a0ab
-#EXTINF:0,Quest Red
-http://136.175.8.179:4001/play/a045
-#EXTINF:0,Quest Red+1
-http://136.175.8.179:4002/play/a0a9
-#EXTINF:0,QUEST+1
-http://136.175.8.179:4002/play/a0ac
-#EXTINF:0,RealityXtra
-http://136.175.8.179:4002/play/a02g
-#EXTINF:0,RealityXtra
-http://136.175.8.179:4002/play/a02l
-#EXTINF:0,Really
-http://136.175.8.179:4002/play/a039
-#EXTINF:0,Really
-http://136.175.8.179:4002/play/a037
-#EXTINF:0,ROK
-http://136.175.8.179:4002/play/a06g
-#EXTINF:0,Sky Arts
-http://136.175.8.179:4002/play/a095
-#EXTINF:0,Sky History
-http://136.175.8.179:4002/play/a07b
-#EXTINF:0,Sky History+1
-http://136.175.8.179:4002/play/a07c
-#EXTINF:0,Sky History2
-http://136.175.8.179:4002/play/a07d
-#EXTINF:0,Sky News
-http://136.175.8.179:4002/play/a098
-#EXTINF:0,Sky News
-http://136.175.8.179:4001/play/a052
-#EXTINF:0,SkySp Racing
-http://136.175.8.179:4002/play/a07i
-#EXTINF:0,SkySp Racing
-http://136.175.8.179:4002/play/a07h
-#EXTINF:0,SportyStuff HD
-http://136.175.8.179:4002/play/a053
-#EXTINF:0,TalkingPictures
-http://136.175.8.179:4002/play/a06u
-#EXTINF:0,TCM Movies
-http://136.175.8.179:4002/play/a01h
-#EXTINF:0,TCM Movies+1
-http://136.175.8.179:4002/play/a01i
-#EXTINF:0,That's 60s
-http://136.175.8.179:4002/play/a06r
-#EXTINF:0,That's 70s
-http://136.175.8.179:4002/play/a02h
-#EXTINF:0,That's 80s
-http://136.175.8.179:4002/play/a032
-#EXTINF:0,That's TV
-http://136.175.8.179:4002/play/a06v
-#EXTINF:0,The Box
-http://136.175.8.179:4002/play/a012
-#EXTINF:0,Tiny Pop
-http://136.175.8.179:4002/play/a025
-#EXTINF:0,Tiny Pop+1
-http://136.175.8.179:4002/play/a027
-#EXTINF:0,TLC
-http://136.175.8.179:4001/play/a041
-#EXTINF:0,TLC
-http://136.175.8.179:4002/play/a0ad
-#EXTINF:0,TLC HD
-http://136.175.8.179:4002/play/a03k
-#EXTINF:0,TLC+1
-http://136.175.8.179:4001/play/a044
-#EXTINF:0,Together
-http://136.175.8.179:4001/play/a053
-#EXTINF:0,Trace Vault
-http://136.175.8.179:4002/play/a02n
-#EXTINF:0,Travelxp
-http://136.175.8.179:4002/play/a06a
-#EXTINF:0,W
-http://136.175.8.179:4002/play/a09e
-#EXTINF:0,W
-http://136.175.8.179:4001/play/a04t
-#EXTINF:0,W+1
-http://136.175.8.179:4002/play/a09j
-#EXTINF:0,YESTERDAY
-http://136.175.8.179:4002/play/a09c
-#EXTINF:0,YESTERDAY+1
-http://136.175.8.179:4002/play/a09p
+#EXTM3U
+#EXTINF:-1,New
+http://185.79.154.218:8085/udp/229.2.32.104:1234
+#EXTINF:-1,
+http://185.79.154.218:8085/udp/229.2.33.246:1234
+#EXTINF:-1,
+http://185.79.154.218:8085/udp/229.2.33.245:1234
+#EXTINF:-1,
+http://185.79.154.218:8085/udp/229.2.33.252:1234
+#EXTINF:-1,
+http://185.79.154.218:8085/udp/229.2.34.4:1234
+#EXTINF:-1,
+http://185.79.154.218:8085/udp/229.2.34.12:1234
+#EXTINF:-1,
+http://185.79.154.218:8085/udp/229.2.34.15:1234
+#EXTINF:-1,
+http://185.79.154.218:8085/udp/229.2.34.20:1234
+#EXTINF:-1,
+http://185.79.154.218:8085/udp/229.2.34.21:1234
+#EXTINF:-1,
+http://185.79.154.218:8085/udp/229.2.34.25:1234
+#EXTINF:-1,
+http://185.79.154.218:8085/udp/229.2.34.27:1234
+#EXTINF:-1,
+http://185.79.154.218:8085/udp/229.2.34.31:1234
+#EXTINF:-1,Sky Arts
+http://185.79.154.218:8085/udp/229.2.34.35:1234
+#EXTINF:-1,
+http://185.79.154.218:8085/udp/229.2.34.37:1234
+#EXTINF:-1,TLC
+http://185.79.154.218:8085/udp/229.2.34.34:1234
+#EXTINF:-1,
+http://185.79.154.218:8085/udp/229.2.34.41:1234
+#EXTINF:-1,
+http://185.79.154.218:8085/udp/229.2.34.46:1234
+#EXTINF:-1,
+http://185.79.154.218:8085/udp/229.2.34.52:1234
+#EXTINF:-1,
+http://185.79.154.218:8085/udp/229.2.34.50:1234
+#EXTINF:-1,Sky Comedy
+http://185.79.154.218:8085/udp/229.2.34.54:1234
+#EXTINF:-1,Sky Atlantic
+http://185.79.154.218:8085/udp/229.2.34.53:1234
+#EXTINF:-1,
+http://185.79.154.218:8085/udp/229.2.34.57:1234
+#EXTINF:-1,
+http://185.79.154.218:8085/udp/229.2.34.61:1234
+#EXTINF:-1,
+http://185.79.154.218:8085/udp/229.2.34.60:1234
+#EXTINF:-1,Nat Geo
+http://185.79.154.218:8085/udp/229.2.34.62:1234
+#EXTINF:-1,
+http://185.79.154.218:8085/udp/229.2.34.69:1234
+#EXTINF:-1,
+http://185.79.154.218:8085/udp/229.2.34.68:1234
+#EXTINF:-1,
+http://185.79.154.218:8085/udp/229.2.34.67:1234
+#EXTINF:-1,Sky Premiere
+http://185.79.154.218:8085/udp/229.2.34.70:1234
+#EXTINF:-1,SkySp News
+http://185.79.154.218:8085/udp/229.2.34.73:1234
+#EXTINF:-1,
+http://185.79.154.218:8085/udp/229.2.34.74:1234
+#EXTINF:-1,BFM TV HD
+http://185.79.154.218:8085/udp/229.2.34.91:1234
+#EXTINF:-1,Gulli HD
+http://185.79.154.218:8085/udp/229.2.34.102:1234
+#EXTINF:-1,NRJ12 HD
+http://185.79.154.218:8085/udp/229.2.34.103:1234
+#EXTINF:-1,W9 HD
+http://185.79.154.218:8085/udp/229.2.34.104:1234
+#EXTINF:-1,France 2 HD
+http://185.79.154.218:8085/udp/229.2.34.148:1234
+#EXTINF:-1,TF1 HD
+http://185.79.154.218:8085/udp/229.2.34.147:1234
+#EXTINF:-1,France 4 HD
+http://185.79.154.218:8085/udp/229.2.34.150:1234
+#EXTINF:-1,C8 HD
+http://185.79.154.218:8085/udp/229.2.34.153:1234
+#EXTINF:-1,CSTAR HD
+http://185.79.154.218:8085/udp/229.2.34.158:1234
+#EXTINF:-1,Arte HD
+http://185.79.154.218:8085/udp/229.2.34.154:1234
+#EXTINF:-1,L'Equipe HD
+http://185.79.154.218:8085/udp/229.2.34.159:1234
+#EXTINF:-1,TFX HD
+http://185.79.154.218:8085/udp/229.2.34.157:1234
+#EXTINF:-1,CNEWS HD
+http://185.79.154.218:8085/udp/229.2.34.155:1234
+#EXTINF:-1,M6 HD
+http://185.79.154.218:8085/udp/229.2.34.152:1234
+#EXTINF:-1,France 5 HD
+http://185.79.154.218:8085/udp/229.2.34.151:1234
+#EXTINF:-1,TMC HD
+http://185.79.154.218:8085/udp/229.2.34.156:1234
+#EXTINF:-1,France 3 HD
+http://185.79.154.218:8085/udp/229.2.34.149:1234
+#EXTINF:-1,RMC Dщcouverte HD
+http://185.79.154.218:8085/udp/229.2.34.161:1234
+#EXTINF:-1,LCP HD
+http://185.79.154.218:8085/udp/229.2.34.187:1234
+#EXTINF:-1,franceinfo: HD
+http://185.79.154.218:8085/udp/229.2.35.92:1234
+#EXTINF:-1,
+http://185.79.154.218:8085/udp/229.2.35.167:1234
+#EXTINF:-1,SkySp Action
+http://185.79.154.218:8085/udp/229.2.35.169:1234
+#EXTINF:-1,
+http://185.79.154.218:8085/udp/229.2.35.168:1234
+#EXTINF:-1,SkySp Golf
+http://185.79.154.218:8085/udp/229.2.35.170:1234
+#EXTINF:-1,
+http://185.79.154.218:8085/udp/229.2.35.171:1234
+#EXTINF:-1,Chщrie 25 HD
+http://185.79.154.218:8085/udp/229.2.35.183:1234
+#EXTINF:-1,6ter HD
+http://185.79.154.218:8085/udp/229.2.35.182:1234
+#EXTINF:-1,TF1 Sщries Films HD
+http://185.79.154.218:8085/udp/229.2.35.184:1234
+#EXTINF:-1,RMC STORY HD
+http://185.79.154.218:8085/udp/229.2.35.186:1234
+#EXTINF:-1,
+http://185.79.154.218:8085/udp/229.2.38.64:1234
+#EXTINF:-1,PBS America
+http://185.79.154.218:8085/udp/229.2.38.67:1234
+#EXTINF:-1,
+http://185.79.154.218:8085/udp/229.2.38.66:1234
+#EXTINF:-1,ITV4
+http://185.79.154.218:8085/udp/229.2.38.69:1234
+#EXTINF:-1,ITV3
+http://185.79.154.218:8085/udp/229.2.38.70:1234
+#EXTINF:-1,
+http://185.79.154.218:8085/udp/229.2.38.68:1234
+#EXTINF:-1,ITV2
+http://185.79.154.218:8085/udp/229.2.38.71:1234
+#EXTINF:-1,
+http://185.79.154.218:8085/udp/229.2.38.72:1234
+#EXTINF:-1,
+http://185.79.154.218:8085/udp/229.2.38.80:1234
+#EXTINF:-1,
+http://185.79.154.218:8085/udp/229.2.38.76:1234
+#EXTINF:-1,CITV
+http://185.79.154.218:8085/udp/229.2.38.75:1234
+#EXTINF:-1,
+http://185.79.154.218:8085/udp/229.2.38.74:1234
+#EXTINF:-1,
+http://185.79.154.218:8085/udp/229.2.38.77:1234
+#EXTINF:-1,
+http://185.79.154.218:8085/udp/229.2.38.78:1234
+#EXTINF:-1,
+http://185.79.154.218:8085/udp/229.2.38.81:1234
+#EXTINF:-1,
+http://185.79.154.218:8085/udp/229.2.38.83:1234
+#EXTINF:-1,
+http://185.79.154.218:8085/udp/229.2.38.82:1234
+#EXTINF:-1,
+http://185.79.154.218:8085/udp/229.2.38.84:1234
+#EXTINF:-1,4seven
+http://185.79.154.218:8085/udp/229.2.38.85:1234
+#EXTINF:-1,Channel 4 HD
+http://185.79.154.218:8085/udp/229.2.38.89:1234
+#EXTINF:-1,
+http://185.79.154.218:8085/udp/229.2.38.91:1234
+#EXTINF:-1, HD
+http://185.79.154.218:8085/udp/229.2.38.86:1234
+#EXTINF:-1,CBBC HD
+http://185.79.154.218:8085/udp/229.2.38.88:1234
+#EXTINF:-1, HD
+http://185.79.154.218:8085/udp/229.2.38.87:1234
+#EXTINF:-1,
+http://185.79.154.218:8085/udp/229.2.38.97:1234
+#EXTINF:-1,Trace Vault
+http://185.79.154.218:8085/udp/229.2.38.100:1234
+#EXTINF:-1,
+http://185.79.154.218:8085/udp/229.2.38.101:1234
+#EXTINF:-1,
+http://185.79.154.218:8085/udp/229.2.38.104:1234
+#EXTINF:-1,Pick
+http://185.79.154.218:8085/udp/229.2.38.111:1234
+#EXTINF:-1,ComedyXtra
+http://185.79.154.218:8085/udp/229.2.38.113:1234
+#EXTINF:-1,
+http://185.79.154.218:8085/udp/229.2.38.124:1234
+#EXTINF:-1,
+http://185.79.154.218:8085/udp/229.2.38.122:1234
+#EXTINF:-1,
+http://185.79.154.218:8085/udp/229.2.38.125:1234
+#EXTINF:-1,RTЩ News
+http://185.79.154.218:8085/udp/229.2.38.127:1234
+#EXTINF:-1,
+http://185.79.154.218:8085/udp/229.2.38.128:1234
+#EXTINF:-1,
+http://185.79.154.218:8085/udp/229.2.38.129:1234
+#EXTINF:-1,RTЩjr
+http://185.79.154.218:8085/udp/229.2.38.130:1234
+#EXTINF:-1,
+http://185.79.154.218:8085/udp/229.2.38.131:1234
+#EXTINF:-1,
+http://185.79.154.218:8085/udp/229.2.38.132:1234
+#EXTINF:-1,
+http://185.79.154.218:8085/udp/229.2.38.141:1234
+#EXTINF:-1,E4
+http://185.79.154.218:8085/udp/229.2.38.139:1234
+#EXTINF:-1,More4
+http://185.79.154.218:8085/udp/229.2.38.140:1234
+#EXTINF:-1,Film4
+http://185.79.154.218:8085/udp/229.2.38.142:1234
+#EXTINF:-1,
+http://185.79.154.218:8085/udp/229.2.38.145:1234
+#EXTINF:-1,Legend
+http://185.79.154.218:8085/udp/229.2.38.144:1234
+#EXTINF:-1,CBS Reality
+http://185.79.154.218:8085/udp/229.2.38.146:1234
+#EXTINF:-1,
+http://185.79.154.218:8085/udp/229.2.38.149:1234
+#EXTINF:-1,
+http://185.79.154.218:8085/udp/229.2.38.147:1234
+#EXTINF:-1,
+http://185.79.154.218:8085/udp/229.2.38.151:1234
+#EXTINF:-1,STV HD
+http://185.79.154.218:8085/udp/229.2.38.163:1234
+#EXTINF:-1, HD
+http://185.79.154.218:8085/udp/229.2.38.161:1234
+#EXTINF:-1, HD
+http://185.79.154.218:8085/udp/229.2.38.162:1234
+#EXTINF:-1, HD
+http://185.79.154.218:8085/udp/229.2.42.141:1234
+#EXTINF:-1, HD
+http://185.79.154.218:8085/udp/229.2.42.151:1234
+#EXTINF:-1,S4C HD
+http://185.79.154.218:8085/udp/229.2.42.148:1234
+#EXTINF:-1,ITV4 HD
+http://185.79.154.218:8085/udp/229.2.42.142:1234
+#EXTINF:-1,UTV HD
+http://185.79.154.218:8085/udp/229.2.42.140:1234
+#EXTINF:-1,BLAZE
+http://185.79.154.218:8085/udp/229.2.42.157:1234
+#EXTINF:-1,
+http://185.79.154.218:8085/udp/229.2.42.155:1234
+#EXTINF:-1, HD
+http://185.79.154.218:8085/udp/229.2.42.153:1234
+#EXTINF:-1,NOW 80s
+http://185.79.154.218:8085/udp/229.2.42.159:1234
+#EXTINF:-1,
+http://185.79.154.218:8085/udp/229.2.42.161:1234
+#EXTINF:-1,
+http://185.79.154.218:8085/udp/229.2.42.162:1234
+#EXTINF:-1,
+http://185.79.154.218:8085/udp/229.2.42.166:1234
+#EXTINF:-1,
+http://185.79.154.218:8085/udp/229.2.42.171:1234
+#EXTINF:-1,
+http://185.79.154.218:8085/udp/229.2.42.172:1234
+#EXTINF:-1,Boomerang
+http://185.79.154.218:8085/udp/229.2.42.175:1234
+#EXTINF:-1,Cartoon Netwrk
+http://185.79.154.218:8085/udp/229.2.42.176:1234
+#EXTINF:-1,
+http://185.79.154.218:8085/udp/229.2.42.181:1234
+#EXTINF:-1,
+http://185.79.154.218:8085/udp/229.2.42.187:1234
+#EXTINF:-1,Dave ja vu
+http://185.79.154.218:8085/udp/229.2.42.185:1234
+#EXTINF:-1,
+http://185.79.154.218:8085/udp/229.2.42.229:1234
+#EXTINF:-1,
+http://185.79.154.218:8085/udp/229.2.42.228:1234
+#EXTINF:-1,5ACTION
+http://185.79.154.218:8085/udp/229.2.48.107:1234
+#EXTINF:-1,
+http://185.79.154.218:8085/udp/229.2.48.109:1234
+#EXTINF:-1,
+http://185.79.154.218:8085/udp/229.2.48.111:1234
+#EXTINF:-1,QUEST HD
+http://185.79.154.218:8085/udp/229.2.48.118:1234
+#EXTINF:-1,
+http://185.79.154.218:8085/udp/229.2.48.110:1234
+#EXTINF:-1,
+http://185.79.154.218:8085/udp/229.2.48.114:1234
+#EXTINF:-1,
+http://185.79.154.218:8085/udp/229.2.48.112:1234
+#EXTINF:-1,
+http://185.79.154.218:8085/udp/229.2.48.115:1234
+#EXTINF:-1,
+http://185.79.154.218:8085/udp/229.158.2.20:1234
+#EXTINF:-1,GOLD
+http://185.79.154.218:8085/udp/229.158.2.27:1234
+#EXTINF:-1,HGTV
+http://185.79.154.218:8085/udp/229.158.2.31:1234
+#EXTINF:-1,TLC
+http://185.79.154.218:8085/udp/229.158.2.34:1234
+#EXTINF:-1,
+http://185.79.154.218:8085/udp/229.158.2.35:1234
+#EXTINF:-1,alibi
+http://185.79.154.218:8085/udp/229.158.2.52:1234
+#EXTINF:-1,Sky News
+http://185.79.154.218:8085/udp/229.158.2.68:1234
+#EXTINF:-1,
+http://185.79.154.218:8085/udp/229.158.3.167:1234
+#EXTINF:-1,ITV1 HD
+http://185.79.154.218:8085/udp/229.158.6.90:1234
+#EXTINF:-1,
+http://185.79.154.218:8085/udp/229.158.6.111:1234
+#EXTINF:-1,
+http://185.79.154.218:8085/udp/229.158.10.181:1234
+#EXTINF:-1,
+http://185.79.154.218:8085/udp/229.158.10.187:1234
+#EXTINF:-1,
+http://185.79.154.218:8085/udp/229.158.16.115:1234
+#EXTINF:-1,GB News HD
+http://185.79.154.218:8085/udp/229.2.53.250:1234
+#EXTINF:-1,Cartoonito
+http://185.79.154.218:8085/udp/229.2.58.217:1234
+#EXTINF:-1,
+http://185.79.154.218:8085/udp/229.2.58.222:1234
+#EXTINF:-1,
+http://185.79.154.218:8085/udp/229.2.59.33:1234
+#EXTINF:-1,SkySp Racing
+http://185.79.154.218:8085/udp/229.2.59.35:1234
+#EXTINF:-1,Sky Max
+http://185.79.154.218:8085/udp/229.2.59.34:1234
+#EXTINF:-1,
+http://185.79.154.218:8085/udp/229.2.59.91:1234
+#EXTINF:-1,Sky Witness
+http://185.79.154.218:8085/udp/229.2.59.92:1234
