@@ -1,0 +1,240 @@
+#EXTM3U x-tvg-url="https://www.bevy.be/bevyfiles/unitedkingdom.xml"
+#EXTINF:0 type="stream" channel id="BBC One", BBC One HD
+http://92.114.85.77:8000/play/a08h
+#EXTINF:0 type="stream" channel id="BBC Two", BBC Two HD
+http://92.114.85.77:8000/play/a08r
+#EXTINF:0 type="stream" channel id="ITV1", ITV HD
+http://92.114.85.77:8000/play/a0a8
+#EXTINF:0 type="stream" channel id="Channel 4", Channel 4 HD
+http://92.114.85.80:8000/play/a019
+#EXTINF:0 type="stream" channel id="Channel 5", Channel 5 HD
+http://92.114.85.80:8000/play/a01n
+#EXTINF:0 type="stream" channel id="Sky Showcase", Sky Showcase HD
+http://ultraflix.uk:8080/gaylaw3/h3t0NAAB1E/102070
+#EXTINF:0 type="stream" channel id="Sky Witness", Sky Witness HD
+http://ultraflix.uk:8080/gaylaw3/h3t0NAAB1E/2116
+#EXTINF:0 type="stream" channel id="Sky Atlantic", Sky Atlantic HD
+http://ultraflix.uk:8080/gaylaw3/h3t0NAAB1E/2127
+#EXTINF:0 type="stream" channel id="alibi", Alibi HD
+http://ultraflix.uk:8080/gaylaw3/h3t0NAAB1E/3848
+#EXTINF:0 type="stream" channel id="GOLD", Gold HD
+http://ultraflix.uk:8080/gaylaw3/h3t0NAAB1E/3450
+#EXTINF:0 type="stream" channel id="Dave.uk", Dave HD*
+http://92.114.85.77:8000/play/a0az
+#EXTINF:0 type="stream" channel id="ComedyCentral", Comedy Central HD
+http://ultraflix.uk:8080/gaylaw3/h3t0NAAB1E/6745
+#EXTINF:0 type="stream" channel id="Sky Max", Sky Max HD
+http://ultraflix.uk:8080/gaylaw3/h3t0NAAB1E/2115
+#EXTINF:0 type="stream" channel id="Sky Comedy", Sky Comedy HD
+http://ultraflix.uk:8080/gaylaw3/h3t0NAAB1E/4112
+#EXTINF:0 type="stream" channel id="BBC Three", BBC Three HD
+http://92.114.85.77:8000/play/a05p
+#EXTINF:0 type="stream" channel id="BBC Four", BBC Four HD
+http://92.114.85.77:8000/play/a068
+#EXTINF:0 type="stream" channel id="London Live", London Live
+http://line.rs6ott.com:80/b0a02ce89dc6/72e679049c3b/111563
+#EXTINF:0 type="stream" channel id="ITV2", ITV2 HD
+http://92.114.85.77:8000/play/a041
+#EXTINF:0 type="stream" channel id="ITV3", ITV3 HD
+http://92.114.85.77:8000/play/a04z
+#EXTINF:0 type="stream" channel id="ITV4", ITV4 HD
+http://92.114.85.77:8000/play/a05z
+#EXTINF:0 type="stream" channel id="SkyDocumntrs", Sky Documentaries HD
+http://ultraflix.uk:8080/gaylaw3/h3t0NAAB1E/102918
+#EXTINF:0 type="stream" channel id="Sky Crime", Sky Crime HD
+http://ultraflix.uk:8080/gaylaw3/h3t0NAAB1E/8092
+#EXTINF:0 type="stream" channel id="Sky History", Sky History HD
+http://ultraflix.uk:8080/gaylaw3/h3t0NAAB1E/102920
+#EXTINF:0 type="stream" channel id="Sky Nature", Sky Nature HD
+http://ultraflix.uk:8080/gaylaw3/h3t0NAAB1E/102926
+#EXTINF:0 type="stream" channel id="Discovery", Discovery HD
+http://ultraflix.uk:8080/gaylaw3/h3t0NAAB1E/102897
+#EXTINF:0 type="stream" channel id="ComedyXtra", Comedy Central Extra
+http://ultraflix.uk:8080/gaylaw3/h3t0NAAB1E/6746
+#EXTINF:0 type="stream" channel id="5STAR", 5Star
+http://92.114.85.80:8000/play/a01j
+#EXTINF:0 type="stream" channel id="Nat Geo", National Geographic HD
+http://ultraflix.uk:8080/gaylaw3/h3t0NAAB1E/102912
+#EXTINF:0 type="stream" channel id="Sky Arts", Sky Arts HD
+http://ultraflix.uk:8080/gaylaw3/h3t0NAAB1E/3846
+#EXTINF:0 type="stream" channel id="ITVBe", ITVBe
+http://92.114.85.77:8000/play/a09h
+#EXTINF:0 type="stream" channel id="W", W HD*
+http://92.114.85.77:8000/play/a07f
+#EXTINF:0 type="stream" channel id="E4", E4 HD*
+http://92.114.85.77:8000/play/a081
+#EXTINF:0 type="stream" channel id="More4", More4 HD*
+http://92.114.85.77:8000/play/a09v
+#EXTINF:0 type="stream" channel id="4seven", 4seven
+http://92.114.85.80:8000/play/a01a
+#EXTINF:0 type="stream" channel id="E4 Extra", E4 Extra
+http://94.229.68.210:8062/play/a03z/index.m3u8
+#EXTINF:0 type="stream" channel id="Sky Sci-Fi", Sky Sci-Fi HD
+http://ultraflix.uk:8080/gaylaw3/h3t0NAAB1E/2143
+#EXTINF:0 type="stream" channel id="Food Network", Food Network
+http://92.114.85.79:8000/play/a0ci
+#EXTINF:0 type="stream" channel id="5 USA", 5USA
+http://92.114.85.80:8000/play/a01h
+#EXTINF:0 type="stream" channel id="Really", Really
+http://92.114.85.80:8000/play/a04x
+#EXTINF:0 type="stream" channel id="Drama", Drama
+http://92.114.85.77:8000/play/a0ay
+#EXTINF:0 type="stream" channel id="QUEST", Quest
+http://92.114.85.79:8000/play/a0cm
+#EXTINF:0 type="stream" channel id="Challenge", Challenge
+http://92.114.85.80:8000/play/a03s
+#EXTINF:0 type="stream" channel id="CBS Reality", CBS Reality
+http://92.114.85.79:8000/play/a09q
+#EXTINF:0 type="stream" channel id="RealityXtra", RealityXtra
+http://92.114.85.79:8000/play/a09l
+#EXTINF:0 type="stream" channel id="Legend", Legend
+http://92.114.85.79:8000/play/a09m
+#EXTINF:0 type="stream" channel id="Quest Red", Quest Red
+http://92.114.85.79:8000/play/a0cn
+#EXTINF:0 type="stream" channel id="5ACTION", 5Action
+http://92.114.85.80:8000/play/a01o
+#EXTINF:0 type="stream" channel id="Pick", Sky Mix HD
+http://94.229.68.210:8062/play/a04c/index.m3u8
+#EXTINF:0 type="stream" channel id="Sky Replay", Sky Replay
+http://line.rs6ott.com:80/b0a02ce89dc6/72e679049c3b/894388
+#EXTINF:0 type="stream" channel id="5SELECT", 5Select
+http://92.114.85.80:8000/play/a01k
+#EXTINF:0 type="stream" channel id="ID", Investigation Discovery
+http://ultraflix.uk:8080/gaylaw3/h3t0NAAB1E/102910
+#EXTINF:0 type="stream" channel id="YESTERDAY", Yesterday
+http://92.114.85.77:8000/play/a07d
+#EXTINF:0 type="stream" channel id="Crime+Inv", Crime & Investigation HD
+http://ultraflix.uk:8080/gaylaw3/h3t0NAAB1E/102894
+#EXTINF:0 type="stream" channel id="GREAT! tv", Great! TV
+http://92.114.85.79:8000/play/a08z
+#EXTINF:0 type="stream" channel id="HGTV", HGTV
+http://92.114.85.80:8000/play/a01s
+#EXTINF:0 type="stream" channel id="Disc.Turbo", Discovery Turbo
+http://ultraflix.uk:8080/gaylaw3/h3t0NAAB1E/102904
+#EXTINF:0 type="stream" channel id="Animal Planet", Animal Planet
+http://ultraflix.uk:8080/gaylaw3/h3t0NAAB1E/102892
+#EXTINF:0 type="stream" channel id="Sky History2", Sky History 2 HD
+http://ultraflix.uk:8080/gaylaw3/h3t0NAAB1E/102923
+#EXTINF:0 type="stream" channel id="BLAZE", Blaze
+http://92.114.85.77:8000/play/a0ak
+#EXTINF:0 type="stream" channel id="Nat Geo Wild", Nat Geo Wild HD
+http://ultraflix.uk:8080/gaylaw3/h3t0NAAB1E/102915
+#EXTINF:0 type="stream" channel id="Eden", Eden
+http://ultraflix.uk:8080/gaylaw3/h3t0NAAB1E/102906
+#EXTINF:0 type="stream" channel id="Disc.Science", Discovery Science
+http://ultraflix.uk:8080/gaylaw3/h3t0NAAB1E/102902
+#EXTINF:0 type="stream" channel id="Together", Together
+http://92.114.85.80:8000/play/a03r
+#EXTINF:0 type="stream" channel id="That's TV", That's TV
+http://92.114.85.79:8000/play/a0bu
+#EXTINF:0 type="stream" channel id="DMAX", DMAX
+#EXTINF:0 type="stream" channel id="DMAX", DMAX
+http://92.114.85.77:8000/play/a0a1
+#EXTINF:0 type="stream" channel id="PBS America", PBS America
+http://92.114.85.79:8000/play/a09o
+#EXTINF:0 type="stream" channel id="Disc.History", Discovery History
+http://line.rs6ott.com:80/b0a02ce89dc6/72e679049c3b/549400
+#EXTINF:0 type="stream" channel id="EarthxTV HD", Earthx TV HD
+http://92.114.85.80:8000/play/a03h
+#EXTINF:0 type="stream" channel id="Travelxp", Travel XP
+http://92.114.85.79:8000/play/a0ba
+#EXTINF:0 type="stream" channel id="BBC Scotland", BBC Scotland HD
+http://92.114.85.77:8000/play/a06i
+#EXTINF:0 type="stream" channel id="Dave ja vu", Dave ja vu
+http://92.114.85.77:8000/play/a0b1
+#EXTINF:0 type="stream" channel id="Sky Premiere", Sky Cinema Premiere HD
+http://ultraflix.uk:8080/gaylaw3/h3t0NAAB1E/243286
+#EXTINF:0 type="stream" channel id="WizardingWldHD", Sky Cinema Select HD
+http://ultraflix.uk:8080/gaylaw3/h3t0NAAB1E/243295
+#EXTINF:0 type="stream" channel id="BankHolidayHD", Sky Cinema Hits HD
+http://ultraflix.uk:8080/gaylaw3/h3t0NAAB1E/243293
+#EXTINF:0 type="stream" channel id="Sky Greats", Sky Cinema Greats HD
+http://ultraflix.uk:8080/gaylaw3/h3t0NAAB1E/243292
+#EXTINF:0 type="stream" channel id="SkyAnimationHD", Sky Cinema Animation HD
+http://ultraflix.uk:8080/gaylaw3/h3t0NAAB1E/243288
+#EXTINF:0 type="stream" channel id="Sky Adventure", Sky Cinema Family HD
+http://ultraflix.uk:8080/gaylaw3/h3t0NAAB1E/243291
+#EXTINF:0 type="stream" channel id="Sky Action", Sky Cinema Action HD
+http://ultraflix.uk:8080/gaylaw3/h3t0NAAB1E/243287
+#EXTINF:0 type="stream" channel id="2266" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Sky%20Cinema%20Comedy%20HD.svg?raw=true", Sky Cinema Comedy HD
+http://ultraflix.uk:8080/gaylaw3/h3t0NAAB1E/243289
+#EXTINF:0 type="stream" channel id="Sky Thriller HD", Sky Cinema Thriller HD
+http://ultraflix.uk:8080/gaylaw3/h3t0NAAB1E/243296
+#EXTINF:0 type="stream" channel id="Sky Drama HD", Sky Cinema Drama HD
+http://ultraflix.uk:8080/gaylaw3/h3t0NAAB1E/243290
+#EXTINF:0 type="stream" channel id="Sky ScFi/HorHD", Sky Cinema Sci Fi & Horror HD
+http://ultraflix.uk:8080/gaylaw3/h3t0NAAB1E/243294
+#EXTINF:0 type="stream" channel id="Film4", Film4 HD*
+http://92.114.85.77:8000/play/a07y
+#EXTINF:0 type="stream" channel id="HorrorXtra", HorrorXtra
+http://92.114.85.79:8000/play/a09j
+#EXTINF:0 type="stream" channel id="GREAT! romance", Great! Romance
+http://92.114.85.79:8000/play/a08p
+#EXTINF:0 type="stream" channel id="GREAT! movies", Great! Movies
+http://92.114.85.79:8000/play/a08o
+#EXTINF:0 type="stream" channel id="GREAT! action", Great! Movies Action
+http://92.114.85.79:8000/play/a08n
+#EXTINF:0 type="stream" channel id="Movies24", Movies 24
+http://ultraflix.uk:8080/gaylaw3/h3t0NAAB1E/243319
+#EXTINF:0 type="stream" channel id="Movies24+", Movies 24+
+http://ultraflix.uk:8080/gaylaw3/h3t0NAAB1E/243320
+#EXTINF:0 type="stream" channel id="TalkingPictures", Talking Pictures TV
+http://92.114.85.79:8000/play/a0bt
+#EXTINF:0 type="stream" channel id="MTV MUSIC", MTV Music
+http://ultraflix.uk:8080/gaylaw3/h3t0NAAB1E/102522
+#EXTINF:0 type="stream" channel id="MTV HITS", MTV Hits
+http://ultraflix.uk:8080/gaylaw3/h3t0NAAB1E/102521
+#EXTINF:0 type="stream" channel id="MTV 90s", MTV 90s
+http://iptvch.com:2082/hW0kf53M80Qv5/mih9Wxnk53CndCdj6/241988
+#EXTINF:0 type="stream" channel id="MTV 80s", MTV 80s
+http://ultraflix.uk:8080/gaylaw3/h3t0NAAB1E/102520
+#EXTINF:0 type="stream" channel id="4Music", 4Music
+http://92.114.85.79:8000/play/a08a
+#EXTINF:0 type="stream" channel id="The Box", The Box
+http://92.114.85.79:8000/play/a089
+#EXTINF:0 type="stream" channel id="KISS", Kiss
+http://92.114.85.79:8000/play/a08b
+#EXTINF:0 type="stream" channel id="Magic", Magic
+http://92.114.85.79:8000/play/a088
+#EXTINF:0 type="stream" channel id="Kerrang!", Kerrang!
+http://92.114.85.79:8000/play/a08c
+#EXTINF:0 type="stream" channel id="Trace Vault", Trace Vault
+http://92.114.85.79:8000/play/a09n
+#EXTINF:0 type="stream" channel id="NOW 70s", NOW 70s
+http://92.114.85.79:8000/play/a0bo
+#EXTINF:0 type="stream" channel id="NOW 80s", NOW 80s
+http://92.114.85.77:8000/play/a0ae
+#EXTINF:0 type="stream" channel id="NOW ROCK", NOW Rock
+http://92.114.85.79:8000/play/a0cy
+#EXTINF:0 type="stream" channel id="Clubland TV", Clubland TV
+http://92.114.85.79:8000/play/a0cx
+#EXTINF:0 type="stream" channel id="That's 60s", That's 60s
+http://92.114.85.79:8000/play/a0bq
+#EXTINF:0 type="stream" channel id="That's 70s", That's 70s
+http://92.114.85.79:8000/play/a0de
+#EXTINF:0 type="stream" channel id="That's 80s", That's 80s
+http://92.114.85.79:8000/play/a09z
+#EXTINF:0 type="stream" channel id="That's 90s" logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/Thats%2090s.png", That's 90s
+http://92.114.85.79:8000/play/a0dq
+#EXTINF:0 type="stream" channel id="SkySp F1", Sky Sports F1 HD
+http://ultraflix.uk:8080/gaylaw3/h3t0NAAB1E/1872
+#EXTINF:0 type="stream" channel id="SkySp News", Sky Sports News HD
+http://ultraflix.uk:8080/gaylaw3/h3t0NAAB1E/1882
+#EXTINF:0 type="stream" channel id="Eurosport 1", Eurosport 1 HD
+http://ultraflix.uk:8080/gaylaw3/h3t0NAAB1E/1991
+#EXTINF:0 type="stream" channel id="Eurosport 2", Eurosport 2 HD
+http://ultraflix.uk:8080/gaylaw3/h3t0NAAB1E/1989
+#EXTINF:0 type="stream" channel id="TNT Sports 1", TNT Sports 1 HD
+http://ultraflix.uk:8080/gaylaw3/h3t0NAAB1E/116619
+#EXTINF:0 type="stream" channel id="TNT Sports 2", TNT Sports 2 HD
+http://ultraflix.uk:8080/gaylaw3/h3t0NAAB1E/116620
+#EXTINF:0 type="stream" channel id="Sky News", Sky News HD
+http://92.114.85.80:8000/play/a03q
+#EXTINF:0 type="stream" channel id="BBC NEWS", BBC News HD
+http://92.114.85.77:8000/play/a03f
+#EXTINF:0 type="stream" channelId="CNN HD", CNN HD
+http://92.114.85.80:8000/play/a03i
+#EXTINF:0 type="stream" channel id="Euronews", Euronews
+http://92.114.85.79:8000/play/a0ah
+#EXTINF:0 type="stream" channel id="4449" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/BBC%20Red%20Button.svg?raw=true", BBC Red Button
+http://92.114.85.77:8000/play/a06g
