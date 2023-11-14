@@ -1,240 +1,239 @@
 #EXTM3U x-tvg-url="https://www.bevy.be/bevyfiles/unitedkingdom.xml"
-#EXTINF:0 type="stream" channel id="BBC One", BBC One HD
+#EXTINF:0 type="stream" channel id="BBC One" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/BBC%20One%20HD.svg?raw=true", BBC One HD
 http://92.114.85.77:8000/play/a08h
-#EXTINF:0 type="stream" channel id="BBC Two", BBC Two HD
+#EXTINF:0 type="stream" channel id="BBC Two" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/BBC%20Two%20HD.svg?raw=true", BBC Two HD
 http://92.114.85.77:8000/play/a08r
-#EXTINF:0 type="stream" channel id="ITV1", ITV HD
+#EXTINF:0 type="stream" channel id="ITV1" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/ITV1%20HD.svg?raw=true", ITV HD
 http://92.114.85.77:8000/play/a0a8
-#EXTINF:0 type="stream" channel id="Channel 4", Channel 4 HD
+#EXTINF:0 type="stream" channel id="Channel 4" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Channel%204%20HD.svg?raw=true", Channel 4 HD
 http://92.114.85.80:8000/play/a019
-#EXTINF:0 type="stream" channel id="Channel 5", Channel 5 HD
+#EXTINF:0 type="stream" channel id="Channel 5" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Channel%205%20HD.svg?raw=true", Channel 5 HD
 http://92.114.85.80:8000/play/a01n
-#EXTINF:0 type="stream" channel id="Sky Showcase", Sky Showcase HD
+#EXTINF:0 type="stream" channel id="Sky Showcase" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Sky%20Showcase%20HD.svg?raw=true", Sky Showcase HD
 http://ultraflix.uk:8080/gaylaw3/h3t0NAAB1E/102070
-#EXTINF:0 type="stream" channel id="Sky Witness", Sky Witness HD
+#EXTINF:0 type="stream" channel id="Sky Witness" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Sky%20Witness%20HD.svg?raw=true", Sky Witness HD
 http://ultraflix.uk:8080/gaylaw3/h3t0NAAB1E/2116
-#EXTINF:0 type="stream" channel id="Sky Atlantic", Sky Atlantic HD
+#EXTINF:0 type="stream" channel id="Sky Atlantic" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Sky%20Atlantic%20HD.svg?raw=true", Sky Atlantic HD
 http://ultraflix.uk:8080/gaylaw3/h3t0NAAB1E/2127
-#EXTINF:0 type="stream" channel id="alibi", Alibi HD
+#EXTINF:0 type="stream" channel id="alibi" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Alibi%20HD.png?raw=true", Alibi HD
 http://ultraflix.uk:8080/gaylaw3/h3t0NAAB1E/3848
-#EXTINF:0 type="stream" channel id="GOLD", Gold HD
+#EXTINF:0 type="stream" channel id="GOLD" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Gold%20HD.svg?raw=true", Gold HD
 http://ultraflix.uk:8080/gaylaw3/h3t0NAAB1E/3450
-#EXTINF:0 type="stream" channel id="Dave.uk", Dave HD*
+#EXTINF:0 type="stream" channel id="Dave" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Dave%20HD.svg?raw=true", Dave HD*
 http://92.114.85.77:8000/play/a0az
-#EXTINF:0 type="stream" channel id="ComedyCentral", Comedy Central HD
+#EXTINF:0 type="stream" channel id="ComedyCentral" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Comedy%20Central%20HD.svg?raw=true", Comedy Central HD
 http://ultraflix.uk:8080/gaylaw3/h3t0NAAB1E/6745
-#EXTINF:0 type="stream" channel id="Sky Max", Sky Max HD
+#EXTINF:0 type="stream" channel id="Sky Max" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Sky%20Max%20HD.svg?raw=true", Sky Max HD
 http://ultraflix.uk:8080/gaylaw3/h3t0NAAB1E/2115
-#EXTINF:0 type="stream" channel id="Sky Comedy", Sky Comedy HD
+#EXTINF:0 type="stream" channel id="Sky Comedy" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Sky%20Comedy%20HD.svg?raw=true", Sky Comedy HD
 http://ultraflix.uk:8080/gaylaw3/h3t0NAAB1E/4112
-#EXTINF:0 type="stream" channel id="BBC Three", BBC Three HD
+#EXTINF:0 type="stream" channel id="BBC Three" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/BBC%20Three%20HD.svg?raw=true", BBC Three HD
 http://92.114.85.77:8000/play/a05p
-#EXTINF:0 type="stream" channel id="BBC Four", BBC Four HD
+#EXTINF:0 type="stream" channel id="BBC Four" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/BBC%20Four%20HD.svg?raw=true", BBC Four HD
 http://92.114.85.77:8000/play/a068
-#EXTINF:0 type="stream" channel id="London Live", London Live
+#EXTINF:0 type="stream" channel id="London Live" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/London%20Live.svg?raw=true", London Live
 http://line.rs6ott.com:80/b0a02ce89dc6/72e679049c3b/111563
-#EXTINF:0 type="stream" channel id="ITV2", ITV2 HD
+#EXTINF:0 type="stream" channel id="ITV2" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/ITV2%20HD.svg?raw=true", ITV2 HD
 http://92.114.85.77:8000/play/a041
-#EXTINF:0 type="stream" channel id="ITV3", ITV3 HD
+#EXTINF:0 type="stream" channel id="ITV3" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/ITV3%20HD.svg?raw=true", ITV3 HD
 http://92.114.85.77:8000/play/a04z
-#EXTINF:0 type="stream" channel id="ITV4", ITV4 HD
+#EXTINF:0 type="stream" channel id="ITV4" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/ITV4%20HD.svg?raw=true", ITV4 HD
 http://92.114.85.77:8000/play/a05z
-#EXTINF:0 type="stream" channel id="SkyDocumntrs", Sky Documentaries HD
+#EXTINF:0 type="stream" channel id="SkyDocumntrs" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Sky%20Documentaries%20HD.svg?raw=true", Sky Documentaries HD
 http://ultraflix.uk:8080/gaylaw3/h3t0NAAB1E/102918
-#EXTINF:0 type="stream" channel id="Sky Crime", Sky Crime HD
+#EXTINF:0 type="stream" channel id="Sky Crime" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Sky%20Crime%20HD.svg?raw=true", Sky Crime HD
 http://ultraflix.uk:8080/gaylaw3/h3t0NAAB1E/8092
-#EXTINF:0 type="stream" channel id="Sky History", Sky History HD
+#EXTINF:0 type="stream" channel id="Sky History" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Sky%20History%20HD.svg?raw=true", Sky History HD
 http://ultraflix.uk:8080/gaylaw3/h3t0NAAB1E/102920
-#EXTINF:0 type="stream" channel id="Sky Nature", Sky Nature HD
+#EXTINF:0 type="stream" channel id="Sky Nature" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Sky%20Nature%20HD.svg?raw=true", Sky Nature HD
 http://ultraflix.uk:8080/gaylaw3/h3t0NAAB1E/102926
-#EXTINF:0 type="stream" channel id="Discovery", Discovery HD
+#EXTINF:0 type="stream" channel id="Discovery" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Discovery%20HD.svg?raw=true", Discovery HD
 http://ultraflix.uk:8080/gaylaw3/h3t0NAAB1E/102897
-#EXTINF:0 type="stream" channel id="ComedyXtra", Comedy Central Extra
+#EXTINF:0 type="stream" channel id="ComedyXtra" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Comedy%20Central%20Extra.svg?raw=true", Comedy Central Extra
 http://ultraflix.uk:8080/gaylaw3/h3t0NAAB1E/6746
-#EXTINF:0 type="stream" channel id="5STAR", 5Star
+#EXTINF:0 type="stream" channel id="5STAR" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/5Star.svg?raw=true", 5Star
 http://92.114.85.80:8000/play/a01j
-#EXTINF:0 type="stream" channel id="Nat Geo", National Geographic HD
+#EXTINF:0 type="stream" channel id="Nat Geo" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/National%20Geographic%20HD.svg?raw=true", National Geographic HD
 http://ultraflix.uk:8080/gaylaw3/h3t0NAAB1E/102912
-#EXTINF:0 type="stream" channel id="Sky Arts", Sky Arts HD
+#EXTINF:0 type="stream" channel id="Sky Arts" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Sky%20Arts%20HD.png?raw=true", Sky Arts HD
 http://ultraflix.uk:8080/gaylaw3/h3t0NAAB1E/3846
-#EXTINF:0 type="stream" channel id="ITVBe", ITVBe
+#EXTINF:0 type="stream" channel id="ITVBe" logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/ITVBe.svg?raw=true", ITVBe
 http://92.114.85.77:8000/play/a09h
-#EXTINF:0 type="stream" channel id="W", W HD*
+#EXTINF:0 type="stream" channel id="W" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/W%20HD.svg?raw=true", W HD*
 http://92.114.85.77:8000/play/a07f
-#EXTINF:0 type="stream" channel id="E4", E4 HD*
+#EXTINF:0 type="stream" channel id="E4" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/E4%20HD.svg?raw=true", E4 HD*
 http://92.114.85.77:8000/play/a081
-#EXTINF:0 type="stream" channel id="More4", More4 HD*
+#EXTINF:0 type="stream" channel id="More4" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/More4%20HD.svg?raw=true", More4 HD*
 http://92.114.85.77:8000/play/a09v
-#EXTINF:0 type="stream" channel id="4seven", 4seven
+#EXTINF:0 type="stream" channel id="4seven" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/4seven.svg?raw=true", 4seven
 http://92.114.85.80:8000/play/a01a
-#EXTINF:0 type="stream" channel id="E4 Extra", E4 Extra
+#EXTINF:0 type="stream" channel id="E4 Extra" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/E4%20Extra.svg?raw=true", E4 Extra
 http://94.229.68.210:8062/play/a03z/index.m3u8
-#EXTINF:0 type="stream" channel id="Sky Sci-Fi", Sky Sci-Fi HD
+#EXTINF:0 type="stream" channel id="Sky Sci-Fi" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Sky%20Sci-Fi%20HD.svg?raw=true", Sky Sci-Fi HD
 http://ultraflix.uk:8080/gaylaw3/h3t0NAAB1E/2143
-#EXTINF:0 type="stream" channel id="Food Network", Food Network
+#EXTINF:0 type="stream" channel id="Food Network" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Food%20Network.svg?raw=true", Food Network
 http://92.114.85.79:8000/play/a0ci
-#EXTINF:0 type="stream" channel id="5 USA", 5USA
+#EXTINF:0 type="stream" channel id="5 USA" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/5USA.svg?raw=true", 5USA
 http://92.114.85.80:8000/play/a01h
-#EXTINF:0 type="stream" channel id="Really", Really
+#EXTINF:0 type="stream" channel id="Really" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Really.svg?raw=true", Really
 http://92.114.85.80:8000/play/a04x
-#EXTINF:0 type="stream" channel id="Drama", Drama
+#EXTINF:0 type="stream" channel id="Drama" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Drama.svg?raw=true", Drama
 http://92.114.85.77:8000/play/a0ay
-#EXTINF:0 type="stream" channel id="QUEST", Quest
+#EXTINF:0 type="stream" channel id="QUEST" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Quest%20HD.svg?raw=true", Quest
 http://92.114.85.79:8000/play/a0cm
-#EXTINF:0 type="stream" channel id="Challenge", Challenge
+#EXTINF:0 type="stream" channel id="Challenge" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Challenge.svg?raw=true", Challenge
 http://92.114.85.80:8000/play/a03s
-#EXTINF:0 type="stream" channel id="CBS Reality", CBS Reality
+#EXTINF:0 type="stream" channel id="CBS Reality" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/CBS%20Reality.svg?raw=true", CBS Reality
 http://92.114.85.79:8000/play/a09q
-#EXTINF:0 type="stream" channel id="RealityXtra", RealityXtra
+#EXTINF:0 type="stream" channel id="RealityXtra" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/RealityXtra.svg?raw=true", RealityXtra
 http://92.114.85.79:8000/play/a09l
-#EXTINF:0 type="stream" channel id="Legend", Legend
+#EXTINF:0 type="stream" channel id="Legend" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Legend.svg?raw=true", Legend
 http://92.114.85.79:8000/play/a09m
-#EXTINF:0 type="stream" channel id="Quest Red", Quest Red
+#EXTINF:0 type="stream" channel id="Quest Red" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Quest%20Red.svg?raw=true", Quest Red
 http://92.114.85.79:8000/play/a0cn
-#EXTINF:0 type="stream" channel id="5ACTION", 5Action
+#EXTINF:0 type="stream" channel id="5ACTION" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/5Action.svg?raw=true", 5Action
 http://92.114.85.80:8000/play/a01o
-#EXTINF:0 type="stream" channel id="Pick", Sky Mix HD
+#EXTINF:0 type="stream" channel id="Pick" logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/80/skychb1832.png", Sky Mix HD
 http://94.229.68.210:8062/play/a04c/index.m3u8
-#EXTINF:0 type="stream" channel id="Sky Replay", Sky Replay
+#EXTINF:0 type="stream" channel id="Sky Replay" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Sky%20Replay.svg?raw=true", Sky Replay
 http://line.rs6ott.com:80/b0a02ce89dc6/72e679049c3b/894388
-#EXTINF:0 type="stream" channel id="5SELECT", 5Select
+#EXTINF:0 type="stream" channel id="5SELECT" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/5Select.svg?raw=true", 5Select
 http://92.114.85.80:8000/play/a01k
-#EXTINF:0 type="stream" channel id="ID", Investigation Discovery
+#EXTINF:0 type="stream" channel id="ID" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/ID.svg?raw=true", Investigation Discovery
 http://ultraflix.uk:8080/gaylaw3/h3t0NAAB1E/102910
-#EXTINF:0 type="stream" channel id="YESTERDAY", Yesterday
+#EXTINF:0 type="stream" channel id="YESTERDAY" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Yesterday.svg?raw=true", Yesterday
 http://92.114.85.77:8000/play/a07d
-#EXTINF:0 type="stream" channel id="Crime+Inv", Crime & Investigation HD
+#EXTINF:0 type="stream" channel id="Crime+Inv" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Crime%20and%20Investigation%20HD.svg?raw=true", Crime & Investigation HD
 http://ultraflix.uk:8080/gaylaw3/h3t0NAAB1E/102894
-#EXTINF:0 type="stream" channel id="GREAT! tv", Great! TV
+#EXTINF:0 type="stream" channel id="GREAT! tv" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Great%20TV.svg?raw=true", Great! TV
 http://92.114.85.79:8000/play/a08z
-#EXTINF:0 type="stream" channel id="HGTV", HGTV
+#EXTINF:0 type="stream" channel id="HGTV" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/HGTV.svg?raw=true", HGTV
 http://92.114.85.80:8000/play/a01s
-#EXTINF:0 type="stream" channel id="Disc.Turbo", Discovery Turbo
+#EXTINF:0 type="stream" channel id="Disc.Turbo" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Discovery%20Turbo.svg?raw=true", Discovery Turbo
 http://ultraflix.uk:8080/gaylaw3/h3t0NAAB1E/102904
-#EXTINF:0 type="stream" channel id="Animal Planet", Animal Planet
+#EXTINF:0 type="stream" channel id="Animal Planet" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Animal%20Planet.svg?raw=true", Animal Planet
 http://ultraflix.uk:8080/gaylaw3/h3t0NAAB1E/102892
-#EXTINF:0 type="stream" channel id="Sky History2", Sky History 2 HD
+#EXTINF:0 type="stream" channel id="Sky History2" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Sky%20History2%20HD.svg?raw=true", Sky History 2 HD
 http://ultraflix.uk:8080/gaylaw3/h3t0NAAB1E/102923
-#EXTINF:0 type="stream" channel id="BLAZE", Blaze
+#EXTINF:0 type="stream" channel id="BLAZE" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Blaze.svg?raw=true", Blaze
 http://92.114.85.77:8000/play/a0ak
-#EXTINF:0 type="stream" channel id="Nat Geo Wild", Nat Geo Wild HD
+#EXTINF:0 type="stream" channel id="Nat Geo Wild" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/National%20Geographic%20Wild%20HD.svg?raw=true", Nat Geo Wild HD
 http://ultraflix.uk:8080/gaylaw3/h3t0NAAB1E/102915
-#EXTINF:0 type="stream" channel id="Eden", Eden
+#EXTINF:0 type="stream" channel id="Eden" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Eden.png?raw=true", Eden
 http://ultraflix.uk:8080/gaylaw3/h3t0NAAB1E/102906
-#EXTINF:0 type="stream" channel id="Disc.Science", Discovery Science
+#EXTINF:0 type="stream" channel id="Disc.Science" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Discovery%20Science.svg?raw=true", Discovery Science
 http://ultraflix.uk:8080/gaylaw3/h3t0NAAB1E/102902
-#EXTINF:0 type="stream" channel id="Together", Together
+#EXTINF:0 type="stream" channel id="Together" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Together%20TV.svg?raw=true", Together
 http://92.114.85.80:8000/play/a03r
-#EXTINF:0 type="stream" channel id="That's TV", That's TV
+#EXTINF:0 type="stream" channel id="That's TV" logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/80/skychb1017.png", That's TV
 http://92.114.85.79:8000/play/a0bu
-#EXTINF:0 type="stream" channel id="DMAX", DMAX
-#EXTINF:0 type="stream" channel id="DMAX", DMAX
+#EXTINF:0 type="stream" channel id="DMAX" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/DMAX.svg?raw=true", DMAX
 http://92.114.85.77:8000/play/a0a1
-#EXTINF:0 type="stream" channel id="PBS America", PBS America
+#EXTINF:0 type="stream" channel id="PBS America" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/PBS%20America.svg?raw=true", PBS America
 http://92.114.85.79:8000/play/a09o
-#EXTINF:0 type="stream" channel id="Disc.History", Discovery History
+#EXTINF:0 type="stream" channel id="Disc.History" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Discovery%20History.png?raw=true", Discovery History
 http://line.rs6ott.com:80/b0a02ce89dc6/72e679049c3b/549400
-#EXTINF:0 type="stream" channel id="EarthxTV HD", Earthx TV HD
+#EXTINF:0 type="stream" channel id="EarthxTV HD" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/EarthxTV.svg?raw=true", Earthx TV HD
 http://92.114.85.80:8000/play/a03h
-#EXTINF:0 type="stream" channel id="Travelxp", Travel XP
+#EXTINF:0 type="stream" channel id="Travelxp" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Travelxp.svg?raw=true", Travel XP
 http://92.114.85.79:8000/play/a0ba
-#EXTINF:0 type="stream" channel id="BBC Scotland", BBC Scotland HD
+#EXTINF:0 type="stream" channel id="BBC Scotland" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/BBC%20Scotland%20HD.svg?raw=true", BBC Scotland HD
 http://92.114.85.77:8000/play/a06i
-#EXTINF:0 type="stream" channel id="Dave ja vu", Dave ja vu
+#EXTINF:0 type="stream" channel id="Dave ja vu" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Dave%20ja%20vu.svg?raw=true", Dave ja vu
 http://92.114.85.77:8000/play/a0b1
-#EXTINF:0 type="stream" channel id="Sky Premiere", Sky Cinema Premiere HD
+#EXTINF:0 type="stream" channel id="Sky Premiere" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Sky%20Cinema%20Premiere%20HD.svg?raw=true", Sky Cinema Premiere HD
 http://ultraflix.uk:8080/gaylaw3/h3t0NAAB1E/243286
-#EXTINF:0 type="stream" channel id="WizardingWldHD", Sky Cinema Select HD
+#EXTINF:0 type="stream" channel id="WizardingWldHD" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Sky%20Cinema%20Select%20HD.svg?raw=true", Sky Cinema Select HD
 http://ultraflix.uk:8080/gaylaw3/h3t0NAAB1E/243295
-#EXTINF:0 type="stream" channel id="BankHolidayHD", Sky Cinema Hits HD
+#EXTINF:0 type="stream" channel id="BankHolidayHD" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Sky%20Cinema%20Hits%20HD.svg?raw=true", Sky Cinema Hits HD
 http://ultraflix.uk:8080/gaylaw3/h3t0NAAB1E/243293
-#EXTINF:0 type="stream" channel id="Sky Greats", Sky Cinema Greats HD
+#EXTINF:0 type="stream" channel id="Sky Greats" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Sky%20Cinema%20Greats%20HD.svg?raw=true", Sky Cinema Greats HD
 http://ultraflix.uk:8080/gaylaw3/h3t0NAAB1E/243292
-#EXTINF:0 type="stream" channel id="SkyAnimationHD", Sky Cinema Animation HD
+#EXTINF:0 type="stream" channel id="SkyAnimationHD" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Sky%20Cinema%20Animation%20HD.svg?raw=true", Sky Cinema Animation HD
 http://ultraflix.uk:8080/gaylaw3/h3t0NAAB1E/243288
-#EXTINF:0 type="stream" channel id="Sky Adventure", Sky Cinema Family HD
+#EXTINF:0 type="stream" channel id="Sky Adventure" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Sky%20Cinema%20Family%20HD.svg?raw=true", Sky Cinema Family HD
 http://ultraflix.uk:8080/gaylaw3/h3t0NAAB1E/243291
-#EXTINF:0 type="stream" channel id="Sky Action", Sky Cinema Action HD
+#EXTINF:0 type="stream" channel id="Sky Action" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Sky%20Cinema%20Action%20HD.svg?raw=true", Sky Cinema Action HD
 http://ultraflix.uk:8080/gaylaw3/h3t0NAAB1E/243287
 #EXTINF:0 type="stream" channel id="2266" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Sky%20Cinema%20Comedy%20HD.svg?raw=true", Sky Cinema Comedy HD
 http://ultraflix.uk:8080/gaylaw3/h3t0NAAB1E/243289
-#EXTINF:0 type="stream" channel id="Sky Thriller HD", Sky Cinema Thriller HD
+#EXTINF:0 type="stream" channel id="Sky Thriller HD" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Sky%20Cinema%20Thriller%20HD.svg?raw=true", Sky Cinema Thriller HD
 http://ultraflix.uk:8080/gaylaw3/h3t0NAAB1E/243296
-#EXTINF:0 type="stream" channel id="Sky Drama HD", Sky Cinema Drama HD
+#EXTINF:0 type="stream" channel id="Sky Drama HD" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Sky%20Cinema%20Drama%20HD.svg?raw=true", Sky Cinema Drama HD
 http://ultraflix.uk:8080/gaylaw3/h3t0NAAB1E/243290
-#EXTINF:0 type="stream" channel id="Sky ScFi/HorHD", Sky Cinema Sci Fi & Horror HD
+#EXTINF:0 type="stream" channel id="Sky ScFi/HorHD" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Sky%20Cinema%20Scifi%20Horror%20HD.svg?raw=true", Sky Cinema Sci Fi & Horror HD
 http://ultraflix.uk:8080/gaylaw3/h3t0NAAB1E/243294
-#EXTINF:0 type="stream" channel id="Film4", Film4 HD*
+#EXTINF:0 type="stream" channel id="Film4" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Film4%20HD.svg?raw=true", Film4 HD*
 http://92.114.85.77:8000/play/a07y
-#EXTINF:0 type="stream" channel id="HorrorXtra", HorrorXtra
+#EXTINF:0 type="stream" channel id="HorrorXtra" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/HorrorXtra.svg?raw=true", HorrorXtra
 http://92.114.85.79:8000/play/a09j
-#EXTINF:0 type="stream" channel id="GREAT! romance", Great! Romance
+#EXTINF:0 type="stream" channel id="GREAT! romance" logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Great%20Romance.png?raw=true", Great! Romance
 http://92.114.85.79:8000/play/a08p
-#EXTINF:0 type="stream" channel id="GREAT! movies", Great! Movies
+#EXTINF:0 type="stream" channel id="GREAT! movies" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Great%20Movies.svg?raw=true", Great! Movies
 http://92.114.85.79:8000/play/a08o
-#EXTINF:0 type="stream" channel id="GREAT! action", Great! Movies Action
+#EXTINF:0 type="stream" channel id="GREAT! action" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Great%20Movies%20Action.svg?raw=true", Great! Movies Action
 http://92.114.85.79:8000/play/a08n
-#EXTINF:0 type="stream" channel id="Movies24", Movies 24
+#EXTINF:0 type="stream" channel id="Movies24" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Movies%2024.svg?raw=true", Movies 24
 http://ultraflix.uk:8080/gaylaw3/h3t0NAAB1E/243319
-#EXTINF:0 type="stream" channel id="Movies24+", Movies 24+
+#EXTINF:0 type="stream" channel id="Movies24+" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Movies%2024%20Plus.svg?raw=true", Movies 24+
 http://ultraflix.uk:8080/gaylaw3/h3t0NAAB1E/243320
-#EXTINF:0 type="stream" channel id="TalkingPictures", Talking Pictures TV
+#EXTINF:0 type="stream" channel id="TalkingPictures" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Talking%20Pictures%20TV.svg?raw=true", Talking Pictures TV
 http://92.114.85.79:8000/play/a0bt
-#EXTINF:0 type="stream" channel id="MTV MUSIC", MTV Music
+#EXTINF:0 type="stream" channel id="MTV MUSIC" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/MTV%20Music.svg?raw=true", MTV Music
 http://ultraflix.uk:8080/gaylaw3/h3t0NAAB1E/102522
-#EXTINF:0 type="stream" channel id="MTV HITS", MTV Hits
+#EXTINF:0 type="stream" channel id="MTV HITS" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/MTV%20Hits.svg?raw=true", MTV Hits
 http://ultraflix.uk:8080/gaylaw3/h3t0NAAB1E/102521
-#EXTINF:0 type="stream" channel id="MTV 90s", MTV 90s
+#EXTINF:0 type="stream" channel id="MTV 90s" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/MTV%2090s.svg?raw=true", MTV 90s
 http://iptvch.com:2082/hW0kf53M80Qv5/mih9Wxnk53CndCdj6/241988
-#EXTINF:0 type="stream" channel id="MTV 80s", MTV 80s
+#EXTINF:0 type="stream" channel id="MTV 80s" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/MTV%2080s.png?raw=true", MTV 80s
 http://ultraflix.uk:8080/gaylaw3/h3t0NAAB1E/102520
-#EXTINF:0 type="stream" channel id="4Music", 4Music
+#EXTINF:0 type="stream" channel id="4Music" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/4Music.svg?raw=true", 4Music
 http://92.114.85.79:8000/play/a08a
-#EXTINF:0 type="stream" channel id="The Box", The Box
+#EXTINF:0 type="stream" channel id="The Box" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/The%20Box.svg?raw=true", The Box
 http://92.114.85.79:8000/play/a089
-#EXTINF:0 type="stream" channel id="KISS", Kiss
+#EXTINF:0 type="stream" channel id="KISS" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Kiss.svg?raw=true", Kiss
 http://92.114.85.79:8000/play/a08b
-#EXTINF:0 type="stream" channel id="Magic", Magic
+#EXTINF:0 type="stream" channel id="Magic" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Magic%20TV.svg?raw=true", Magic
 http://92.114.85.79:8000/play/a088
-#EXTINF:0 type="stream" channel id="Kerrang!", Kerrang!
+#EXTINF:0 type="stream" channel id="Kerrang!" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Kerrang.svg?raw=true", Kerrang!
 http://92.114.85.79:8000/play/a08c
-#EXTINF:0 type="stream" channel id="Trace Vault", Trace Vault
+#EXTINF:0 type="stream" channel id="Trace Vault" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Trace%20Vault.svg?raw=true", Trace Vault
 http://92.114.85.79:8000/play/a09n
-#EXTINF:0 type="stream" channel id="NOW 70s", NOW 70s
+#EXTINF:0 type="stream" channel id="NOW 70s" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Now%2070s.png?raw=true", NOW 70s
 http://92.114.85.79:8000/play/a0bo
-#EXTINF:0 type="stream" channel id="NOW 80s", NOW 80s
+#EXTINF:0 type="stream" channel id="NOW 80s" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Now%2080s.png?raw=true", NOW 80s
 http://92.114.85.77:8000/play/a0ae
-#EXTINF:0 type="stream" channel id="NOW ROCK", NOW Rock
+#EXTINF:0 type="stream" channel id="NOW ROCK" logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/Now%20Rock.png", NOW Rock
 http://92.114.85.79:8000/play/a0cy
-#EXTINF:0 type="stream" channel id="Clubland TV", Clubland TV
+#EXTINF:0 type="stream" channel id="Clubland TV" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Clubland%20TV.svg?raw=true", Clubland TV
 http://92.114.85.79:8000/play/a0cx
-#EXTINF:0 type="stream" channel id="That's 60s", That's 60s
+#EXTINF:0 type="stream" channel id="That's 60s" logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/80/skychb1134.png", That's 60s
 http://92.114.85.79:8000/play/a0bq
-#EXTINF:0 type="stream" channel id="That's 70s", That's 70s
+#EXTINF:0 type="stream" channel id="That's 70s" logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/80/skychb1311.png", That's 70s
 http://92.114.85.79:8000/play/a0de
-#EXTINF:0 type="stream" channel id="That's 80s", That's 80s
+#EXTINF:0 type="stream" channel id="That's 80s" logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/80/skychb1305.png", That's 80s
 http://92.114.85.79:8000/play/a09z
-#EXTINF:0 type="stream" channel id="That's 90s" logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/Thats%2090s.png", That's 90s
+#EXTINF:0 type="stream" channel id="That's 90s" logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb1222.png", That's 90s
 http://92.114.85.79:8000/play/a0dq
-#EXTINF:0 type="stream" channel id="SkySp F1", Sky Sports F1 HD
+#EXTINF:0 type="stream" channel id="SkySp F1" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Sky%20Sports%20F1%20HD.svg?raw=true", Sky Sports F1 HD
 http://ultraflix.uk:8080/gaylaw3/h3t0NAAB1E/1872
-#EXTINF:0 type="stream" channel id="SkySp News", Sky Sports News HD
+#EXTINF:0 type="stream" channel id="SkySp News" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Sky%20Sports%20News%20HD.svg?raw=true", Sky Sports News HD
 http://ultraflix.uk:8080/gaylaw3/h3t0NAAB1E/1882
-#EXTINF:0 type="stream" channel id="Eurosport 1", Eurosport 1 HD
+#EXTINF:0 type="stream" channel id="Eurosport 1" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Eurosport%201%20HD.svg?raw=true", Eurosport 1 HD
 http://ultraflix.uk:8080/gaylaw3/h3t0NAAB1E/1991
-#EXTINF:0 type="stream" channel id="Eurosport 2", Eurosport 2 HD
+#EXTINF:0 type="stream" channel id="Eurosport 2" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Eurosport%202%20HD.svg?raw=true", Eurosport 2 HD
 http://ultraflix.uk:8080/gaylaw3/h3t0NAAB1E/1989
-#EXTINF:0 type="stream" channel id="TNT Sports 1", TNT Sports 1 HD
+#EXTINF:0 type="stream" channel id="TNT Sports 1" logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb3661.png", TNT Sports 1 HD
 http://ultraflix.uk:8080/gaylaw3/h3t0NAAB1E/116619
-#EXTINF:0 type="stream" channel id="TNT Sports 2", TNT Sports 2 HD
+#EXTINF:0 type="stream" channel id="TNT Sports 2" logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb3663.png", TNT Sports 2 HD
 http://ultraflix.uk:8080/gaylaw3/h3t0NAAB1E/116620
-#EXTINF:0 type="stream" channel id="Sky News", Sky News HD
+#EXTINF:0 type="stream" channel id="Sky News" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Sky%20News%20HD.svg?raw=true", Sky News HD
 http://92.114.85.80:8000/play/a03q
-#EXTINF:0 type="stream" channel id="BBC NEWS", BBC News HD
+#EXTINF:0 type="stream" channel id="BBC NEWS" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/BBC%20News%20HD.svg?raw=true", BBC News HD
 http://92.114.85.77:8000/play/a03f
-#EXTINF:0 type="stream" channelId="CNN HD", CNN HD
+#EXTINF:0 type="stream" channelId="CNN HD" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/CNN%20HD.svg?raw=true", CNN HD
 http://92.114.85.80:8000/play/a03i
-#EXTINF:0 type="stream" channel id="Euronews", Euronews
+#EXTINF:0 type="stream" channel id="Euronews" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Euronews.svg?raw=true", Euronews
 http://92.114.85.79:8000/play/a0ah
 #EXTINF:0 type="stream" channel id="4449" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/BBC%20Red%20Button.svg?raw=true", BBC Red Button
 http://92.114.85.77:8000/play/a06g
