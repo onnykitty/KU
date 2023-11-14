@@ -1,25 +1,25 @@
 #EXTM3U x-tvg-url="https://www.bevy.be/bevyfiles/unitedkingdom.xml"
-#EXTINF:0 type="stream" channel id="BBC One" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/BBC%20One%20HD.svg?raw=true", BBC One HD
+#EXTINF:0 type="stream" channel id="BBC One" logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb3000.png", BBC One HD
 http://92.114.85.77:8000/play/a08h
-#EXTINF:0 type="stream" channel id="BBC Two" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/BBC%20Two%20HD.svg?raw=true", BBC Two HD
+#EXTINF:0 type="stream" channel id="BBC Two" logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb2075.png", BBC Two HD
 http://92.114.85.77:8000/play/a08r
-#EXTINF:0 type="stream" channel id="ITV1" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/ITV1%20HD.svg?raw=true", ITV HD
+#EXTINF:0 type="stream" channel id="ITV1" logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb6504.png", ITV HD
 http://92.114.85.77:8000/play/a0a8
-#EXTINF:0 type="stream" channel id="Channel 4" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Channel%204%20HD.svg?raw=true", Channel 4 HD
+#EXTINF:0 type="stream" channel id="Channel 4" logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb4075.png", Channel 4 HD
 http://92.114.85.80:8000/play/a019
-#EXTINF:0 type="stream" channel id="Channel 5" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Channel%205%20HD.svg?raw=true", Channel 5 HD
+#EXTINF:0 type="stream" channel id="Channel 5" logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb4058.png", Channel 5 HD
 http://92.114.85.80:8000/play/a01n
-#EXTINF:0 type="stream" channel id="Sky Showcase" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Sky%20Showcase%20HD.svg?raw=true", Sky Showcase HD
+#EXTINF:0 type="stream" channel id="Sky Showcase" logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb1275.png", Sky Showcase HD
 http://ultraflix.uk:8080/gaylaw3/h3t0NAAB1E/102070
-#EXTINF:0 type="stream" channel id="Sky Witness" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Sky%20Witness%20HD.svg?raw=true", Sky Witness HD
+#EXTINF:0 type="stream" channel id="Sky Witness" logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb4066.png", Sky Witness HD
 http://ultraflix.uk:8080/gaylaw3/h3t0NAAB1E/2116
-#EXTINF:0 type="stream" channel id="Sky Atlantic" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Sky%20Atlantic%20HD.svg?raw=true", Sky Atlantic HD
+#EXTINF:0 type="stream" channel id="Sky Atlantic" logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb4053.png", Sky Atlantic HD
 http://ultraflix.uk:8080/gaylaw3/h3t0NAAB1E/2127
-#EXTINF:0 type="stream" channel id="alibi" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Alibi%20HD.png?raw=true", Alibi HD
+#EXTINF:0 type="stream" channel id="alibi" logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb3825.png", Alibi HD
 http://ultraflix.uk:8080/gaylaw3/h3t0NAAB1E/3848
-#EXTINF:0 type="stream" channel id="GOLD" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Gold%20HD.svg?raw=true", Gold HD
+#EXTINF:0 type="stream" channel id="GOLD" logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb6513.png", Gold HD
 http://ultraflix.uk:8080/gaylaw3/h3t0NAAB1E/3450
-#EXTINF:0 type="stream" channel id="Dave" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Dave%20HD.svg?raw=true", Dave HD*
+#EXTINF:0 type="stream" channel id="Dave" logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb3809.png", Dave HD*
 http://92.114.85.77:8000/play/a0az
 #EXTINF:0 type="stream" channel id="ComedyCentral" logo="https://github.com/Jasmeet181/mediaportal-uk-logos/blob/master/TV/Comedy%20Central%20HD.svg?raw=true", Comedy Central HD
 http://ultraflix.uk:8080/gaylaw3/h3t0NAAB1E/6745
