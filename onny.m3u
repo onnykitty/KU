@@ -235,5 +235,5 @@ http://92.114.85.77:8000/play/a03f
 http://92.114.85.80:8000/play/a03i
 #EXTINF:0 type="stream" channel id="Euronews" logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb4604.png", Euronews
 http://92.114.85.79:8000/play/a0ah
-#EXTINF:0 type="stream" channel id="4449" logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb2053.png", BBC Red Button HD
+#EXTINF:0 type="stream" channel id="BBC RB 1" logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb2053.png", BBC Red Button HD
 http://92.114.85.77:8000/play/a06g
