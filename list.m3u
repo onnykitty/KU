@@ -1,3 +1,4 @@
+#EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/all.xml.gz"
 #EXTM3U
 #EXTINF:0,4Music
 http://92.114.85.79:8000/play/a08a
