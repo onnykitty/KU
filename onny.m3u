@@ -83,9 +83,9 @@ http://92.114.85.77:8000/play/a0ay
 http://92.114.85.79:8000/play/a0cm
 #EXTINF:0 type="stream" channel id="Challenge" logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb2202.png", Challenge
 http://92.114.85.80:8000/play/a03s
-#EXTINF:0 type="stream" channel id="CBS Reality" logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb3352.png", CBS Reality
+#EXTINF:0 type="stream" channel id="CBS Reality" logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb3352.png", True Crime
 http://92.114.85.79:8000/play/a09q
-#EXTINF:0 type="stream" channel id="RealityXtra" logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb3617.png", RealityXtra
+#EXTINF:0 type="stream" channel id="RealityXtra" logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb3617.png", True Crime Xtra
 http://92.114.85.79:8000/play/a09l
 #EXTINF:0 type="stream" channel id="Legend" logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb4610.png", Legend
 http://92.114.85.79:8000/play/a09m
@@ -165,7 +165,7 @@ http://ultraflix.uk:8080/gaylaw3/h3t0NAAB1E/243290
 http://ultraflix.uk:8080/gaylaw3/h3t0NAAB1E/243294
 #EXTINF:0 type="stream" channel id="Film4" logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb4044.png", Film4 HD*
 http://92.114.85.77:8000/play/a07y
-#EXTINF:0 type="stream" channel id="HorrorXtra" logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb3605.png", HorrorXtra
+#EXTINF:0 type="stream" channel id="HorrorXtra" logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb3605.png", Legend Xtra
 http://92.114.85.79:8000/play/a09j
 #EXTINF:0 type="stream" channel id="GREAT! romance" logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb3643.png", Great! Romance
 http://92.114.85.79:8000/play/a08p
