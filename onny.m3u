@@ -19,7 +19,7 @@ http://ultraflix.uk:8080/gaylaw3/h3t0NAAB1E/2127
 http://ultraflix.uk:8080/gaylaw3/h3t0NAAB1E/3848
 #EXTINF:0 type="stream" channel id="GOLD" logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb6513.png", Gold HD
 http://ultraflix.uk:8080/gaylaw3/h3t0NAAB1E/3450
-#EXTINF:0 type="stream" channel id="Dave" logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb3809.png", Dave HD*
+#EXTINF:0 type="stream" channel id="Dave" logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb3809.png", Dave HD
 http://92.114.85.77:8000/play/a0az
 #EXTINF:0 type="stream" channel id="ComedyCentral" logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb4056.png", Comedy Central HD
 http://ultraflix.uk:8080/gaylaw3/h3t0NAAB1E/6745
@@ -59,11 +59,11 @@ http://ultraflix.uk:8080/gaylaw3/h3t0NAAB1E/102912
 http://ultraflix.uk:8080/gaylaw3/h3t0NAAB1E/3846
 #EXTINF:0 type="stream" channel id="ITVBe" logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb6508.png", ITVBe
 http://92.114.85.77:8000/play/a09h
-#EXTINF:0 type="stream" channel id="W" logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb3810.png", W HD*
+#EXTINF:0 type="stream" channel id="W" logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb3810.png", W HD
 http://92.114.85.77:8000/play/a07f
-#EXTINF:0 type="stream" channel id="E4" logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb4076.png", E4 HD*
+#EXTINF:0 type="stream" channel id="E4" logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb4076.png", E4 HD
 http://92.114.85.77:8000/play/a081
-#EXTINF:0 type="stream" channel id="More4" logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb4043.png", More4 HD*
+#EXTINF:0 type="stream" channel id="More4" logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb4043.png", More4 HD
 http://92.114.85.77:8000/play/a09v
 #EXTINF:0 type="stream" channel id="4seven" logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb3150.png", 4seven
 http://92.114.85.80:8000/play/a01a
@@ -163,7 +163,7 @@ http://ultraflix.uk:8080/gaylaw3/h3t0NAAB1E/243296
 http://ultraflix.uk:8080/gaylaw3/h3t0NAAB1E/243290
 #EXTINF:0 type="stream" channel id="Sky ScFi/HorHD" logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb4017.png", Sky Cinema Sci Fi & Horror HD
 http://ultraflix.uk:8080/gaylaw3/h3t0NAAB1E/243294
-#EXTINF:0 type="stream" channel id="Film4" logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb4044.png", Film4 HD*
+#EXTINF:0 type="stream" channel id="Film4" logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb4044.png", Film4 HD
 http://92.114.85.77:8000/play/a07y
 #EXTINF:0 type="stream" channel id="HorrorXtra" logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb3605.png", Legend Xtra
 http://92.114.85.79:8000/play/a09j
