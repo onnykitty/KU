@@ -1,5 +1,5 @@
-#EXTM3U
-#EXTINF:0 type="stream" <channel site="mytelly.co.uk" lang="en" xmltv_id="BBCOneHD.uk" site_id="1609/bbc-one-hd"> logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/500/500/skychb3000.png", BBC One HD
+#EXTM3U x-tvg-url="https://xmltv.tvkaista.net/guides/mytelly.co.uk.xml"
+#EXTINF:0 type="stream" channel id="BBCOne.uk" logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/500/500/skychb3000.png", BBC One HD
 http://92.114.85.77:8000/play/a08h
 #EXTINF:0 type="stream" channel id="BBC Two" logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/500/500/skychb2075.png", BBC Two HD
 http://92.114.85.77:8000/play/a08r
