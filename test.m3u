@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://github.com/onnykitty/KU/blob/main/sky.com.xml.gz"
+#EXTM3U url-tvg=" 	https://xmltv.tvkaista.net/guides/sky.com.xml"
 #EXTINF:0 type="stream" channel id="BBCOneLondon.uk" logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/500/500/skychb3000.png", BBC One HD
 http://92.114.85.77:8000/play/a08h
 #EXTINF:0 type="stream" channel id="BBCTwo.uk" logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/500/500/skychb2075.png", BBC Two HD
