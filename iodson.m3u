@@ -59,7 +59,7 @@ http://ultraflix.uk:8080/gaylaw3/h3t0NAAB1E/102912
 http://ultraflix.uk:8080/gaylaw3/h3t0NAAB1E/3846
 #EXTINF:0 type="stream" channel id="ITVBe" logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/500/500/skychb6508.png", ITVBe
 http://92.114.85.77:8000/play/a09h
-#EXTINF:0 type="stream" channel id="W" logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/500/500/skychb3810.png", W HD
+#EXTINF:0 type="stream" channel id="W HD" logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/500/500/skychb3810.png", W HD
 http://92.114.85.77:8000/play/a07f
 #EXTINF:0 type="stream" channel id="E4" logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/500/500/skychb4076.png", E4 HD
 http://92.114.85.77:8000/play/a081
@@ -93,7 +93,7 @@ http://92.114.85.79:8000/play/a09m
 http://92.114.85.79:8000/play/a0cn
 #EXTINF:0 type="stream" channel id="5ACTION" logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/500/500/skychb1036.png", 5Action
 http://92.114.85.80:8000/play/a01o
-#EXTINF:0 type="stream" channel id="Pick" logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/500/500/skychb1831.png", Sky Mix HD
+#EXTINF:0 type="stream" channel id="1168" logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/500/500/skychb1831.png", Sky Mix HD
 http://94.229.68.210:8062/play/a04c/index.m3u8
 #EXTINF:0 type="stream" channel id="Sky Replay" logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/500/500/skychb1833.png", Sky Replay
 http://line.rs6ott.com:80/b0a02ce89dc6/72e679049c3b/894388
