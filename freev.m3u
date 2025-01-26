@@ -1,474 +1,163 @@
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/all.xml.gz"
-#EXTM3U
-#EXTINF:0,5Select
-http://185.189.225.200:85/5select/index.m3u8
-#EXTINF:0,Aljazeera HD EN
-http://185.189.225.200:85/aljazeera/index.m3u8
-#EXTINF:0,Atreseries HD
-http://185.189.225.200:85/A3Series/index.m3u8
-#EXTINF:0,AXN HD
-http://185.189.225.200:85/AXN/index.m3u8
-#EXTINF:0,BBC-1 HD
-http://185.189.225.200:85/BBC1/index.m3u8
-#EXTINF:0,Break
-http://185.189.225.200:85/blaze/index.m3u8
-#EXTINF:0,Bloomberg TV
-http://185.189.225.200:85/Bloomberg/index.m3u8
-#EXTINF:0,CAT-3 HD
-http://185.189.225.200:85/tv3/index.m3u8
-#EXTINF:0,CGTN Espanol
-http://185.189.225.200:85/cgtn/index.m3u8
-#EXTINF:0,CGTN Espanol HD
-http://185.189.225.200:85/cctv/index.m3u8
-#EXTINF:0,Comedy Central
-http://185.189.225.200:85/comedycentral/index.m3u8
-#EXTINF:0,Dark TV HD
-http://185.189.225.200:85/Dark/index.m3u8
-#EXTINF:0,Discovery Channel HD
-http://185.189.225.200:85/Discovery/index.m3u8
-#EXTINF:0,Disney Junior
-http://185.189.225.200:85/disneyjr/index.m3u8
-#EXTINF:0,Enfamilia/Panda
-http://185.189.225.200:85/panda/index.m3u8
-#EXTINF:0,Eurosport-1 HD
-http://185.189.225.200:85/EuroSport1/index.m3u8
-#EXTINF:0,Eurosport-2 HD
-http://185.189.225.200:85/Eurosport2/index.m3u8
-#EXTINF:0,Galicia TV HD
-http://185.189.225.200:85/GaliciaTV/index.m3u8
-#EXTINF:0,Galicia TV HD (double)
-http://185.189.225.200:85/GTV/index.m3u8
-#EXTINF:0,Great! Movies
-http://185.189.225.200:85/sonymovies/index.m3u8
-#EXTINF:0,Hit TV
-http://185.189.225.200:85/HitTV/index.m3u8
-#EXTINF:0,Hollywood HD
-http://185.189.225.200:85/Hollywood/index.m3u8
-#EXTINF:0,Iberalia HD
-http://185.189.225.200:85/iberalia/index.m3u8
-#EXTINF:0,iTV-1 HD EN
-http://185.189.225.200:85/itv1/index.m3u8
-#EXTINF:0,iTV-1 HD EN (double)
-http://185.189.225.200:85/utv/index.m3u8
-#EXTINF:0,MTV 80s
-http://185.189.225.200:85/MTV80s/index.m3u8
-#EXTINF:0,MTV 90s HD
-http://185.189.225.200:85/MTV90s/index.m3u8
-#EXTINF:0,MTV 00s
-http://185.189.225.200:85/MTV00s/index.m3u8
-#EXTINF:0,MTV Hits
-http://185.189.225.200:85/MTVHits/index.m3u8
-#EXTINF:0,National Geographic
-http://185.189.225.200:85/NatGeo/index.m3u8
-#EXTINF:0,Nick Jr.
-http://185.189.225.200:85/NickJr/index.m3u8
-#EXTINF:0,Nova TV HQ
-http://185.189.225.200:85/nova/index.m3u8
-#EXTINF:0,Odisea HD
-http://185.189.225.200:85/odisea/index.m3u8
-#EXTINF:0,RTL DE
-http://185.189.225.200:85/RTLTelevision/index.m3u8
-#EXTINF:0,Somos
-http://185.189.225.200:85/somos/index.m3u8
-#EXTINF:0,Star Channel HD
-http://185.189.225.200:85/Fox/index.m3u8
-#EXTINF:0,Syfy HD
-http://185.189.225.200:85/Syfy/index.m3u8
-#EXTINF:0,Telecinco HD
-http://185.189.225.200:85/telecinco/index.m3u8
-#EXTINF:0,Together TV/High Street TV EN
-http://185.189.225.200:85/together/index.m3u8
-#EXTINF:0,Trece HD
-http://185.189.225.200:85/13tv/index.m3u8
-#EXTINF:0,TVE HD
-http://185.189.225.200:85/TVE/index.m3u8
-#EXTINF:0,BBC ONE South
-#EXTVLCOPT:network-caching=1000
-http://185.138.159.106:9981/stream/channelid/603198360?ticket=3C7589EF3150209A27CA1A55C783C5F9D30ADBC9&profile=pass
-#EXTINF:0,BBC TWO
-#EXTVLCOPT:network-caching=1000
-http://185.138.159.106:9981/stream/channelid/1244717767?ticket=DA13702B5D60AB0C68347B0F9F402823B8FF72F1&profile=pass
-#EXTINF:0,ITV1
-#EXTVLCOPT:network-caching=1000
-http://185.138.159.106:9981/stream/channelid/41450684?ticket=827800133A9705F225173905018D2C12F6E07C35&profile=pass
-#EXTINF:0,Channel 4
-#EXTVLCOPT:network-caching=1000
-http://185.138.159.106:9981/stream/channelid/592126023?ticket=46729A68ABAC52DBA05FF5DE40AADBD4A3C58B38&profile=pass
-#EXTINF:0,Channel 5
-#EXTVLCOPT:network-caching=1000
-http://185.138.159.106:9981/stream/channelid/1099482016?ticket=037238B174C73CCEB1E785D62B4FD110B6A2CD3E&profile=pass
-#EXTINF:0,ITV2
-#EXTVLCOPT:network-caching=1000
-http://185.138.159.106:9981/stream/channelid/483714094?ticket=98C7520A3B85658A0A17E73FF70CCDB8B4CC0D6D&profile=pass
-#EXTINF:0,BBC FOUR
-#EXTVLCOPT:network-caching=1000
-http://185.138.159.106:9981/stream/channelid/1978482277?ticket=1EB9E257E986D68B6F81E555BC3D6CE12DC992F7&profile=pass
-#EXTINF:0,ITV3
-#EXTVLCOPT:network-caching=1000
-http://185.138.159.106:9981/stream/channelid/1612360062?ticket=FD3F2D7329F32A3537F6FD1053D71DD65A0DA299&profile=pass
-#EXTINF:0,Sky Mix
-#EXTVLCOPT:network-caching=1000
-http://185.138.159.106:9981/stream/channelid/1543140535?ticket=B4738A18801DB2695DEDBA47D453EC0AD43EA016&profile=pass
-#EXTINF:0,QUEST
-#EXTVLCOPT:network-caching=1000
-http://185.138.159.106:9981/stream/channelid/1131753780?ticket=2E0335F07D07EAA19969C0724CF79354E0C68839&profile=pass
-#EXTINF:0,E4
-#EXTVLCOPT:network-caching=1000
-http://185.138.159.106:9981/stream/channelid/1773629411?ticket=ADCD6FEDE35FCD53CD54F98DE30CAA1B6E8E2A2E&profile=pass
-#EXTINF:0,Film4
-#EXTVLCOPT:network-caching=1000
-http://185.138.159.106:9981/stream/channelid/324524710?ticket=09DD88D349EF909D1EA447F2643D49EB81069177&profile=pass
-#EXTINF:0,Channel 4+1
-#EXTVLCOPT:network-caching=1000
-http://185.138.159.106:9981/stream/channelid/1582013231?ticket=E33095B1E6657B64F472B788BF1CFD3CF6F5EFFB&profile=pass
-#EXTINF:0,QVC
-#EXTVLCOPT:network-caching=1000
-http://185.138.159.106:9981/stream/channelid/447692693?ticket=5586855FB75C397B74EDDDF3EC27E5C87192210E&profile=pass
-#EXTINF:0,Really
-#EXTVLCOPT:network-caching=1000
-http://185.138.159.106:9981/stream/channelid/1507032376?ticket=5000B189E90ECDC14A3F596758243F28B9C47AA5&profile=pass
-#EXTINF:0,More 4
-#EXTVLCOPT:network-caching=1000
-http://185.138.159.106:9981/stream/channelid/595618249?ticket=0EE53D304081E29ED4F2C1A92962CBA62DC6F47F&profile=pass
-#EXTINF:0,Dave
-#EXTVLCOPT:network-caching=1000
-http://185.138.159.106:9981/stream/channelid/1418916999?ticket=2FBBB14DE23CE12FC102769E4F537258F0AA69B7&profile=pass
-#EXTINF:0,Drama
-#EXTVLCOPT:network-caching=1000
-http://185.138.159.106:9981/stream/channelid/609799365?ticket=EE1F4B046FF3755DD0A021862A5B230774D1333D&profile=pass
-#EXTINF:0,5USA
-#EXTVLCOPT:network-caching=1000
-http://185.138.159.106:9981/stream/channelid/1343165469?ticket=CAC00222F4941D7D33AC594AFF19CC8E44973966&profile=pass
-#EXTINF:0,TJC
-#EXTVLCOPT:network-caching=1000
-http://185.138.159.106:9981/stream/channelid/1774851244?ticket=61A885D13954522539C933A85E9C08D1F070CD1A&profile=pass
-#EXTINF:0,BBC THREE
-#EXTVLCOPT:network-caching=1000
-http://185.138.159.106:9981/stream/channelid/1915990158?ticket=F25E07A71EC7AD15B80674B0A0A7CCC4DC3513B7&profile=pass
-#EXTINF:0,W
-#EXTVLCOPT:network-caching=1000
-http://185.138.159.106:9981/stream/channelid/1310700454?ticket=F6E954F1F193950A8F61A17F6995552A4A46BB46&profile=pass
-#EXTINF:0,ITV4
-#EXTVLCOPT:network-caching=1000
-http://185.138.159.106:9981/stream/channelid/518428530?ticket=7A03C5D9E93B3C8F1148EC77D930803CA3DDF355&profile=pass
-#EXTINF:0,Yesterday
-#EXTVLCOPT:network-caching=1000
-http://185.138.159.106:9981/stream/channelid/336680927?ticket=5F0EDFA5D80F12C7310C063A4549EFB2882A845D&profile=pass
-#EXTINF:0,ITVBe
-#EXTVLCOPT:network-caching=1000
-http://185.138.159.106:9981/stream/channelid/2065790633?ticket=E5A6D6843011D312EE254A5DA5698B4F94DEEFE5&profile=pass
-#EXTINF:0,ITV2+1
-#EXTVLCOPT:network-caching=1000
-http://185.138.159.106:9981/stream/channelid/1692472009?ticket=B4E5FA0D8803ADD8C7F2B2FAE14057139DDFA166&profile=pass
-#EXTINF:0,E4+1
-#EXTVLCOPT:network-caching=1000
-http://185.138.159.106:9981/stream/channelid/1169515901?ticket=1B8B1AAD25F99A4DCEA606EE4B1B9402B9DE42BE&profile=pass
-#EXTINF:0,E4 Extra
-#EXTVLCOPT:network-caching=1000
-http://185.138.159.106:9981/stream/channelid/259056678?ticket=F01BB88A4DDF4F148952A7724CC6DA5401E936F5&profile=pass
-#EXTINF:0,5STAR
-#EXTVLCOPT:network-caching=1000
-http://185.138.159.106:9981/stream/channelid/319384616?ticket=BDF6858D4C9C61C55704081D41512F473C1B2CA6&profile=pass
-#EXTINF:0,5ACTION
-#EXTVLCOPT:network-caching=1000
-http://185.138.159.106:9981/stream/channelid/696969540?ticket=9570D80A376CFC33AF50180A70DF85242D2ECCD8&profile=pass
-#EXTINF:0,GREAT! movies
-#EXTVLCOPT:network-caching=1000
-http://185.138.159.106:9981/stream/channelid/360388464?ticket=51A9FE00A08540C87FF4AE67DBE2B96EE7BC6B59&profile=pass
-#EXTINF:0,ITV1+1
-#EXTVLCOPT:network-caching=1000
-http://185.138.159.106:9981/stream/channelid/1933771908?ticket=5776A6A623BDC1CF8562312F469F637090D51D85&profile=pass
-#EXTINF:0,Sky Arts
-#EXTVLCOPT:network-caching=1000
-http://185.138.159.106:9981/stream/channelid/1630231495?ticket=A718BA077D388E72F96B3988C2B8D9B2135B4473&profile=pass
-#EXTINF:0,QVC2
-#EXTVLCOPT:network-caching=1000
-http://185.138.159.106:9981/stream/channelid/665096806?ticket=69AEEBEF39E3BF8DB65D3E8A31FC600D9E4EEE18&profile=pass
-#EXTINF:0,Channel 5+1
-#EXTVLCOPT:network-caching=1000
-http://185.138.159.106:9981/stream/channelid/1415889459?ticket=8358601A0D10AB589315402FC734C4B091E4ECDC&profile=pass
-#EXTINF:0,DMAX
-#EXTVLCOPT:network-caching=1000
-http://185.138.159.106:9981/stream/channelid/172735315?ticket=C5BC45F2BC7A8DC7C7E92E2CA957779F7C90704D&profile=pass
-#EXTINF:0,Quest Red
-#EXTVLCOPT:network-caching=1000
-http://185.138.159.106:9981/stream/channelid/1559759201?ticket=85BEC9A380C1C5EA00E6229F573E5C2BA5D991CB&profile=pass
-#EXTINF:0,LEGEND
-#EXTVLCOPT:network-caching=1000
-http://185.138.159.106:9981/stream/channelid/1359650785?ticket=8F75F4D75C129483003CDEAC9B0A311CA7BC63E4&profile=pass
-#EXTINF:0,GREAT! action
-#EXTVLCOPT:network-caching=1000
-http://185.138.159.106:9981/stream/channelid/394831919?ticket=AD1F084CAE8F23DA467E2DED7CFC6E86D4B0C884&profile=pass
-#EXTINF:0,Food Network
-#EXTVLCOPT:network-caching=1000
-http://185.138.159.106:9981/stream/channelid/872510850?ticket=37955E5AEC7D4B39261BF26CE2F1DF20ACCFA03A&profile=pass
-#EXTINF:0,HGTV
-#EXTVLCOPT:network-caching=1000
-http://185.138.159.106:9981/stream/channelid/847590373?ticket=E43707E10BE082F22C7C144944028A0DB402AD4C&profile=pass
-#EXTINF:0,Gems TV
-#EXTVLCOPT:network-caching=1000
-http://185.138.159.106:9981/stream/channelid/1586983946?ticket=1DA8E3DBCF5FBE5009E38B597D3C92E3EA8C10A0&profile=pass
-#EXTINF:0,5SELECT
-#EXTVLCOPT:network-caching=1000
-http://185.138.159.106:9981/stream/channelid/1982796254?ticket=8AF7A7C9641CB791FC1EEF4D06DE64567A0D1309&profile=pass
-#EXTINF:0,Film4+1
-#EXTVLCOPT:network-caching=1000
-http://185.138.159.106:9981/stream/channelid/1939024998?ticket=0BE4A8D0CE892A4E195D63004E1C74E3BFA5CA16&profile=pass
-#EXTINF:0,Challenge
-#EXTVLCOPT:network-caching=1000
-http://185.138.159.106:9981/stream/channelid/394327655?ticket=BDEEEB82CDCB9A45E1BB169B5023E6F977F845F0&profile=pass
-#EXTINF:0,4seven
-#EXTVLCOPT:network-caching=1000
-http://185.138.159.106:9981/stream/channelid/1859862129?ticket=5A0456C10624EC15DA53101DF828B7FA88349CD3&profile=pass
-#EXTINF:0,GREAT! tv
-#EXTVLCOPT:network-caching=1000
-http://185.138.159.106:9981/stream/channelid/91358028?ticket=A3B631F6E3AD45741FE2D8FC3DA39D22FE67ECBD&profile=pass
-#EXTINF:0,Ideal World
-#EXTVLCOPT:network-caching=1000
-http://185.138.159.106:9981/stream/channelid/291907087?ticket=5267ED6699914877E62B949E4B2CD3FDC7224BBF&profile=pass
-#EXTINF:0,GREAT! romance
-#EXTVLCOPT:network-caching=1000
-http://185.138.159.106:9981/stream/channelid/25954977?ticket=CDF7B4270759822E30C595624BC94C6572742500&profile=pass
-#EXTINF:0,That's TV (UK)
-#EXTVLCOPT:network-caching=1000
-http://185.138.159.106:9981/stream/channelid/1573560408?ticket=57CBA9D9452D3B1D98A12B08FC2FA22F2E4E30C7&profile=pass
-#EXTINF:0,Dave ja vu
-#EXTVLCOPT:network-caching=1000
-http://185.138.159.106:9981/stream/channelid/693723409?ticket=7AADE9EA1B6D99F8F2DCB4BC3539291790869B28&profile=pass
-#EXTINF:0,ITV3+1
-#EXTVLCOPT:network-caching=1000
-http://185.138.159.106:9981/stream/channelid/405516843?ticket=7CDCACB17C7A4838A419488B329244AAF2835138&profile=pass
-#EXTINF:0,ITV4+1
-#EXTVLCOPT:network-caching=1000
-http://185.138.159.106:9981/stream/channelid/945827258?ticket=247F03DB6C47A906DD6DC86E71D02126123C1377&profile=pass
-#EXTINF:0,Drama +1
-#EXTVLCOPT:network-caching=1000
-http://185.138.159.106:9981/stream/channelid/326802579?ticket=16A94EC0EF98CC66371A2D80FB6AD735DE198A32&profile=pass
-#EXTINF:0,GREAT! tv +1
-#EXTVLCOPT:network-caching=1000
-http://185.138.159.106:9981/stream/channelid/2123263788?ticket=A921CFC0595F0E668D939781DBA41FBEFA9D953B&profile=pass
-#EXTINF:0,GREAT! romance mix
-#EXTVLCOPT:network-caching=1000
-http://185.138.159.106:9981/stream/channelid/256502556?ticket=6BD0A3BC616719C0BA307283B21E967843368FBB&profile=pass
-#EXTINF:0,Blaze
-#EXTVLCOPT:network-caching=1000
-http://185.138.159.106:9981/stream/channelid/689170767?ticket=C3EB8F91CEFC016B47475107778A6718FF37A38B&profile=pass
-#EXTINF:0,That's TV 2
-#EXTVLCOPT:network-caching=1000
-http://185.138.159.106:9981/stream/channelid/98152717?ticket=2FF41D12FA638C7E6F022E22F17D741F673B8920&profile=pass
-#EXTINF:0,TBN UK
-#EXTVLCOPT:network-caching=1000
-http://185.138.159.106:9981/stream/channelid/1669187458?ticket=00AB4B0DF51E9B1735F85C52E470EF46ACC592C4&profile=pass
-#EXTINF:0,TRUE CRIME
-#EXTVLCOPT:network-caching=1000
-http://185.138.159.106:9981/stream/channelid/1056064330?ticket=85C209CEBC6B9BEF36E86F3FACD4750A6EDDA85C&profile=pass
-#EXTINF:0,TRUE CRIME XTRA
-#EXTVLCOPT:network-caching=1000
-http://185.138.159.106:9981/stream/channelid/2064805563?ticket=97755EA510E0AEC205739C2B8D38D5A4551488D3&profile=pass
-#EXTINF:0,QUEST+1
-#EXTVLCOPT:network-caching=1000
-http://185.138.159.106:9981/stream/channelid/1882484952?ticket=0C3A3EEE0B467320BD079B60AF7A6C5E9B09FFE5&profile=pass
-#EXTINF:0,That's 60s
-#EXTVLCOPT:network-caching=1000
-http://185.138.159.106:9981/stream/channelid/894364865?ticket=890B8E0CD0A2F0735E12173A615B2FA0DBA4D395&profile=pass
-#EXTINF:0,Jewellery Maker
-#EXTVLCOPT:network-caching=1000
-http://185.138.159.106:9981/stream/channelid/152730523?ticket=5C95F197CDF36075EC73A0B59E11744C153031A9&profile=pass
-#EXTINF:0,HobbyMaker
-#EXTVLCOPT:network-caching=1000
-http://185.138.159.106:9981/stream/channelid/1212015922?ticket=56BA29D5307D2EA93980C992FA9D3BB3EABF7CC9&profile=pass
-#EXTINF:0,Yesterday+1
-#EXTVLCOPT:network-caching=1000
-http://185.138.159.106:9981/stream/channelid/276421286?ticket=8F29B9600EED429AFC68253EB2BB01E15F166A49&profile=pass
-#EXTINF:0,That's 90s
-#EXTVLCOPT:network-caching=1000
-http://185.138.159.106:9981/stream/channelid/2013999086?ticket=98247394C4508F4EE24CF65154D07E60DBED0A5D&profile=pass
-#EXTINF:0,TCC
-#EXTVLCOPT:network-caching=1000
-http://185.138.159.106:9981/stream/channelid/2035181446?ticket=A5F5EB2520EB708ACF1201B0D705EA77690A348C&profile=pass
-#EXTINF:0,EarthxTV
-#EXTVLCOPT:network-caching=1000
-http://185.138.159.106:9981/stream/channelid/429388324?ticket=1550201302CB7882525608EA19C188B487BE6746&profile=pass
-#EXTINF:0,Blaze+1
-#EXTVLCOPT:network-caching=1000
-http://185.138.159.106:9981/stream/channelid/563526575?ticket=3962B3142416B90721055F290561EB4F076062F3&profile=pass
-#EXTINF:0,TalkingPictures TV
-#EXTVLCOPT:network-caching=1000
-http://185.138.159.106:9981/stream/channelid/2056555537?ticket=2EE2F90465C95D59511FFD6FC7061B0A80C188A6&profile=pass
-#EXTINF:0,Together TV
-#EXTVLCOPT:network-caching=1000
-http://185.138.159.106:9981/stream/channelid/26340915?ticket=FAA9E4E4F8494C11F361441C412A8FA960AB1672&profile=pass
-#EXTINF:0,PBS America
-#EXTVLCOPT:network-caching=1000
-http://185.138.159.106:9981/stream/channelid/276434544?ticket=EEBB75F90817CD53E21A160CC3F7186313070A72&profile=pass
-#EXTINF:0,Create & Craft
-#EXTVLCOPT:network-caching=1000
-http://185.138.159.106:9981/stream/channelid/437285777?ticket=F95B3F8A7EF583D22AAA2F7CA0686C4F416F38C4&profile=pass
-#EXTINF:0,Together TV+1
-#EXTVLCOPT:network-caching=1000
-http://185.138.159.106:9981/stream/channelid/2076852299?ticket=9ACBE5BB9EA1E067EBDEA3CB5866A00D081FCDBA&profile=pass
-#EXTINF:0,WildEarth
-#EXTVLCOPT:network-caching=1000
-http://185.138.159.106:9981/stream/channelid/1620143156?ticket=6F41E9733B2C3FBAC7786178CB06ACC9E730C489&profile=pass
-#EXTINF:0,ITVBe+1
-#EXTVLCOPT:network-caching=1000
-http://185.138.159.106:9981/stream/channelid/717760069?ticket=837193BFCA83EF4E41092C5B78FAD212DB07385B&profile=pass
-#EXTINF:0,BBC ONE Sth HD
-#EXTVLCOPT:network-caching=1000
-http://185.138.159.106:9981/stream/channelid/1072821867?ticket=BD6532C0EC33CCE6B050A71AC862404439860A3B&profile=pass
-#EXTINF:0,BBC TWO HD
-#EXTVLCOPT:network-caching=1000
-http://185.138.159.106:9981/stream/channelid/1386134717?ticket=BD6A2A044C70EB6076C5B13135F203F125580282&profile=pass
-#EXTINF:0,ITV1 HD
-#EXTVLCOPT:network-caching=1000
-http://185.138.159.106:9981/stream/channelid/1649282143?ticket=0598669AD64C7CA195CF3CADBB1559032F7CC414&profile=pass
-#EXTINF:0,Channel 4 HD
-#EXTVLCOPT:network-caching=1000
-http://185.138.159.106:9981/stream/channelid/1604507182?ticket=C909CB687778005F67D1EDD2D527BD5B21B04B7F&profile=pass
-#EXTINF:0,Channel 5 HD
-#EXTVLCOPT:network-caching=1000
-http://185.138.159.106:9981/stream/channelid/1760691618?ticket=8C0D3A17759BB881A6C3F89791FC6161E157DC61&profile=pass
-#EXTINF:0,BBC FOUR HD
-#EXTVLCOPT:network-caching=1000
-http://185.138.159.106:9981/stream/channelid/572799544?ticket=4E090FC2DBC1A811F2BFFABC839935A9CCA56C7F&profile=pass
-#EXTINF:0,BBC THREE HD
-#EXTVLCOPT:network-caching=1000
-http://185.138.159.106:9981/stream/channelid/19114646?ticket=CC6855777922045892CC997DBD329005A911026B&profile=pass
-#EXTINF:0,CBBC
-#EXTVLCOPT:network-caching=1000
-http://185.138.159.106:9981/stream/channelid/1256000563?ticket=25F52D539A3F9C67FEB220314A860979B99E3D54&profile=pass
-#EXTINF:0,CBeebies
-#EXTVLCOPT:network-caching=1000
-http://185.138.159.106:9981/stream/channelid/1869443360?ticket=8422BDB87F747A22A42AAE95C57BA6D91A73E29D&profile=pass
-#EXTINF:0,CBBC HD
-#EXTVLCOPT:network-caching=1000
-http://185.138.159.106:9981/stream/channelid/1761770267?ticket=EEE1EB93D67F4190D0C7CEECC6BC178E88EB90AD&profile=pass
-#EXTINF:0,CITV
-#EXTVLCOPT:network-caching=1000
-http://185.138.159.106:9981/stream/channelid/217159556?ticket=4067572BBC44DD47C7C95A8378C943A05311EDEA&profile=pass
-#EXTINF:0,CBeebies HD
-#EXTVLCOPT:network-caching=1000
-http://185.138.159.106:9981/stream/channelid/454548712?ticket=4C9CC2A1C12193893BA31190DC1C060A2E5DA502&profile=pass
-#EXTINF:0,BBC NEWS
-#EXTVLCOPT:network-caching=1000
-http://185.138.159.106:9981/stream/channelid/1332622692?ticket=CAC5CB128009F52388866F6364325EC3E764F5F5&profile=pass
-#EXTINF:0,BBC Parliament
-#EXTVLCOPT:network-caching=1000
-http://185.138.159.106:9981/stream/channelid/1485392785?ticket=C21EDC7B819AA674E7F9FFC7039C811943BC1AB2&profile=pass
-#EXTINF:0,Sky News
-#EXTVLCOPT:network-caching=1000
-http://185.138.159.106:9981/stream/channelid/1922773169?ticket=F660996961116F28B3B615F1DF83D48153EBCA68&profile=pass
-#EXTINF:0,Al Jazeera Eng
-#EXTVLCOPT:network-caching=1000
-http://185.138.159.106:9981/stream/channelid/37471421?ticket=7AEFC9949FA426F6BAF8D7AF4D45C6FE345822A1&profile=pass
-#EXTINF:0,BBC Red Button
-#EXTVLCOPT:network-caching=1000
-http://185.138.159.106:9981/stream/channelid/325741829?ticket=88AD0609DD53003C6F170D7EB72A2FD9EC00E917&profile=pass
-#EXTINF:0,Together TV IP
-#EXTVLCOPT:network-caching=1000
-http://185.138.159.106:9981/stream/channelid/1205728236?ticket=F1703A8477BA1AFA6C350504F41065DC55542920&profile=pass
-#EXTINF:0,BBC RB 1
-#EXTVLCOPT:network-caching=1000
-http://185.138.159.106:9981/stream/channelid/2021786709?ticket=F5E41E3B15250754A0D98070AA042AC612982634&profile=pass
-#EXTINF:0,BBC Radio 1
-#EXTVLCOPT:network-caching=1000
-http://185.138.159.106:9981/stream/channelid/889701124?ticket=6135EAB7413C6FD2CED80BF38F1AE84C42B15024&profile=pass
-#EXTINF:0,BBC R1X
-#EXTVLCOPT:network-caching=1000
-http://185.138.159.106:9981/stream/channelid/38055446?ticket=7819426E84141B5C06A818EC2253104BA48CCCCB&profile=pass
-#EXTINF:0,BBC Radio 2
-#EXTVLCOPT:network-caching=1000
-http://185.138.159.106:9981/stream/channelid/809917389?ticket=152F7F8A93FB06038691CB8AA8ED3EF724799062&profile=pass
-#EXTINF:0,BBC Radio 3
-#EXTVLCOPT:network-caching=1000
-http://185.138.159.106:9981/stream/channelid/1576271087?ticket=4A17C594347BC1AA19417D4FD0643AAC73CE4320&profile=pass
-#EXTINF:0,BBC Radio 4
-#EXTVLCOPT:network-caching=1000
-http://185.138.159.106:9981/stream/channelid/1049313202?ticket=77767BE060CF118D650B11FF714E9D93C567258D&profile=pass
-#EXTINF:0,BBC R5L
-#EXTVLCOPT:network-caching=1000
-http://185.138.159.106:9981/stream/channelid/496008555?ticket=E3027FB8F4F5307DE280E437A41DAC5748D7F84A&profile=pass
-#EXTINF:0,BBC R5SX
-#EXTVLCOPT:network-caching=1000
-http://185.138.159.106:9981/stream/channelid/1652336925?ticket=CC11CA356D6D9D2D57D55B36CF146C37567101F7&profile=pass
-#EXTINF:0,BBC 6 Music
-#EXTVLCOPT:network-caching=1000
-http://185.138.159.106:9981/stream/channelid/739240884?ticket=9BF5008C7FD5619F8D4B2BCCF28C8DE4E1D290F3&profile=pass
-#EXTINF:0,BBC Radio 4 Ex
-#EXTVLCOPT:network-caching=1000
-http://185.138.159.106:9981/stream/channelid/1767618194?ticket=000DAD4D0F6EB73141616D85BFA69CC61BBA85A4&profile=pass
-#EXTINF:0,BBC Asian Net.
-#EXTVLCOPT:network-caching=1000
-http://185.138.159.106:9981/stream/channelid/1918288985?ticket=5484BBF1E6A3B55EAA748AEC8AF2DEEE46781890&profile=pass
-#EXTINF:0,BBC World Sv.
-#EXTVLCOPT:network-caching=1000
-http://185.138.159.106:9981/stream/channelid/1251118119?ticket=3E1D85875B45A726CEFE8530E0786A766FA4D5E9&profile=pass
-#EXTINF:0,Hits Radio
-#EXTVLCOPT:network-caching=1000
-http://185.138.159.106:9981/stream/channelid/1960939195?ticket=575C0C383D5D71F2180E6168302710008A5C040D&profile=pass
-#EXTINF:0,KISS FRESH
-#EXTVLCOPT:network-caching=1000
-http://185.138.159.106:9981/stream/channelid/1936726603?ticket=BEC7BBA9347F4346B734A608B632C4358C2D7DE2&profile=pass
-#EXTINF:0,KISS
-#EXTVLCOPT:network-caching=1000
-http://185.138.159.106:9981/stream/channelid/361805929?ticket=AD31DB4090BB3D42C1E8C7FD086A3626B1C325E6&profile=pass
-#EXTINF:0,KISSTORY
-#EXTVLCOPT:network-caching=1000
-http://185.138.159.106:9981/stream/channelid/274076041?ticket=1BE0F8C6D9F31BF8C0CBCBD062E8D81992513E5F&profile=pass
-#EXTINF:0,Magic
-#EXTVLCOPT:network-caching=1000
-http://185.138.159.106:9981/stream/channelid/1538370408?ticket=C05DF4C779E754797D35634DA442C53CC59FCBA7&profile=pass
-#EXTINF:0,Greatest Hits Radio
-#EXTVLCOPT:network-caching=1000
-http://185.138.159.106:9981/stream/channelid/1813824861?ticket=0C81C4FB36EB88BB020C6C874B7845C085677364&profile=pass
-#EXTINF:0,Kerrang!
-#EXTVLCOPT:network-caching=1000
-http://185.138.159.106:9981/stream/channelid/160918165?ticket=50074315363A55F96EDE3B06AA221D2955AFF42B&profile=pass
-#EXTINF:0,Smooth Radio
-#EXTVLCOPT:network-caching=1000
-http://185.138.159.106:9981/stream/channelid/427172883?ticket=652338E2C556B1C3D0057C42FC206B86A9176AF3&profile=pass
-#EXTINF:0,BBC Berkshire
-#EXTVLCOPT:network-caching=1000
-http://185.138.159.106:9981/stream/channelid/286602661?ticket=078DD5B5EA2EF57E4D93D0270929D76272B1C78E&profile=pass
-#EXTINF:0,BBC Three Counties
-#EXTVLCOPT:network-caching=1000
-http://185.138.159.106:9981/stream/channelid/328952781?ticket=C1608F25B223237AC91BB25C8836DFD9B683CAD2&profile=pass
-#EXTINF:0,BBC Wiltshire
-#EXTVLCOPT:network-caching=1000
-http://185.138.159.106:9981/stream/channelid/1790241639?ticket=6A24F30DBF1A5CE93ED4F809314B202343700228&profile=pass
-#EXTINF:0,BBC Oxford
-#EXTVLCOPT:network-caching=1000
-http://185.138.159.106:9981/stream/channelid/738985632?ticket=1EDC33E4FC24FF09961B848C4D5799C3E5084BF3&profile=pass
-#EXTINF:0,talkSPORT
-#EXTVLCOPT:network-caching=1000
-http://185.138.159.106:9981/stream/channelid/353789694?ticket=552F2A2D30D47B961B647741355D1F108C768C51&profile=pass
-#EXTINF:0,Capital
-#EXTVLCOPT:network-caching=1000
-http://185.138.159.106:9981/stream/channelid/632442727?ticket=C0E119E7E5297E7E805BB193DD70503F09BACF63&profile=pass
-#EXTINF:0,Premier Radio
-#EXTVLCOPT:network-caching=1000
-http://185.138.159.106:9981/stream/channelid/157131327?ticket=F1A5B7092A691E26929B709A8567A745C2E57DA6&profile=pass
-#EXTINF:0,Absolute Radio
-#EXTVLCOPT:network-caching=1000
-http://185.138.159.106:9981/stream/channelid/825755068?ticket=89056BE3255F7A976AE8D56D0E3B1B96864B4506&profile=pass
-#EXTINF:0,Heart
-#EXTVLCOPT:network-caching=1000
-http://185.138.159.106:9981/stream/channelid/1392589793?ticket=A3EE04DD5011568D3D68F1F49BF5064E37FFA525&profile=pass
-#EXTINF:0,RNIB Connect
-#EXTVLCOPT:network-caching=1000
-http://185.138.159.106:9981/stream/channelid/1227275255?ticket=A0FCC60BBA7959600AD122612C63D1DDF1D40F0E&profile=pass
-#EXTINF:0,Classic FM
-#EXTVLCOPT:network-caching=1000
-http://185.138.159.106:9981/stream/channelid/23631299?ticket=5B553493ADE9A930AFC4E0C5E0AABE3CDEC37437&profile=pass
-#EXTINF:0,LBC
-#EXTVLCOPT:network-caching=1000
-http://185.138.159.106:9981/stream/channelid/1101771414?ticket=B381E45C5B13A68C8E131B929679C47E0B3EF526&profile=pass
-#EXTINF:0,Trans World Radio
-#EXTVLCOPT:network-caching=1000
-http://185.138.159.106:9981/stream/channelid/1781374540?ticket=70A179589EBFCE645A113C75E2D2A86CEF98CC1F&profile=pass
-#EXTINF:0,BBC Gloucestershire
-#EXTVLCOPT:network-caching=1000
-http://185.138.159.106:9981/stream/channelid/207490199?ticket=2847E80B4DDDAD96392CF1BF38BA2486CC905734&profile=pass
-#EXTINF:0,GREAT! movies extra
-#EXTVLCOPT:network-caching=1000
-http://185.138.159.106:9981/stream/channelid/1979732514?ticket=8328721B255B554754F1D86CEB95BC4FA79174E0&profile=pass
+#EXTINF:-1 tvg-logo="http://154.61.152.141:9981/imagecache/81" tvg-id="d1ba2aaf45a05de4b6debeddef559f6f" tvg-chno="1",BBC ONE W Mid
+http://154.61.152.141:9981/stream/channelid/791329489?profile=pass
+#EXTINF:-1 tvg-logo="http://154.61.152.141:9981/imagecache/82" tvg-id="c0e8e0ea43d944c00bbb95aec109cdf1" tvg-chno="2",BBC TWO
+http://154.61.152.141:9981/stream/channelid/1793124544?profile=pass
+#EXTINF:-1 tvg-logo="http://154.61.152.141:9981/imagecache/28" tvg-id="9bc4938bf7b75f0681fe37fb8ad76fe2" tvg-chno="3",ITV1
+http://154.61.152.141:9981/stream/channelid/194233499?profile=pass
+#EXTINF:-1 tvg-logo="http://154.61.152.141:9981/imagecache/29" tvg-id="b62885513a43e1f330b92ae245b481b4" tvg-chno="4",Channel 4
+http://154.61.152.141:9981/stream/channelid/1367681206?profile=pass
+#EXTINF:-1 tvg-logo="http://154.61.152.141:9981/imagecache/30" tvg-id="570c9d84bd226051b5832909c25a3a7a" tvg-chno="5",Channel 5
+http://154.61.152.141:9981/stream/channelid/77401175?profile=pass
+#EXTINF:-1 tvg-logo="http://154.61.152.141:9981/imagecache/31" tvg-id="74d1a9a4b095c14e0556d54a54e1da97" tvg-chno="6",ITV2
+http://154.61.152.141:9981/stream/channelid/615108980?profile=pass
+#EXTINF:-1 tvg-logo="http://154.61.152.141:9981/imagecache/83" tvg-id="c8115f2705622d5edfc6d90af7a53a07" tvg-chno="9",BBC FOUR
+http://154.61.152.141:9981/stream/channelid/660541896?profile=pass
+#EXTINF:-1 tvg-logo="http://154.61.152.141:9981/imagecache/32" tvg-id="dbad69cb44a38e42d18509fb86ad8afa" tvg-chno="10",ITV3
+http://154.61.152.141:9981/stream/channelid/1265216987?profile=pass
+#EXTINF:-1 tvg-logo="http://154.61.152.141:9981/imagecache/13" tvg-id="50c2c400ad0dd1a9e6e6616f9c816532" tvg-chno="11",Sky Mix
+http://154.61.152.141:9981/stream/channelid/12894800?profile=pass
+#EXTINF:-1 tvg-logo="http://154.61.152.141:9981/imagecache/33" tvg-id="71561ea6ea73fd8e375da0f970935a88" tvg-chno="12",QUEST
+http://154.61.152.141:9981/stream/channelid/639522417?profile=pass
+#EXTINF:-1 tvg-logo="http://154.61.152.141:9981/imagecache/34" tvg-id="65def4600f3b761effafa5d695243add" tvg-chno="13",E4
+http://154.61.152.141:9981/stream/channelid/1626660453?profile=pass
+#EXTINF:-1 tvg-logo="http://154.61.152.141:9981/imagecache/35" tvg-id="9d8833b1afbc63c4d554ef9874e7b590" tvg-chno="14",Film4
+http://154.61.152.141:9981/stream/channelid/825460893?profile=pass
+#EXTINF:-1 tvg-logo="http://154.61.152.141:9981/imagecache/36" tvg-id="a87ffc95d6f5ba79f15d6f58aeb174a3" tvg-chno="15",Channel 4+1
+http://154.61.152.141:9981/stream/channelid/368869288?profile=pass
+#EXTINF:-1 tvg-logo="http://154.61.152.141:9981/imagecache/37" tvg-id="645cf02ba8769e8266fc8239f8cf043a" tvg-chno="16",QVC
+http://154.61.152.141:9981/stream/channelid/737172580?profile=pass
+#EXTINF:-1 tvg-logo="http://154.61.152.141:9981/imagecache/2" tvg-id="fe412485152b1fdbf40cd9572a965f20" tvg-chno="17",Really
+http://154.61.152.141:9981/stream/channelid/86262270?profile=pass
+#EXTINF:-1 tvg-logo="http://154.61.152.141:9981/imagecache/38" tvg-id="74ee2b181612ca7933489c3de252c1fc" tvg-chno="18",More 4
+http://154.61.152.141:9981/stream/channelid/405532276?profile=pass
+#EXTINF:-1 tvg-logo="http://154.61.152.141:9981/imagecache/8" tvg-id="33982955fbcdf4ded797704f7feaf231" tvg-chno="19",U&Dave
+http://154.61.152.141:9981/stream/channelid/1428789299?profile=pass
+#EXTINF:-1 tvg-logo="http://154.61.152.141:9981/imagecache/39" tvg-id="1fdcaa49b162f2cc27c89627f0ded727" tvg-chno="20",U&Drama
+http://154.61.152.141:9981/stream/channelid/1235934239?profile=pass
+#EXTINF:-1 tvg-logo="http://154.61.152.141:9981/imagecache/40" tvg-id="e7fdbc6b945c2216e9710a2f4a4f2a22" tvg-chno="21",5USA
+http://154.61.152.141:9981/stream/channelid/1807547879?profile=pass
+#EXTINF:-1 tvg-logo="http://154.61.152.141:9981/imagecache/41" tvg-id="80978e14cf777b781f8cf70a548cdc7f" tvg-chno="22",TJC
+http://154.61.152.141:9981/stream/channelid/344889216?profile=pass
+#EXTINF:-1 tvg-logo="http://154.61.152.141:9981/imagecache/84" tvg-id="8c51b8c8f4c0bd0245cca3bb87e76752" tvg-chno="23",BBC THREE
+http://154.61.152.141:9981/stream/channelid/1220039052?profile=pass
+#EXTINF:-1 tvg-logo="http://154.61.152.141:9981/imagecache/42" tvg-id="5285658bc7b01f8ad709a88749e65187" tvg-chno="25",U&W
+http://154.61.152.141:9981/stream/channelid/191202642?profile=pass
+#EXTINF:-1 tvg-logo="http://154.61.152.141:9981/imagecache/43" tvg-id="1295dbc98650ebb0b527f1ea19c5b821" tvg-chno="26",ITV4
+http://154.61.152.141:9981/stream/channelid/1239127314?profile=pass
+#EXTINF:-1 tvg-logo="http://154.61.152.141:9981/imagecache/44" tvg-id="419c3d76141ca6dd3d2aa085e9a81a4f" tvg-chno="27",U&Yesterday
+http://154.61.152.141:9981/stream/channelid/1983749185?profile=pass
+#EXTINF:-1 tvg-logo="http://154.61.152.141:9981/imagecache/45" tvg-id="93aeb600846ee355f1a011eb33fbcd29" tvg-chno="28",ITVBe
+http://154.61.152.141:9981/stream/channelid/11972243?profile=pass
+#EXTINF:-1 tvg-logo="http://154.61.152.141:9981/imagecache/46" tvg-id="b526f88bf80851ee73355f6668c63119" tvg-chno="29",ITV2+1
+http://154.61.152.141:9981/stream/channelid/200812213?profile=pass
+#EXTINF:-1 tvg-logo="http://154.61.152.141:9981/imagecache/47" tvg-id="f012a3a9de4065bbf7e4a0150b512da7" tvg-chno="30",E4+1
+http://154.61.152.141:9981/stream/channelid/698553072?profile=pass
+#EXTINF:-1 tvg-logo="http://154.61.152.141:9981/imagecache/20" tvg-id="a22c8932a75080e11caf9a33dc9412c6" tvg-chno="31",E4 Extra
+http://154.61.152.141:9981/stream/channelid/847850658?profile=pass
+#EXTINF:-1 tvg-logo="http://154.61.152.141:9981/imagecache/48" tvg-id="0a792c6a3064dc28e7de68000c6b8838" tvg-chno="32",5STAR
+http://154.61.152.141:9981/stream/channelid/1781299466?profile=pass
+#EXTINF:-1 tvg-logo="http://154.61.152.141:9981/imagecache/49" tvg-id="31d354ea5f2129a4b1de5453cf23ba45" tvg-chno="33",5ACTION
+http://154.61.152.141:9981/stream/channelid/1783943985?profile=pass
+#EXTINF:-1 tvg-logo="http://154.61.152.141:9981/imagecache/50" tvg-id="023dbf67807aa6a937c91c7e5075f2a6" tvg-chno="34",GREAT! movies
+http://154.61.152.141:9981/stream/channelid/1740586242?profile=pass
+#EXTINF:-1 tvg-logo="http://154.61.152.141:9981/imagecache/51" tvg-id="aaca91f34f3074e816ef349cf228efb8" tvg-chno="35",ITV1+1
+http://154.61.152.141:9981/stream/channelid/1938934442?profile=pass
+#EXTINF:-1 tvg-logo="http://154.61.152.141:9981/imagecache/23" tvg-id="003e0b43473ecd3f28d570f3f70ba373" tvg-chno="36",Sky Arts
+http://154.61.152.141:9981/stream/channelid/1124810240?profile=pass
+#EXTINF:-1 tvg-logo="http://154.61.152.141:9981/imagecache/52" tvg-id="3ef1cbc1cd4e1f777c406b9f64b362a9" tvg-chno="37",QVC2
+http://154.61.152.141:9981/stream/channelid/1103884606?profile=pass
+#EXTINF:-1 tvg-logo="http://154.61.152.141:9981/imagecache/53" tvg-id="9c7cc0a26ac1fafcf5d656809808ee98" tvg-chno="38",Channel 5+1
+http://154.61.152.141:9981/stream/channelid/583040156?profile=pass
+#EXTINF:-1 tvg-logo="http://154.61.152.141:9981/imagecache/54" tvg-id="767be3841c1e06003ead17bfb0b6a373" tvg-chno="39",DMAX
+http://154.61.152.141:9981/stream/channelid/82017142?profile=pass
+#EXTINF:-1 tvg-logo="http://154.61.152.141:9981/imagecache/10" tvg-id="085d6a709825ae9f867c6c4f9655d74c" tvg-chno="40",Quest Red
+http://154.61.152.141:9981/stream/channelid/1886018824?profile=pass
+#EXTINF:-1 tvg-logo="http://154.61.152.141:9981/imagecache/55" tvg-id="6ce4a0e59d4756713485bb504a2e2adb" tvg-chno="41",LEGEND
+http://154.61.152.141:9981/stream/channelid/1705043052?profile=pass
+#EXTINF:-1 tvg-logo="http://154.61.152.141:9981/imagecache/56" tvg-id="c125e1941fbe755a1c00fcac029054e1" tvg-chno="42",GREAT! action
+http://154.61.152.141:9981/stream/channelid/350299585?profile=pass
+#EXTINF:-1 tvg-logo="http://154.61.152.141:9981/imagecache/9" tvg-id="00b769e9db03c60bc2d4139269bab01e" tvg-chno="43",Food Network
+http://154.61.152.141:9981/stream/channelid/1768535808?profile=pass
+#EXTINF:-1 tvg-logo="http://154.61.152.141:9981/imagecache/57" tvg-id="1385385705d54c3d68bf62ee733c219d" tvg-chno="44",HGTV
+http://154.61.152.141:9981/stream/channelid/1463321875?profile=pass
+#EXTINF:-1 tvg-logo="http://154.61.152.141:9981/imagecache/15" tvg-id="84a6290c4ce2e979dfa1ee320d26db86" tvg-chno="45",Gems TV
+http://154.61.152.141:9981/stream/channelid/204056196?profile=pass
+#EXTINF:-1 tvg-logo="http://154.61.152.141:9981/imagecache/127" tvg-id="4064b7ea4032c591e2ec3bf0c58242b4" tvg-chno="46",5SELECT
+http://154.61.152.141:9981/stream/channelid/1790403648?profile=pass
+#EXTINF:-1 tvg-logo="http://154.61.152.141:9981/imagecache/22" tvg-id="32ce99bf543dc3c89cfd239f5a78bd24" tvg-chno="47",Film4+1
+http://154.61.152.141:9981/stream/channelid/1067044402?profile=pass
+#EXTINF:-1 tvg-logo="http://154.61.152.141:9981/imagecache/25" tvg-id="3cb2c11eba3e9a962efade692d2f52dd" tvg-chno="48",Challenge
+http://154.61.152.141:9981/stream/channelid/516010556?profile=pass
+#EXTINF:-1 tvg-logo="http://154.61.152.141:9981/imagecache/7" tvg-id="7d2bff3db9aef696236c9a518553f666" tvg-chno="49",4seven
+http://154.61.152.141:9981/stream/channelid/1040132989?profile=pass
+#EXTINF:-1 tvg-logo="http://154.61.152.141:9981/imagecache/58" tvg-id="74a764855df627a1e9f398e43c9d3919" tvg-chno="50",GREAT! tv
+http://154.61.152.141:9981/stream/channelid/90482548?profile=pass
+#EXTINF:-1 tvg-logo="http://154.61.152.141:9981/imagecache/105" tvg-id="38b6b5badd1f570bde1f9af4309f87d3" tvg-chno="51",Ideal World
+http://154.61.152.141:9981/stream/channelid/984987192?profile=pass
+#EXTINF:-1 tvg-logo="http://154.61.152.141:9981/imagecache/59" tvg-id="06d099df48620a4c3aa6bfc50299efa5" tvg-chno="52",GREAT! romance
+http://154.61.152.141:9981/stream/channelid/1603915782?profile=pass
+#EXTINF:-1 tvg-logo="http://154.61.152.141:9981/imagecache/60" tvg-id="99e7c336259a834905892647626a334f" tvg-chno="56",That's TV (UK)
+http://154.61.152.141:9981/stream/channelid/918808473?profile=pass
+#EXTINF:-1 tvg-logo="http://154.61.152.141:9981/imagecache/76" tvg-id="e9c87df819c4f9554839bed2023e22a8" tvg-chno="57",U&Eden
+http://154.61.152.141:9981/stream/channelid/2021509353?profile=pass
+#EXTINF:-1 tvg-logo="http://154.61.152.141:9981/imagecache/18" tvg-id="c31480e3d2fc2a6a8b30c3c811e7b91a" tvg-chno="60",U&Drama+1
+http://154.61.152.141:9981/stream/channelid/1669338307?profile=pass
+#EXTINF:-1 tvg-logo="http://154.61.152.141:9981/imagecache/61" tvg-id="29a47deca294a618ff1a8d79a2bd5d20" tvg-chno="64",Blaze
+http://154.61.152.141:9981/stream/channelid/1820173353?profile=pass
+#EXTINF:-1 tvg-logo="http://154.61.152.141:9981/imagecache/6" tvg-id="43a59a73a17f12a6aea5af8e0e0718d6" tvg-chno="65",That's TV 2
+http://154.61.152.141:9981/stream/channelid/1939514691?profile=pass
+#EXTINF:-1 tvg-logo="http://154.61.152.141:9981/imagecache/128" tvg-id="8e0d0050523054d36dd0968cf2a6f4e2" tvg-chno="66",TBN UK
+http://154.61.152.141:9981/stream/channelid/1342180750?profile=pass
+#EXTINF:-1 tvg-logo="http://154.61.152.141:9981/imagecache/62" tvg-id="c0057479c8f9b7598aa099a6ea5f25c8" tvg-chno="67",TRUE CRIME
+http://154.61.152.141:9981/stream/channelid/2037646784?profile=pass
+#EXTINF:-1 tvg-logo="http://154.61.152.141:9981/imagecache/63" tvg-id="e63017ea5f1547be939448f900c8f58a" tvg-chno="68",TRUE CRIME XTRA
+http://154.61.152.141:9981/stream/channelid/1779904742?profile=pass
+#EXTINF:-1 tvg-logo="http://154.61.152.141:9981/imagecache/1" tvg-id="bc47a02928546cf070abb9cf4b6667df" tvg-chno="70",QUEST+1
+http://154.61.152.141:9981/stream/channelid/698369980?profile=pass
+#EXTINF:-1 tvg-logo="http://154.61.152.141:9981/imagecache/64" tvg-id="a048ec198844b799e5e5269e7c51b961" tvg-chno="71",That's TV 3
+http://154.61.152.141:9981/stream/channelid/434915488?profile=pass
+#EXTINF:-1 tvg-logo="http://154.61.152.141:9981/imagecache/65" tvg-id="dd6b6a651eee60310c157ae582ac7f9e" tvg-chno="73",HobbyMaker
+http://154.61.152.141:9981/stream/channelid/1701473245?profile=pass
+#EXTINF:-1 tvg-logo="http://154.61.152.141:9981/imagecache/66" tvg-id="37af99a8281dab629b95dfa344c5a922" tvg-chno="74",U&DaveJaVu
+http://154.61.152.141:9981/stream/channelid/681160503?profile=pass
+#EXTINF:-1 tvg-logo="http://154.61.152.141:9981/imagecache/67" tvg-id="5492e1608512f898c2c094bd6577a317" tvg-chno="82",TalkingPictures TV
+http://154.61.152.141:9981/stream/channelid/1625395796?profile=pass
+#EXTINF:-1 tvg-logo="http://154.61.152.141:9981/imagecache/115" tvg-id="440ce2397e50df0a898f866fe47faa01" tvg-chno="83",Together TV
+http://154.61.152.141:9981/stream/channelid/971115588?profile=pass
+#EXTINF:-1 tvg-logo="http://154.61.152.141:9981/imagecache/116" tvg-id="3579267063c67b6dcb6eb22d142eb919" tvg-chno="84",PBS America
+http://154.61.152.141:9981/stream/channelid/1881569589?profile=pass
+#EXTINF:-1 tvg-logo="http://154.61.152.141:9981/imagecache/69" tvg-id="492febc5b41c9b56cc9ac079322ca3c8" tvg-chno="91",WildEarth
+http://154.61.152.141:9981/stream/channelid/1173040969?profile=pass
+#EXTINF:-1 tvg-logo="http://154.61.152.141:9981/imagecache/70" tvg-id="09068a3a6e263b0e92bbf9dcbe422b11" tvg-chno="95",Rewind TV
+http://154.61.152.141:9981/stream/channelid/982124041?profile=pass
+#EXTINF:-1 tvg-logo="http://154.61.152.141:9981/imagecache/4" tvg-id="84ec30809140a0a94663d0c73ac962b1" tvg-chno="96",SonLife
+http://154.61.152.141:9981/stream/channelid/3206276?profile=pass
+#EXTINF:-1 tvg-logo="http://154.61.152.141:9981/imagecache/77" tvg-id="18e87cb8690f13bfbef30f5fec530137" tvg-chno="101",BBC ONE WMidHD
+http://154.61.152.141:9981/stream/channelid/947709976?profile=pass
+#EXTINF:-1 tvg-logo="http://154.61.152.141:9981/imagecache/78" tvg-id="2a9805be0bbe877b3b206087202ef888" tvg-chno="102",BBC TWO HD
+http://154.61.152.141:9981/stream/channelid/1040554026?profile=pass
+#EXTINF:-1 tvg-logo="http://154.61.152.141:9981/imagecache/119" tvg-id="a669aa93db4d6fc4516104066706c381" tvg-chno="103",ITV1 HD
+http://154.61.152.141:9981/stream/channelid/329935270?profile=pass
+#EXTINF:-1 tvg-logo="http://154.61.152.141:9981/imagecache/120" tvg-id="233bed5a0e26999d5395a3f715636a98" tvg-chno="104",Channel 4 HD
+http://154.61.152.141:9981/stream/channelid/1525496611?profile=pass
+#EXTINF:-1 tvg-logo="http://154.61.152.141:9981/imagecache/79" tvg-id="44af15ed4a16add170347546418ac4fe" tvg-chno="105",Channel 5 HD
+http://154.61.152.141:9981/stream/channelid/1830137668?profile=pass
+#EXTINF:-1 tvg-logo="http://154.61.152.141:9981/imagecache/121" tvg-id="3c3b5356b678d389437d54560dd26c5d" tvg-chno="106",BBC FOUR HD
+http://154.61.152.141:9981/stream/channelid/1448295228?profile=pass
+#EXTINF:-1 tvg-logo="http://154.61.152.141:9981/imagecache/129" tvg-id="b5815563375dbd3beba4976ce672c169" tvg-chno="107",BBC THREE HD
+http://154.61.152.141:9981/stream/channelid/1666548149?profile=pass
+#EXTINF:-1 tvg-logo="http://154.61.152.141:9981/imagecache/122" tvg-id="bb4dba9f194796cf081514cfaad9e9fc" tvg-chno="203",CBBC HD
+http://154.61.152.141:9981/stream/channelid/532303291?profile=pass
+#EXTINF:-1 tvg-logo="http://154.61.152.141:9981/imagecache/85" tvg-id="39fe62ffd2c79b6949bec7e39a539253" tvg-chno="231",BBC NEWS
+http://154.61.152.141:9981/stream/channelid/2137194041?profile=pass
+#EXTINF:-1 tvg-logo="http://154.61.152.141:9981/imagecache/86" tvg-id="fea376edc9d61289aacf120dd149c997" tvg-chno="232",BBC Parliament
+http://154.61.152.141:9981/stream/channelid/1836491774?profile=pass
+#EXTINF:-1 tvg-logo="http://154.61.152.141:9981/imagecache/12" tvg-id="f971bd92f00ab015545943b02479ec66" tvg-chno="233",Sky News
+http://154.61.152.141:9981/stream/channelid/314405369?profile=pass
+#EXTINF:-1 tvg-logo="http://154.61.152.141:9981/imagecache/71" tvg-id="435136117632a9a41ea76240bca21238" tvg-chno="236",GB News
+http://154.61.152.141:9981/stream/channelid/288772419?profile=pass
+#EXTINF:-1 tvg-logo="http://154.61.152.141:9981/imagecache/87" tvg-id="66476c7785cb50660744a55c45ec10c0" tvg-chno="601",BBC RB 1
+http://154.61.152.141:9981/stream/channelid/2003584870?profile=pass
+#EXTINF:-1 tvg-logo="http://154.61.152.141:9981/imagecache/88" tvg-id="033be141a94434bb0e757439dd3a69d0" tvg-chno="700",BBC Radio 1
+http://154.61.152.141:9981/stream/channelid/1105279747?profile=pass
