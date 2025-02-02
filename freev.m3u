@@ -161,3 +161,59 @@ http://154.61.152.141:9981/stream/channelid/288772419?profile=pass
 http://154.61.152.141:9981/stream/channelid/2003584870?profile=pass
 #EXTINF:-1 tvg-logo="http://154.61.152.141:9981/imagecache/88" tvg-id="033be141a94434bb0e757439dd3a69d0" tvg-chno="700",BBC Radio 1
 http://154.61.152.141:9981/stream/channelid/1105279747?profile=pass
+#EXTINF:-1,UTV HD
+http://92.118.251.84:8080/UTV/index.m3u8
+#EXTINF:-1,film4
+http://92.118.251.84:8080/film4/index.m3u8
+#EXTINF:-1,CGTN
+http://92.118.251.84:8080/CGTN/index.m3u8
+#EXTINF:-1,FoodNetwork
+http://92.118.251.84:8080/FoodNetwork/index.m3u8
+#EXTINF:-1,HGTV
+http://92.118.251.84:8080/HGTV/index.m3u8
+#EXTINF:-1,itv2 HD
+http://92.118.251.84:8080/itv2/index.m3u8
+#EXTINF:-1,ten HD
+http://92.118.251.84:8080/ten/index.m3u8
+#EXTINF:-1,more4
+http://92.118.251.84:8080/more4/index.m3u8
+#EXTINF:-1,MTV
+http://92.118.251.84:8080/MTV/index.m3u8
+#EXTINF:-1,itv4
+http://92.118.251.84:8080/itv4/index.m3u8
+#EXTINF:-1,France24
+http://92.118.251.84:8080/France24/index.m3u8
+#EXTINF:-1,itvbe HD
+http://92.118.251.84:8080/itvbe/index.m3u8
+#EXTINF:-1,aljazeera HD
+http://92.118.251.84:8080/aljazeera/index.m3u8
+#EXTINF:-1,CNN HD
+http://92.118.251.84:8080/CNN/index.m3u8
+#EXTINF:-1,CBBC HD
+http://92.118.251.84:8080/CBBC/index.m3u8
+#EXTINF:-1,5usa
+http://92.118.251.84:8080/5usa/index.m3u8
+#EXTINF:-1,stv HD
+http://92.118.251.84:8080/stv/index.m3u8
+#EXTINF:-1,SkyArts
+http://92.118.251.84:8080/SkyArts/index.m3u8
+#EXTINF:-1,Antena3 HD
+http://92.118.251.84:8080/Antena3/index.m3u8
+#EXTINF:-1,POP
+http://92.118.251.84:8080/POP/index.m3u8
+#EXTINF:-1,ten HD
+http://92.118.251.84:8080/ten/index.m3u8
+#EXTINF:-1,stv HD
+http://92.118.251.84:8080/stv/index.m3u8
+#EXTINF:-1,syfy
+http://92.118.251.84:8080/syfy/index.m3u8
+#EXTINF:-1,cbsreality
+http://92.118.251.84:8080/cbsreality/index.m3u8
+#EXTINF:-1,cbsdrama
+http://92.118.251.84:8080/cbsdrama/index.m3u8
+#EXTINF:-1,Eurosport2 HD
+http://92.118.251.84:8080/Eurosport2/index.m3u8
+#EXTINF:-1,Eurosport1 HD
+http://92.118.251.84:8080/Eurosport1/index.m3u8
+#EXTINF:-1,4seven
+http://92.118.251.84:8080/4seven/index.m3u8
