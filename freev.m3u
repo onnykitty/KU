@@ -1,197 +1,129 @@
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/all.xml.gz"
-#EXTINF:-1,UTV HD
-http://92.118.251.84:8080/UTV/index.m3u8
-#EXTINF:-1,film4
-http://92.118.251.84:8080/film4/index.m3u8
-#EXTINF:-1,CGTN
-http://92.118.251.84:8080/CGTN/index.m3u8
-#EXTINF:-1,FoodNetwork
-http://92.118.251.84:8080/FoodNetwork/index.m3u8
-#EXTINF:-1,HGTV
-http://92.118.251.84:8080/HGTV/index.m3u8
-#EXTINF:-1,itv2 HD
-http://92.118.251.84:8080/itv2/index.m3u8
-#EXTINF:-1,ten HD
-http://92.118.251.84:8080/ten/index.m3u8
-#EXTINF:-1,more4
-http://92.118.251.84:8080/more4/index.m3u8
-#EXTINF:-1,MTV
-http://92.118.251.84:8080/MTV/index.m3u8
-#EXTINF:-1,itv4
-http://92.118.251.84:8080/itv4/index.m3u8
-#EXTINF:-1,France24
-http://92.118.251.84:8080/France24/index.m3u8
-#EXTINF:-1,itvbe HD
-http://92.118.251.84:8080/itvbe/index.m3u8
-#EXTINF:-1,aljazeera HD
-http://92.118.251.84:8080/aljazeera/index.m3u8
-#EXTINF:-1,CNN HD
-http://92.118.251.84:8080/CNN/index.m3u8
-#EXTINF:-1,CBBC HD
-http://92.118.251.84:8080/CBBC/index.m3u8
-#EXTINF:-1,5usa
-http://92.118.251.84:8080/5usa/index.m3u8
-#EXTINF:-1,stv HD
-http://92.118.251.84:8080/stv/index.m3u8
-#EXTINF:-1,SkyArts
-http://92.118.251.84:8080/SkyArts/index.m3u8
-#EXTINF:-1,Antena3 HD
-http://92.118.251.84:8080/Antena3/index.m3u8
-#EXTINF:-1,POP
-http://92.118.251.84:8080/POP/index.m3u8
-#EXTINF:-1,ten HD
-http://92.118.251.84:8080/ten/index.m3u8
-#EXTINF:-1,stv HD
-http://92.118.251.84:8080/stv/index.m3u8
-#EXTINF:-1,syfy
-http://92.118.251.84:8080/syfy/index.m3u8
-#EXTINF:-1,cbsreality
-http://92.118.251.84:8080/cbsreality/index.m3u8
-#EXTINF:-1,cbsdrama
-http://92.118.251.84:8080/cbsdrama/index.m3u8
-#EXTINF:-1,Eurosport2 HD
-http://92.118.251.84:8080/Eurosport2/index.m3u8
-#EXTINF:-1,Eurosport1 HD
-http://92.118.251.84:8080/Eurosport1/index.m3u8
-#EXTINF:-1,4seven
+#EXTINF:0,4Seven
 http://92.118.251.84:8080/4seven/index.m3u8
-#EXTINF:-1,İTV1 HD
-http://92.118.251.84:8080/UTV/index.m3u8
-#EXTINF:-1,İTV2 HD
-http://92.118.251.84:8080/itv2/index.m3u8
-#EXTINF:-1,İTV2 HD
-http://92.118.251.84:8080/itv3/index.m3u8
-#EXTINF:-1,İTV4 HD
-http://92.118.251.84:8080/itv4/index.m3u8
-#EXTINF:-1,TEN HD
-http://92.118.251.84:8080/ten/index.m3u8
-#EXTINF:-1,TLC HD
-http://92.118.251.84:8080/TLC/index.m3u8
-#EXTINF:-1,More4
-http://92.118.251.84:8080/more4/index.m3u8
-#EXTINF:-1,MTV
-http://92.118.251.84:8080/MTV/index.m3u8
-#EXTINF:-1,İtvbe HD
-http://92.118.251.84:8080/itvbe/index.m3u8
-#EXTINF:-1,5uUSA
-http://92.118.251.84:8080/5usa/index.m3u8
-#EXTINF:-1,5STAR
+#EXTINF:0,5STAR
 http://92.118.251.84:8080/5star/index.m3u8
-#EXTINF:-1,STV HD
-http://92.118.251.84:8080/stv/index.m3u8
-#EXTINF:-1,SkyArts
-http://92.118.251.84:8080/SkyArts/index.m3u8
-#EXTINF:-1,Antena3 HD
-http://92.118.251.84:8080/Antena3/index.m3u8
-#EXTINF:-1,POP
-http://92.118.251.84:8080/POP/index.m3u8
-#EXTINF:-1,TEN HD
-http://92.118.251.84:8080/ten/index.m3u8
-#EXTINF:-1,CGTN
-http://92.118.251.84:8080/CGTN/index.m3u8
-#EXTINF:-1,SYFY
-http://92.118.251.84:8080/syfy/index.m3u8
-#EXTINF:-1,CbsReality
-http://92.118.251.84:8080/cbsreality/index.m3u8
-#EXTINF:-1,True Crimaextra Dram
-http://92.118.251.84:8080/cbsdrama/index.m3u8
-#EXTINF:-1,Film4
-http://92.118.251.84:8080/film4/index.m3u8
-#EXTINF:-1,EuroSport 1 HD
-http://92.118.251.84:8080/Eurosport1/index.m3u8
-#EXTINF:-1,EuroSport 2 HD
-http://92.118.251.84:8080/Eurosport2/index.m3u8
-#EXTINF:-1,FoodNetwork
-http://92.118.251.84:8080/FoodNetwork/index.m3u8
-#EXTINF:-1,HGTV
-http://92.118.251.84:8080/HGTV/index.m3u8
-#EXTINF:-1,4Seven
-http://92.118.251.84:8080/4seven/index.m3u8
-#EXTINF:-1,E4
-http://92.118.251.84:8080/e4/index.m3u8
-#EXTINF:-1,Sky News
-http://92.118.251.84:8080/SkyNews/index.m3u8
-#EXTINF:-1,France24
-http://92.118.251.84:8080/France24/index.m3u8
-#EXTINF:-1,Aljazeera HD
+#EXTINF:0,5uUSA
+http://92.118.251.84:8080/5usa/index.m3u8
+#EXTINF:0,Aljazeera HD
 http://92.118.251.84:8080/aljazeera/index.m3u8
-#EXTINF:-1,CNN HD
-http://92.118.251.84:8080/CNN/index.m3u8
-#EXTINF:-1,CBBC HD
+#EXTINF:0,CBBC HD
 http://92.118.251.84:8080/CBBC/index.m3u8
-#EXTINF:-1,skycomedy HD
-http://141.94.27.210:8080/skycomedy/index.m3u8
-#EXTINF:-1,Bloomberg HD
-http://141.94.27.210:8080/Bloomberg/index.m3u8
-#EXTINF:-1,TNTsport3 HD
-http://141.94.27.210:8080/btsport3/index.m3u8
-#EXTINF:-1,questred
-http://141.94.27.210:8080/questred/index.m3u8
-#EXTINF:-1,film4 HD
-http://141.94.27.210:8080/film4/index.m3u8
-#EXTINF:-1,sky1 HD
-http://141.94.27.210:8080/sky1/index.m3u8
-#EXTINF:-1,sky2
-http://141.94.27.210:8080/sky2/index.m3u8
+#EXTINF:0,cbsdrama
+http://92.118.251.84:8080/cbsdrama/index.m3u8
+#EXTINF:0,CbsReality
+http://92.118.251.84:8080/cbsreality/index.m3u8
+#EXTINF:0,CGTN
+http://92.118.251.84:8080/CGTN/index.m3u8
+#EXTINF:0,CNN HD
+http://92.118.251.84:8080/CNN/index.m3u8
+#EXTINF:0,E4
+http://92.118.251.84:8080/e4/index.m3u8
+#EXTINF:0,EuroSport 1 HD
+http://92.118.251.84:8080/Eurosport1/index.m3u8
+#EXTINF:0,EuroSport 2 HD
+http://92.118.251.84:8080/Eurosport2/index.m3u8
+#EXTINF:0,Film4
+http://92.118.251.84:8080/film4/index.m3u8
+#EXTINF:0,FoodNetwork
+http://92.118.251.84:8080/FoodNetwork/index.m3u8
+#EXTINF:0,France24
+http://92.118.251.84:8080/France24/index.m3u8
+#EXTINF:0,HGTV
+http://92.118.251.84:8080/HGTV/index.m3u8
+#EXTINF:0,itv2 HD
+http://92.118.251.84:8080/itv2/index.m3u8
+#EXTINF:0,itv4
+http://92.118.251.84:8080/itv4/index.m3u8
+#EXTINF:0,itvbe HD
+http://92.118.251.84:8080/itvbe/index.m3u8
+#EXTINF:0,More4
+http://92.118.251.84:8080/more4/index.m3u8
+#EXTINF:0,MTV
+http://92.118.251.84:8080/MTV/index.m3u8
+#EXTINF:0,POP
+http://92.118.251.84:8080/POP/index.m3u8
+#EXTINF:0,SkyArts
+http://92.118.251.84:8080/SkyArts/index.m3u8
+#EXTINF:0,Sky News
+http://92.118.251.84:8080/SkyNews/index.m3u8
+#EXTINF:0,STV HD
+http://92.118.251.84:8080/stv/index.m3u8
+#EXTINF:0,SYFY
+http://92.118.251.84:8080/syfy/index.m3u8
+#EXTINF:0,TEN HD
+http://92.118.251.84:8080/ten/index.m3u8
+#EXTINF:0,TLC HD
+http://92.118.251.84:8080/TLC/index.m3u8
+#EXTINF:0,UTV HD
+http://92.118.251.84:8080/UTV/index.m3u8
+#EXTINF:-1,itv1 HD
+http://150.129.9.194:8089/6/index.m3u8?token=test
+#EXTINF:-1,5 channel HD
+http://150.129.9.194:8089/12/index.m3u8?token=test
+#EXTINF:-1,S4C HD
+http://150.129.9.194:8089/11/index.m3u8?token=test
 #EXTINF:-1,itv2 HD
-http://141.94.27.210:8080/itv2/index.m3u8
-#EXTINF:-1,more4 HD
-http://141.94.27.210:8080/more4/index.m3u8
-#EXTINF:-1,itv4 HD
-http://141.94.27.210:8080/itv4/index.m3u8
-#EXTINF:-1,alibi HD
-http://141.94.27.210:8080/alibi/index.m3u8
-#EXTINF:-1,showtime HD
-http://141.94.27.210:8080/showtime/index.m3u8
-#EXTINF:-1,mdrama HD
-http://141.94.27.210:8080/mdrama/index.m3u8
-#EXTINF:-1,TNTsport2hd HD
-http://141.94.27.210:8080/btsport2hd/index.m3u8
-#EXTINF:-1,TNTsport2 HD
-http://141.94.27.210:8080/btsport2/index.m3u8
-#EXTINF:-1,itvhd
-http://141.94.27.210:8080/itvhd/index.m3u8
-#EXTINF:-1,hbo_family HD
-http://141.94.27.210:8080/hbo_family/index.m3u8
-#EXTINF:-1,five
-http://141.94.27.210:8080/five/index.m3u8
-#EXTINF:-1,aljazeera HD
-http://141.94.27.210:8080/aljazeera/index.m3u8
-#EXTINF:-1,foodnetwork
-http://141.94.27.210:8080/foodnetwork/index.m3u8
-#EXTINF:-1,cc HD
-http://141.94.27.210:8080/cc/index.m3u8
-#EXTINF:-1,5usa
-http://141.94.27.210:8080/5usa/index.m3u8
-#EXTINF:-1,skynews
-http://141.94.27.210:8080/skynews/index.m3u8
-#EXTINF:-1,skyarts HD
-http://141.94.27.210:8080/skyarts/index.m3u8
-#EXTINF:-1,dmax
-http://141.94.27.210:8080/dmax/index.m3u8
-#EXTINF:-1,gold
-http://141.94.27.210:8080/gold/index.m3u8
-#EXTINF:-1,pop
-http://141.94.27.210:8080/pop/index.m3u8
-#EXTINF:-1,boomerang HD
-http://141.94.27.210:8080/boomerang/index.m3u8
-#EXTINF:-1,hbo2 HD
-http://141.94.27.210:8080/hbo2/index.m3u8
-#EXTINF:-1,syfy HD
-http://141.94.27.210:8080/syfy/index.m3u8
-#EXTINF:-1,babytv
-http://141.94.27.210:8080/babytv/index.m3u8
-#EXTINF:-1,drama
-http://141.94.27.210:8080/drama/index.m3u8
-#EXTINF:-1,tg4 HD
-http://141.94.27.210:8080/tg4/index.m3u8
-#EXTINF:-1,discovery HD
-http://141.94.27.210:8080/discovery/index.m3u8
-#EXTINF:-1,cn HD
-http://141.94.27.210:8080/cn/index.m3u8
-#EXTINF:-1,cbsdrama
-http://141.94.27.210:8080/cbsdrama/index.m3u8
-#EXTINF:-1,bbcnews
-http://141.94.27.210:8080/bbcnews/index.m3u8
-#EXTINF:-1,4seven
-http://141.94.27.210:8080/4seven/index.m3u8
+http://150.129.9.194:8089/23/index.m3u8?token=test
+#EXTINF:-1,itv3 HD
+http://150.129.9.194:8089/24/index.m3u8?token=test
+#EXTINF:-1,More HD
+http://150.129.9.194:8089/28/index.m3u8?token=test
+#EXTINF:-1,U&Dave HD
+http://150.129.9.194:8089/30/index.m3u8?token=test
+#EXTINF:-1,5STAR
+http://150.129.9.194:8089/31/index.m3u8?token=test
+#EXTINF:-1,5USA
+http://150.129.9.194:8089/32/index.m3u8?token=test
+#EXTINF:-1,U&GOLD
+http://150.129.9.194:8089/35/index.m3u8?token=test
+#EXTINF:-1,U&alibi HD
+http://150.129.9.194:8089/42/index.m3u8?token=test
+#EXTINF:-1,U&YESTERDAY
+http://150.129.9.194:8089/44/index.m3u8?token=test
+#EXTINF:-1,U&EDEN
+http://150.129.9.194:8089/45/index.m3u8?token=test
+#EXTINF:-1,LEGEND
+http://150.129.9.194:8089/47/index.m3u8?token=test
+#EXTINF:-1,TRUE CRIME
+http://150.129.9.194:8089/48/index.m3u8?token=test
+#EXTINF:-1,HGTV
+http://150.129.9.194:8089/50/index.m3u8?token=test
+#EXTINF:-1,food
+http://150.129.9.194:8089/51/index.m3u8?token=test
+#EXTINF:-1,QUEST HD
+http://150.129.9.194:8089/52/index.m3u8?token=test
+#EXTINF:-1,QUEST RED
+http://150.129.9.194:8089/53/index.m3u8?token=test
+#EXTINF:-1,5ACTION
+http://150.129.9.194:8089/54/index.m3u8?token=test
+#EXTINF:-1,U&DRAMA
+http://150.129.9.194:8089/61/index.m3u8?token=test
+#EXTINF:-1,Discovery HD
+http://150.129.9.194:8089/62/index.m3u8?token=test
+#EXTINF:-1,NAT GEO WILD HD
+http://150.129.9.194:8089/69/index.m3u8?token=test
+#EXTINF:-1,DMAX
+http://150.129.9.194:8089/72/index.m3u8?token=test
+#EXTINF:-1,ANIMAL PLANET
+http://150.129.9.194:8089/74/index.m3u8?token=test
+#EXTINF:-1,CNN HD
+http://150.129.9.194:8089/78/index.m3u8?token=test
+#EXTINF:-1,BBC HD
+http://150.129.9.194:8089/76/index.m3u8?token=test
+#EXTINF:-1,SKY NEWS HD
+http://150.129.9.194:8089/77/index.m3u8?token=test
+#EXTINF:-1,FRANCE 24 HD
+http://150.129.9.194:8089/79/index.m3u8?token=test
+#EXTINF:-1,CN HD
+http://150.129.9.194:8089/83/index.m3u8?token=test
+#EXTINF:-1,Boomerang HD
+http://150.129.9.194:8089/84/index.m3u8?token=test
+#EXTINF:-1,nickelodeon HD
+http://150.129.9.194:8089/85/index.m3u8?token=test
+#EXTINF:-1,nickjr HD
+http://150.129.9.194:8089/86/index.m3u8?token=test
+#EXTINF:-1,cartoonito
+http://150.129.9.194:8089/91/index.m3u8?token=test
+#EXTINF:-1,sky KIDS HD
+http://150.129.9.194:8089/95/index.m3u8?token=test
