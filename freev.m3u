@@ -3,15 +3,15 @@
 http://92.118.251.84:8080/4seven/index.m3u8
 #EXTINF:0,5STAR
 http://92.118.251.84:8080/5star/index.m3u8
-#EXTINF:0,5uUSA
+#EXTINF:0,5USA
 http://92.118.251.84:8080/5usa/index.m3u8
 #EXTINF:0,Aljazeera HD
 http://92.118.251.84:8080/aljazeera/index.m3u8
 #EXTINF:0,CBBC HD
 http://92.118.251.84:8080/CBBC/index.m3u8
-#EXTINF:0,cbsdrama
+#EXTINF:0,CBS Drama
 http://92.118.251.84:8080/cbsdrama/index.m3u8
-#EXTINF:0,CbsReality
+#EXTINF:0,CBS Reality
 http://92.118.251.84:8080/cbsreality/index.m3u8
 #EXTINF:0,CGTN
 http://92.118.251.84:8080/CGTN/index.m3u8
@@ -127,3 +127,4 @@ http://150.129.9.194:8089/86/index.m3u8?token=test
 http://150.129.9.194:8089/91/index.m3u8?token=test
 #EXTINF:-1,sky KIDS HD
 http://150.129.9.194:8089/95/index.m3u8?token=test
+
