@@ -156,7 +156,7 @@ http://150.129.9.194:8089/23/index.m3u8?token=test
 http://150.129.9.194:8089/24/index.m3u8?token=test
 http://150.129.9.194:8089/25/index.m3u8?token=test
 http://150.129.9.194:8089/26/index.m3u8?token=test
-#EXTINF:-1,E4
+#EXTINF:-1,E4 HD
 http://150.129.9.194:8089/27/index.m3u8?token=test
 http://150.129.9.194:8089/28/index.m3u8?token=test
 http://150.129.9.194:8089/29/index.m3u8?token=test
@@ -226,7 +226,7 @@ http://150.129.9.194:8089/91/index.m3u8?token=test
 http://150.129.9.194:8089/92/index.m3u8?token=test
 http://150.129.9.194:8089/93/index.m3u8?token=test
 http://150.129.9.194:8089/94/index.m3u8?token=test
-#EXTINF:-1,Sky Kids
+#EXTINF:-1,Sky Kids HD
 http://150.129.9.194:8089/95/index.m3u8?token=test
 http://150.129.9.194:8089/96/index.m3u8?token=test
 http://150.129.9.194:8089/97/index.m3u8?token=test
@@ -234,18 +234,18 @@ http://150.129.9.194:8089/98/index.m3u8?token=test
 http://150.129.9.194:8089/99/index.m3u8?token=test
 http://150.129.9.194:8089/100/index.m3u8?token=test
 http://150.129.9.194:8089/101/index.m3u8?token=test
-#EXTINF:-1,Sky Cinema Premiere
+#EXTINF:-1,Sky Cinema Premiere HD
 http://150.129.9.194:8089/102/index.m3u8?token=test
-#EXTINF:-1,Sky Cinema Drama
+#EXTINF:-1,Sky Cinema Drama HD
 http://150.129.9.194:8089/103/index.m3u8?token=test
-#EXTINF:-1,Sky Cinema Hits
+#EXTINF:-1,Sky Cinema Hits HD
 http://150.129.9.194:8089/104/index.m3u8?token=test
 http://150.129.9.194:8089/105/index.m3u8?token=test
-#EXTINF:-1,Sky Cinema Comedy
+#EXTINF:-1,Sky Cinema Comedy HD
 http://150.129.9.194:8089/106/index.m3u8?token=test
-#EXTINF:-1,Sky Cinema Animation
+#EXTINF:-1,Sky Cinema Animation HD
 http://150.129.9.194:8089/107/index.m3u8?token=test
-#EXTINF:-1,Sky Cinema Family
+#EXTINF:-1,Sky Cinema Family HD
 http://150.129.9.194:8089/108/index.m3u8?token=test
 http://150.129.9.194:8089/109/index.m3u8?token=test
 http://150.129.9.194:8089/110/index.m3u8?token=test
@@ -340,4 +340,3 @@ http://150.129.9.194:8089/187/index.m3u8?token=test
 http://150.129.9.194:8089/188/index.m3u8?token=test
 http://150.129.9.194:8089/189/index.m3u8?token=test
 http://150.129.9.194:8089/190/index.m3u8?token=test
-
