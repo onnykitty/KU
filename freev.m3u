@@ -296,15 +296,21 @@ http://150.129.9.194:8089/86/index.m3u8?token=test
 #EXTINF:-1,Nicktoons
 http://150.129.9.194:8089/87/index.m3u8?token=test
 http://150.129.9.194:8089/88/index.m3u8?token=test
+#EXTINF:-1,CBeebies HD
 http://150.129.9.194:8089/89/index.m3u8?token=test
+#EXTINF:-1,BabyTV
 http://150.129.9.194:8089/90/index.m3u8?token=test
+#EXTINF:-1,Cartoonito
 http://150.129.9.194:8089/91/index.m3u8?token=test
+#EXTINF:-1,Pop
 http://150.129.9.194:8089/92/index.m3u8?token=test
 http://150.129.9.194:8089/93/index.m3u8?token=test
 http://150.129.9.194:8089/94/index.m3u8?token=test
 #EXTINF:-1,Sky Kids HD
 http://150.129.9.194:8089/95/index.m3u8?token=test
+#EXTINF:-1,Cartoonito
 http://150.129.9.194:8089/96/index.m3u8?token=test
+#EXTINF:-1,BBC One HD
 http://150.129.9.194:8089/97/index.m3u8?token=test
 http://150.129.9.194:8089/98/index.m3u8?token=test
 http://150.129.9.194:8089/99/index.m3u8?token=test
@@ -316,6 +322,7 @@ http://150.129.9.194:8089/102/index.m3u8?token=test
 http://150.129.9.194:8089/103/index.m3u8?token=test
 #EXTINF:-1,Sky Cinema Hits HD
 http://150.129.9.194:8089/104/index.m3u8?token=test
+#EXTINF:-1,Sky Cinema Action HD
 http://150.129.9.194:8089/105/index.m3u8?token=test
 #EXTINF:-1,Sky Cinema Comedy HD
 http://150.129.9.194:8089/106/index.m3u8?token=test
@@ -323,56 +330,96 @@ http://150.129.9.194:8089/106/index.m3u8?token=test
 http://150.129.9.194:8089/107/index.m3u8?token=test
 #EXTINF:-1,Sky Cinema Family HD
 http://150.129.9.194:8089/108/index.m3u8?token=test
+#EXTINF:-1,Sky Cinema Greats HD
 http://150.129.9.194:8089/109/index.m3u8?token=test
+#EXTINF:-1,Sky Cinema Sci Fi Horror HD
 http://150.129.9.194:8089/110/index.m3u8?token=test
+#EXTINF:-1,Sky Cinema Select HD
 http://150.129.9.194:8089/111/index.m3u8?token=test
+#EXTINF:-1,Sky Cinema Thriller HD
 http://150.129.9.194:8089/112/index.m3u8?token=test
+#EXTINF:-1,Film4 HD
 http://150.129.9.194:8089/113/index.m3u8?token=test
 http://150.129.9.194:8089/114/index.m3u8?token=test
+#EXTINF:-1,Sky Sports Main Event UHD
 http://150.129.9.194:8089/115/index.m3u8?token=test
+#EXTINF:-1,Sky Sports Main Event HD
 http://150.129.9.194:8089/116/index.m3u8?token=test
+#EXTINF:-1,Sky Sports Main Event SD
 http://150.129.9.194:8089/117/index.m3u8?token=test
+#EXTINF:-1,Sky Sports Premier League HD
 http://150.129.9.194:8089/118/index.m3u8?token=test
+#EXTINF:-1,Sky Sports Premier League UHD
 http://150.129.9.194:8089/119/index.m3u8?token=test
+#EXTINF:-1,Sky Sports Premier League SD
 http://150.129.9.194:8089/120/index.m3u8?token=test
+#EXTINF:-1,Sky Sports Football HD
 http://150.129.9.194:8089/121/index.m3u8?token=test
+#EXTINF:-1,Sky Sports Football UHD
 http://150.129.9.194:8089/122/index.m3u8?token=test
+#EXTINF:-1,Sky Sports Football SD
 http://150.129.9.194:8089/123/index.m3u8?token=test
+#EXTINF:-1,Sky Sports Cricket UHD
 http://150.129.9.194:8089/124/index.m3u8?token=test
+#EXTINF:-1,Sky Sports Cricket SD
 http://150.129.9.194:8089/125/index.m3u8?token=test
+#EXTINF:-1,Sky Sports Action UHD
 http://150.129.9.194:8089/126/index.m3u8?token=test
+#EXTINF:-1,Sky Sports Action SD
 http://150.129.9.194:8089/127/index.m3u8?token=test
+#EXTINF:-1,Sky Sports + UHD
 http://150.129.9.194:8089/128/index.m3u8?token=test
+#EXTINF:-1,Sky Sports + SD
 http://150.129.9.194:8089/129/index.m3u8?token=test
+#EXTINF:-1,Sky Sports Golf UHD
 http://150.129.9.194:8089/130/index.m3u8?token=test
+#EXTINF:-1,Sky Sports Golf SD
 http://150.129.9.194:8089/131/index.m3u8?token=test
+#EXTINF:-1,Sky Sports F1 HD
 http://150.129.9.194:8089/132/index.m3u8?token=test
+#EXTINF:-1,Sky Sports F1 UHD
 http://150.129.9.194:8089/133/index.m3u8?token=test
+#EXTINF:-1,Sky Sports F1 SD
 http://150.129.9.194:8089/134/index.m3u8?token=test
+#EXTINF:-1,Sky Sports Mix HD
 http://150.129.9.194:8089/135/index.m3u8?token=test
 http://150.129.9.194:8089/136/index.m3u8?token=test
+#EXTINF:-1,Sky Sports News UHD
 http://150.129.9.194:8089/137/index.m3u8?token=test
 http://150.129.9.194:8089/138/index.m3u8?token=test
+#EXTINF:-1,TNT Sports 1 UHD
 http://150.129.9.194:8089/139/index.m3u8?token=test
+#EXTINF:-1,TNT Sports 1 SD
 http://150.129.9.194:8089/140/index.m3u8?token=test
+#EXTINF:-1,TNT Sports 1 HD
 http://150.129.9.194:8089/141/index.m3u8?token=test
+#EXTINF:-1,TNT Sports 1 SD
 http://150.129.9.194:8089/142/index.m3u8?token=test
+#EXTINF:-1,TNT Sports 3 UHD
 http://150.129.9.194:8089/143/index.m3u8?token=test
+#EXTINF:-1,TNT Sports 3 SD
 http://150.129.9.194:8089/144/index.m3u8?token=test
+#EXTINF:-1,TNT Sports 4 UHD
 http://150.129.9.194:8089/145/index.m3u8?token=test
+#EXTINF:-1,TNT Sports 4 SD
 http://150.129.9.194:8089/146/index.m3u8?token=test
 http://150.129.9.194:8089/147/index.m3u8?token=test
 http://150.129.9.194:8089/148/index.m3u8?token=test
 http://150.129.9.194:8089/149/index.m3u8?token=test
 http://150.129.9.194:8089/150/index.m3u8?token=test
 http://150.129.9.194:8089/151/index.m3u8?token=test
+#EXTINF:-1,Sky Sports Racing HD
 http://150.129.9.194:8089/152/index.m3u8?token=test
 http://150.129.9.194:8089/153/index.m3u8?token=test
+#EXTINF:-1,Premier Sports 1 UHD
 http://150.129.9.194:8089/154/index.m3u8?token=test
 http://150.129.9.194:8089/155/index.m3u8?token=test
+#EXTINF:-1,Premier Sports 2 UHD
 http://150.129.9.194:8089/156/index.m3u8?token=test
 http://150.129.9.194:8089/157/index.m3u8?token=test
+#EXTINF:-1,MUTV UHD
 http://150.129.9.194:8089/158/index.m3u8?token=test
+#EXTINF:-1,LFC TV UHD
 http://150.129.9.194:8089/159/index.m3u8?token=test
 #EXTINF:-1,Event 1
 http://150.129.9.194:8089/160/index.m3u8?token=test
@@ -416,6 +463,7 @@ http://150.129.9.194:8089/187/index.m3u8?token=test
 http://150.129.9.194:8089/188/index.m3u8?token=test
 http://150.129.9.194:8089/189/index.m3u8?token=test
 http://150.129.9.194:8089/190/index.m3u8?token=test
+
 
 
 
