@@ -153,62 +153,104 @@ http://150.129.9.194:8089/11/index.m3u8?token=test
 http://150.129.9.194:8089/12/index.m3u8?token=test
 #EXTINF:-1,5 SD
 http://150.129.9.194:8089/13/index.m3u8?token=test
-#EXTINF:-1,Sky Comedy
+#EXTINF:-1,Sky Comedy HD
 http://150.129.9.194:8089/14/index.m3u8?token=test
+#EXTINF:-1,Sky Crime HD
 http://150.129.9.194:8089/15/index.m3u8?token=test
+#EXTINF:-1,Sky Max HD
 http://150.129.9.194:8089/16/index.m3u8?token=test
-#EXTINF:-1,Sky Showcase
+#EXTINF:-1,Sky Showcase HD
 http://150.129.9.194:8089/17/index.m3u8?token=test
-#EXTINF:-1,Sky Atlantic
+#EXTINF:-1,Sky Atlantic HD
 http://150.129.9.194:8089/18/index.m3u8?token=test
 http://150.129.9.194:8089/19/index.m3u8?token=test
+#EXTINF:-1,Sky Arts HD
 http://150.129.9.194:8089/20/index.m3u8?token=test
 http://150.129.9.194:8089/21/index.m3u8?token=test
+#EXTINF:-1,Sky Witness
 http://150.129.9.194:8089/22/index.m3u8?token=test
+#EXTINF:-1,ITV2 HD
 http://150.129.9.194:8089/23/index.m3u8?token=test
+#EXTINF:-1,ITV3 HD
 http://150.129.9.194:8089/24/index.m3u8?token=test
+#EXTINF:-1,ITV4 HD
 http://150.129.9.194:8089/25/index.m3u8?token=test
+#EXTINF:-1,ITV Quiz HD
 http://150.129.9.194:8089/26/index.m3u8?token=test
 #EXTINF:-1,E4 HD
 http://150.129.9.194:8089/27/index.m3u8?token=test
+#EXTINF:-1,More4 HD
 http://150.129.9.194:8089/28/index.m3u8?token=test
+#EXTINF:-1,4seven SD
 http://150.129.9.194:8089/29/index.m3u8?token=test
+#EXTINF:-1,U&Dave HD
 http://150.129.9.194:8089/30/index.m3u8?token=test
+#EXTINF:-1,5Star
 http://150.129.9.194:8089/31/index.m3u8?token=test
+#EXTINF:-1,5USA
 http://150.129.9.194:8089/32/index.m3u8?token=test
+#EXTINF:-1,5Select
 http://150.129.9.194:8089/33/index.m3u8?token=test
+#EXTINF:-1,CBeebies HD
 http://150.129.9.194:8089/34/index.m3u8?token=test
+#EXTINF:-1,U&Gold SD
 http://150.129.9.194:8089/35/index.m3u8?token=test
+#EXTINF:-1,Comedy Central HD
 http://150.129.9.194:8089/36/index.m3u8?token=test
+#EXTINF:-1,TLC
 http://150.129.9.194:8089/37/index.m3u8?token=test
 http://150.129.9.194:8089/38/index.m3u8?token=test
 http://150.129.9.194:8089/39/index.m3u8?token=test
+#EXTINF:-1,MTV HD
 http://150.129.9.194:8089/40/index.m3u8?token=test
+#EXTINF:-1,Sky Sci-Fi HD
 http://150.129.9.194:8089/41/index.m3u8?token=test
+#EXTINF:-1,U&Alibi HD
 http://150.129.9.194:8089/42/index.m3u8?token=test
 http://150.129.9.194:8089/43/index.m3u8?token=test
+#EXTINF:-1,U&Yesterday SD
 http://150.129.9.194:8089/44/index.m3u8?token=test
+#EXTINF:-1,U&Eden SD
 http://150.129.9.194:8089/45/index.m3u8?token=test
+#EXTINF:-1,U&W SD
 http://150.129.9.194:8089/46/index.m3u8?token=test
+#EXTINF:-1,Legend
 http://150.129.9.194:8089/47/index.m3u8?token=test
+#EXTINF:-1,True Crime Xtra
 http://150.129.9.194:8089/48/index.m3u8?token=test
+#EXTINF:-1,True Crime
 http://150.129.9.194:8089/49/index.m3u8?token=test
+#EXTINF:-1,HGTV+1
 http://150.129.9.194:8089/50/index.m3u8?token=test
+#EXTINF:-1,Food Network
 http://150.129.9.194:8089/51/index.m3u8?token=test
+#EXTINF:-1,Quest HD
 http://150.129.9.194:8089/52/index.m3u8?token=test
+#EXTINF:-1,Quest Red+1
 http://150.129.9.194:8089/53/index.m3u8?token=test
+#EXTINF:-1,5Action
 http://150.129.9.194:8089/54/index.m3u8?token=test
+#EXTINF:-1,Really
 http://150.129.9.194:8089/55/index.m3u8?token=test
 #EXTINF:-1,Challenge
 http://150.129.9.194:8089/56/index.m3u8?token=test
+#EXTINF:-1,Blaze
 http://150.129.9.194:8089/57/index.m3u8?token=test
+#EXTINF:-1,HGTV+1
 http://150.129.9.194:8089/58/index.m3u8?token=test
+#EXTINF:-1,HGTV
 http://150.129.9.194:8089/59/index.m3u8?token=test
+#EXTINF:-1,GREAT! TV
 http://150.129.9.194:8089/60/index.m3u8?token=test
+#EXTINF:-1,U&Drama SD
 http://150.129.9.194:8089/61/index.m3u8?token=test
+#EXTINF:-1,Discovery HD
 http://150.129.9.194:8089/62/index.m3u8?token=test
+#EXTINF:-1,Sky Documentaries HD
 http://150.129.9.194:8089/63/index.m3u8?token=test
+#EXTINF:-1,Sky Nature HD
 http://150.129.9.194:8089/64/index.m3u8?token=test
+#EXTINF:-1,Discovery History
 http://150.129.9.194:8089/65/index.m3u8?token=test
 http://150.129.9.194:8089/66/index.m3u8?token=test
 http://150.129.9.194:8089/67/index.m3u8?token=test
@@ -353,5 +395,6 @@ http://150.129.9.194:8089/187/index.m3u8?token=test
 http://150.129.9.194:8089/188/index.m3u8?token=test
 http://150.129.9.194:8089/189/index.m3u8?token=test
 http://150.129.9.194:8089/190/index.m3u8?token=test
+
 
 
