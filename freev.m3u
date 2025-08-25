@@ -252,27 +252,48 @@ http://150.129.9.194:8089/63/index.m3u8?token=test
 http://150.129.9.194:8089/64/index.m3u8?token=test
 #EXTINF:-1,Discovery History
 http://150.129.9.194:8089/65/index.m3u8?token=test
+#EXTINF:-1,Discovery Science
 http://150.129.9.194:8089/66/index.m3u8?token=test
+#EXTINF:-1,Discovery Turbo
 http://150.129.9.194:8089/67/index.m3u8?token=test
+#EXTINF:-1,National Geographic HD
 http://150.129.9.194:8089/68/index.m3u8?token=test
+#EXTINF:-1,Nat Geo Wild HD
 http://150.129.9.194:8089/69/index.m3u8?token=test
+#EXTINF:-1,Sky History HD
 http://150.129.9.194:8089/70/index.m3u8?token=test
+#EXTINF:-1,Sky History 2 SD
 http://150.129.9.194:8089/71/index.m3u8?token=test
+#EXTINF:-1,DMAX
 http://150.129.9.194:8089/72/index.m3u8?token=test
+#EXTINF:-1,Investigation Discovery
 http://150.129.9.194:8089/73/index.m3u8?token=test
+#EXTINF:-1,Animal Planet SD
 http://150.129.9.194:8089/74/index.m3u8?token=test
 http://150.129.9.194:8089/75/index.m3u8?token=test
+#EXTINF:-1,BBC News HD
 http://150.129.9.194:8089/76/index.m3u8?token=test
+#EXTINF:-1,Sky News HD
 http://150.129.9.194:8089/77/index.m3u8?token=test
+#EXTINF:-1,CNN International HD
 http://150.129.9.194:8089/78/index.m3u8?token=test
+#EXTINF:-1,France 24 HD
 http://150.129.9.194:8089/79/index.m3u8?token=test
+#EXTINF:-1,Bloomberg HD
 http://150.129.9.194:8089/80/index.m3u8?token=test
+#EXTINF:-1,Al Jazeera English HD
 http://150.129.9.194:8089/81/index.m3u8?token=test
+#EXTINF:-1,Talk HD
 http://150.129.9.194:8089/82/index.m3u8?token=test
+#EXTINF:-1,Cartoon Network HD
 http://150.129.9.194:8089/83/index.m3u8?token=test
+#EXTINF:-1,Boomerang HD
 http://150.129.9.194:8089/84/index.m3u8?token=test
+#EXTINF:-1,Nickelodeon HD
 http://150.129.9.194:8089/85/index.m3u8?token=test
+#EXTINF:-1,Nick Jr. HD
 http://150.129.9.194:8089/86/index.m3u8?token=test
+#EXTINF:-1,Nicktoons
 http://150.129.9.194:8089/87/index.m3u8?token=test
 http://150.129.9.194:8089/88/index.m3u8?token=test
 http://150.129.9.194:8089/89/index.m3u8?token=test
@@ -395,6 +416,7 @@ http://150.129.9.194:8089/187/index.m3u8?token=test
 http://150.129.9.194:8089/188/index.m3u8?token=test
 http://150.129.9.194:8089/189/index.m3u8?token=test
 http://150.129.9.194:8089/190/index.m3u8?token=test
+
 
 
 
