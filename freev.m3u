@@ -145,14 +145,21 @@ http://150.129.9.194:8089/7/index.m3u8?token=test
 http://150.129.9.194:8089/8/index.m3u8?token=test
 #EXTINF:-1,Channel 4 HD
 http://150.129.9.194:8089/9/index.m3u8?token=test
+#EXTINF:-1,Channel 4 SD
 http://150.129.9.194:8089/10/index.m3u8?token=test
+#EXTINF:-1,S4C HD
 http://150.129.9.194:8089/11/index.m3u8?token=test
+#EXTINF:-1,5 HD
 http://150.129.9.194:8089/12/index.m3u8?token=test
+#EXTINF:-1,5 SD
 http://150.129.9.194:8089/13/index.m3u8?token=test
+#EXTINF:-1,Sky Comedy
 http://150.129.9.194:8089/14/index.m3u8?token=test
 http://150.129.9.194:8089/15/index.m3u8?token=test
 http://150.129.9.194:8089/16/index.m3u8?token=test
+#EXTINF:-1,Sky Showcase
 http://150.129.9.194:8089/17/index.m3u8?token=test
+#EXTINF:-1,Sky Atlantic
 http://150.129.9.194:8089/18/index.m3u8?token=test
 http://150.129.9.194:8089/19/index.m3u8?token=test
 http://150.129.9.194:8089/20/index.m3u8?token=test
@@ -304,17 +311,17 @@ http://150.129.9.194:8089/156/index.m3u8?token=test
 http://150.129.9.194:8089/157/index.m3u8?token=test
 http://150.129.9.194:8089/158/index.m3u8?token=test
 http://150.129.9.194:8089/159/index.m3u8?token=test
-#EXTINF:-1,event one
+#EXTINF:-1,Event 1
 http://150.129.9.194:8089/160/index.m3u8?token=test
-#EXTINF:-1,event two
+#EXTINF:-1,Event 2
 http://150.129.9.194:8089/161/index.m3u8?token=test
-#EXTINF:-1,event three
+#EXTINF:-1,Event 3
 http://150.129.9.194:8089/162/index.m3u8?token=test
-#EXTINF:-1,event four
+#EXTINF:-1,Event 4
 http://150.129.9.194:8089/163/index.m3u8?token=test
-#EXTINF:-1,event five
+#EXTINF:-1,Event 5
 http://150.129.9.194:8089/164/index.m3u8?token=test
-#EXTINF:-1,event 6
+#EXTINF:-1,Event 6
 http://150.129.9.194:8089/165/index.m3u8?token=test
 http://150.129.9.194:8089/166/index.m3u8?token=test
 http://150.129.9.194:8089/167/index.m3u8?token=test
@@ -323,18 +330,18 @@ http://150.129.9.194:8089/169/index.m3u8?token=test
 http://150.129.9.194:8089/170/index.m3u8?token=test
 http://150.129.9.194:8089/171/index.m3u8?token=test
 http://150.129.9.194:8089/172/index.m3u8?token=test
-#EXTINF:-1,event 11
+#EXTINF:-1,Event 11
 http://150.129.9.194:8089/173/index.m3u8?token=test
 http://150.129.9.194:8089/174/index.m3u8?token=test
-#EXTINF:-1,event 13
+#EXTINF:-1,Event 13
 http://150.129.9.194:8089/175/index.m3u8?token=test
-#EXTINF:-1,event 14
+#EXTINF:-1,Event 14
 http://150.129.9.194:8089/176/index.m3u8?token=test
 http://150.129.9.194:8089/177/index.m3u8?token=test
-#EXTINF:-1,event 16
+#EXTINF:-1,Event 16
 http://150.129.9.194:8089/178/index.m3u8?token=test
 http://150.129.9.194:8089/179/index.m3u8?token=test
-#EXTINF:-1,event 18
+#EXTINF:-1,Event 18
 http://150.129.9.194:8089/180/index.m3u8?token=test
 http://150.129.9.194:8089/181/index.m3u8?token=test
 http://150.129.9.194:8089/182/index.m3u8?token=test
@@ -346,4 +353,5 @@ http://150.129.9.194:8089/187/index.m3u8?token=test
 http://150.129.9.194:8089/188/index.m3u8?token=test
 http://150.129.9.194:8089/189/index.m3u8?token=test
 http://150.129.9.194:8089/190/index.m3u8?token=test
+
 
