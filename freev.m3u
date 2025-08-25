@@ -455,6 +455,7 @@ http://150.129.9.194:8089/178/index.m3u8?token=test
 http://150.129.9.194:8089/179/index.m3u8?token=test
 #EXTINF:-1,Event 18
 http://150.129.9.194:8089/180/index.m3u8?token=test
+#EXTINF:-1,Event 19
 http://150.129.9.194:8089/181/index.m3u8?token=test
 http://150.129.9.194:8089/182/index.m3u8?token=test
 http://150.129.9.194:8089/183/index.m3u8?token=test
@@ -468,4 +469,6 @@ http://150.129.9.194:8089/187/index.m3u8?token=test
 http://150.129.9.194:8089/188/index.m3u8?token=test
 #EXTINF:-1,TNT Sports 1 UHD
 http://150.129.9.194:8089/189/index.m3u8?token=test
+#EXTINF:-1,PDC TV UHD
 http://150.129.9.194:8089/190/index.m3u8?token=test
+
