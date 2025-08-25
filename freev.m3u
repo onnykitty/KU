@@ -438,6 +438,7 @@ http://150.129.9.194:8089/167/index.m3u8?token=test
 http://150.129.9.194:8089/168/index.m3u8?token=test
 http://150.129.9.194:8089/169/index.m3u8?token=test
 http://150.129.9.194:8089/170/index.m3u8?token=test
+#EXTINF:-1,Sky Sports Tennis UHD
 http://150.129.9.194:8089/171/index.m3u8?token=test
 http://150.129.9.194:8089/172/index.m3u8?token=test
 #EXTINF:-1,Event 11
@@ -450,21 +451,21 @@ http://150.129.9.194:8089/176/index.m3u8?token=test
 http://150.129.9.194:8089/177/index.m3u8?token=test
 #EXTINF:-1,Event 16
 http://150.129.9.194:8089/178/index.m3u8?token=test
+#EXTINF:-1,Event 17
 http://150.129.9.194:8089/179/index.m3u8?token=test
 #EXTINF:-1,Event 18
 http://150.129.9.194:8089/180/index.m3u8?token=test
 http://150.129.9.194:8089/181/index.m3u8?token=test
 http://150.129.9.194:8089/182/index.m3u8?token=test
 http://150.129.9.194:8089/183/index.m3u8?token=test
+#EXTINF:-1,GB News HD
 http://150.129.9.194:8089/184/index.m3u8?token=test
 http://150.129.9.194:8089/185/index.m3u8?token=test
 http://150.129.9.194:8089/186/index.m3u8?token=test
+#EXTINF:-1,Euronews
 http://150.129.9.194:8089/187/index.m3u8?token=test
+#EXTINF:-1,NHK World-Japan HD 
 http://150.129.9.194:8089/188/index.m3u8?token=test
+#EXTINF:-1,TNT Sports 1 UHD
 http://150.129.9.194:8089/189/index.m3u8?token=test
 http://150.129.9.194:8089/190/index.m3u8?token=test
-
-
-
-
-
