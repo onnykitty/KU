@@ -407,6 +407,7 @@ http://150.129.9.194:8089/146/index.m3u8?token=test
 http://150.129.9.194:8089/147/index.m3u8?token=test
 http://150.129.9.194:8089/148/index.m3u8?token=test
 http://150.129.9.194:8089/149/index.m3u8?token=test
+#EXTINF:-1,Racing TV HD
 http://150.129.9.194:8089/150/index.m3u8?token=test
 http://150.129.9.194:8089/151/index.m3u8?token=test
 #EXTINF:-1,Sky Sports Racing HD
@@ -440,11 +441,12 @@ http://150.129.9.194:8089/166/index.m3u8?token=test
 http://150.129.9.194:8089/167/index.m3u8?token=test
 #EXTINF:-1,Event 9
 http://150.129.9.194:8089/168/index.m3u8?token=test
+#EXTINF:-1,Event 10
 http://150.129.9.194:8089/169/index.m3u8?token=test
 http://150.129.9.194:8089/170/index.m3u8?token=test
 #EXTINF:-1,Sky Sports Tennis UHD
 http://150.129.9.194:8089/171/index.m3u8?token=test
-#EXTINF:-1,Event 10
+#EXTINF:-1,Sky Sports Tennis SD
 http://150.129.9.194:8089/172/index.m3u8?token=test
 #EXTINF:-1,Event 11
 http://150.129.9.194:8089/173/index.m3u8?token=test
@@ -572,6 +574,7 @@ https://7pal.short.gy/skspmaine
 https://7pal.short.gy/ssportsnw
 #EXTINF:-1,Sky Sports Premier League
 https://7pal.short.gy/ssportspl
+
 
 
 
