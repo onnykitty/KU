@@ -1,4 +1,6 @@
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/all.xml.gz"
+#EXTINF:0,ITV
+http://198.16.100.90:8278/itv1_antik/playlist.m3u8
 #EXTINF:0,4Seven
 http://92.118.251.84:8080/4seven/index.m3u8
 #EXTINF:0,5STAR
@@ -574,6 +576,7 @@ https://7pal.short.gy/skspmaine
 https://7pal.short.gy/ssportsnw
 #EXTINF:-1,Sky Sports Premier League
 https://7pal.short.gy/ssportspl
+
 
 
 
