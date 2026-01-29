@@ -501,3 +501,27 @@ http://176.65.146.99:4008/play/a06g/index.m3u8
 http://176.65.146.99:4008/play/a06i/index.m3u8
 #EXTINF:0,WION HD
 http://176.65.146.99:4008/play/a06h/index.m3u8
+#EXTINF:-1,ITV-1
+http://81.137.213.119:4201/bysid/8261
+#EXTINF:-1,ITV-3
+http://81.137.213.119:4201/bysid/8294
+#EXTINF:-1,ITV-2
+http://81.137.213.119:4201/bysid/8325
+#EXTINF:-1,ITV-4
+http://81.137.213.119:4201/bysid/8330
+#EXTINF:-1,ITV Quiz
+http://81.137.213.119:4201/bysid/8340
+#EXTINF:-1,ITV-1 +1
+http://81.137.213.119:4201/bysid/8361
+#EXTINF:-1,Channel-4
+http://81.137.213.119:4201/bysid/8384
+#EXTINF:-1,Film-4
+http://81.137.213.119:4201/bysid/8385
+#EXTINF:-1,More-4
+http://81.137.213.119:4201/bysid/8442
+#EXTINF:-1,E4
+http://81.137.213.119:4201/bysid/8448
+#EXTINF:-1,Channel 4 +1
+http://81.137.213.119:4201/bysid/8452
+#EXTINF:-1,E4 +1
+http://81.137.213.119:4201/bysid/8458
