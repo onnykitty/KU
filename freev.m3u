@@ -1,62 +1,4 @@
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/all.xml.gz"
-#EXTINF:0,4Seven
-http://92.118.251.84:8080/4seven/index.m3u8
-#EXTINF:0,5STAR
-http://92.118.251.84:8080/5star/index.m3u8
-#EXTINF:0,5USA
-http://92.118.251.84:8080/5usa/index.m3u8
-#EXTINF:0,Aljazeera HD
-http://92.118.251.84:8080/aljazeera/index.m3u8
-#EXTINF:0,CBBC HD
-http://92.118.251.84:8080/CBBC/index.m3u8
-#EXTINF:0,CBS Drama
-http://92.118.251.84:8080/cbsdrama/index.m3u8
-#EXTINF:0,CBS Reality
-http://92.118.251.84:8080/cbsreality/index.m3u8
-#EXTINF:0,CGTN
-http://92.118.251.84:8080/CGTN/index.m3u8
-#EXTINF:0,CNN HD
-http://92.118.251.84:8080/CNN/index.m3u8
-#EXTINF:0,E4
-http://92.118.251.84:8080/e4/index.m3u8
-#EXTINF:0,EuroSport 1 HD
-http://92.118.251.84:8080/Eurosport1/index.m3u8
-#EXTINF:0,EuroSport 2 HD
-http://92.118.251.84:8080/Eurosport2/index.m3u8
-#EXTINF:0,Film4
-http://92.118.251.84:8080/film4/index.m3u8
-#EXTINF:0,FoodNetwork
-http://92.118.251.84:8080/FoodNetwork/index.m3u8
-#EXTINF:0,France24
-http://92.118.251.84:8080/France24/index.m3u8
-#EXTINF:0,HGTV
-http://92.118.251.84:8080/HGTV/index.m3u8
-#EXTINF:0,itv2 HD
-http://92.118.251.84:8080/itv2/index.m3u8
-#EXTINF:0,itv4
-http://92.118.251.84:8080/itv4/index.m3u8
-#EXTINF:0,itvbe HD
-http://92.118.251.84:8080/itvbe/index.m3u8
-#EXTINF:0,More4
-http://92.118.251.84:8080/more4/index.m3u8
-#EXTINF:0,MTV
-http://92.118.251.84:8080/MTV/index.m3u8
-#EXTINF:0,POP
-http://92.118.251.84:8080/POP/index.m3u8
-#EXTINF:0,SkyArts
-http://92.118.251.84:8080/SkyArts/index.m3u8
-#EXTINF:0,Sky News
-http://92.118.251.84:8080/SkyNews/index.m3u8
-#EXTINF:0,STV HD
-http://92.118.251.84:8080/stv/index.m3u8
-#EXTINF:0,SYFY
-http://92.118.251.84:8080/syfy/index.m3u8
-#EXTINF:0,TEN HD
-http://92.118.251.84:8080/ten/index.m3u8
-#EXTINF:0,TLC HD
-http://92.118.251.84:8080/TLC/index.m3u8
-#EXTINF:0,UTV HD
-http://92.118.251.84:8080/UTV/index.m3u8
 #EXTINF:-1,Sky Sports F1
 https://7pal.short.gy/ssportsf1
 #EXTINF:-1,Sky Sports F1 UHD
@@ -525,3 +467,4 @@ http://81.137.213.119:4201/bysid/8448
 http://81.137.213.119:4201/bysid/8452
 #EXTINF:-1,E4 +1
 http://81.137.213.119:4201/bysid/8458
+
